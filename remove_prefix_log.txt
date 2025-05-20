@@ -1,0 +1,2733 @@
+开始时间: 2025-05-20 17:15:00
+处理目录: D:\AllRoms\SFC
+模式: 实际去除前缀
+--------------------------------------------------------------------------------
+无前缀: D:\AllRoms\SFC\4 46亿年物语[YNWY].smc (未做更改)
+无前缀: D:\AllRoms\SFC\46亿年物语.sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\A 奥特曼[ATM].smc -> D:\AllRoms\SFC\奥特曼[ATM].smc
+去除前缀: D:\AllRoms\SFC\A 暗影狂奔[AYKB].smc -> D:\AllRoms\SFC\暗影狂奔[AYKB].smc
+去除前缀: D:\AllRoms\SFC\A 暗黑破坏神[AHPHS].smc -> D:\AllRoms\SFC\暗黑破坏神[AHPHS].smc
+去除前缀: D:\AllRoms\SFC\A 阿拉丁无限苹果无限生命[ALDWXPGWXSM].smc -> D:\AllRoms\SFC\阿拉丁无限苹果无限生命[ALDWXPGWXSM].smc
+去除前缀: D:\AllRoms\SFC\B BIG RUN不减时间[BJSJ].smc -> D:\AllRoms\SFC\BIG RUN不减时间[BJSJ].smc
+去除前缀: D:\AllRoms\SFC\B 不可思议之人偶[BKSYZRO].smc -> D:\AllRoms\SFC\不可思议之人偶[BKSYZRO].smc
+去除前缀: D:\AllRoms\SFC\B 兵蜂能源不减[BFNYBJ].smc -> D:\AllRoms\SFC\兵蜂能源不减[BFNYBJ].smc
+去除前缀: D:\AllRoms\SFC\B 北斗神拳7[简][部分汉化][BDSQ7JBFHH].sfc -> D:\AllRoms\SFC\北斗神拳7[简][部分汉化][BDSQ7JBFHH].sfc
+去除前缀: D:\AllRoms\SFC\B 变相怪杰(人数、血格、特殊攻击不减by lihhsy)[BXGJRSXGTSGJBJ].smc -> D:\AllRoms\SFC\变相怪杰(人数、血格、特殊攻击不减by lihhsy)[BXGJRSXGTSGJBJ].smc
+去除前缀: D:\AllRoms\SFC\B 巴巴罗萨[简][BBLSJ].sfc -> D:\AllRoms\SFC\巴巴罗萨[简][BBLSJ].sfc
+去除前缀: D:\AllRoms\SFC\B 波斯王子[BSWZ].smc -> D:\AllRoms\SFC\波斯王子[BSWZ].smc
+去除前缀: D:\AllRoms\SFC\B 蝙蝠鼠2-Aero the Acro-Bat 2全不减[BFS2QBJ].smc -> D:\AllRoms\SFC\蝙蝠鼠2-Aero the Acro-Bat 2全不减[BFS2QBJ].smc
+无前缀: D:\AllRoms\SFC\BB枪大作战.sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\C 丛林王子[CLWZ].smc -> D:\AllRoms\SFC\丛林王子[CLWZ].smc
+去除前缀: D:\AllRoms\SFC\C 传说战士(美)[02CE]不减血，命，炸弹[CSZSMBJXMZD].sfc -> D:\AllRoms\SFC\传说战士(美)[02CE]不减血，命，炸弹[CSZSMBJXMZD].sfc
+去除前缀: D:\AllRoms\SFC\C 冲!冲!恶魔少年2[CCEMSN2].smc -> D:\AllRoms\SFC\冲!冲!恶魔少年2[CCEMSN2].smc
+去除前缀: D:\AllRoms\SFC\C 冲!冲!恶魔少年3[CCEMSN3].smc -> D:\AllRoms\SFC\冲!冲!恶魔少年3[CCEMSN3].smc
+去除前缀: D:\AllRoms\SFC\C 出击飞龙无敌版天龙斩[CJFLWDBTLZ].smc -> D:\AllRoms\SFC\出击飞龙无敌版天龙斩[CJFLWDBTLZ].smc
+去除前缀: D:\AllRoms\SFC\C 创世封魔录[CSFML].smc -> D:\AllRoms\SFC\创世封魔录[CSFML].smc
+去除前缀: D:\AllRoms\SFC\C 创世纪6-伪的预言者[CSJ6WDYYZ].smc -> D:\AllRoms\SFC\创世纪6-伪的预言者[CSJ6WDYYZ].smc
+去除前缀: D:\AllRoms\SFC\C 创世纪7-黑暗之门[CSJ7HAZM].smc -> D:\AllRoms\SFC\创世纪7-黑暗之门[CSJ7HAZM].smc
+去除前缀: D:\AllRoms\SFC\C 创世纪外传-黑骑士的阴谋[CSJWCHQSDYM].smc -> D:\AllRoms\SFC\创世纪外传-黑骑士的阴谋[CSJWCHQSDYM].smc
+去除前缀: D:\AllRoms\SFC\C 创业人生2[CYRS2].smc -> D:\AllRoms\SFC\创业人生2[CYRS2].smc
+去除前缀: D:\AllRoms\SFC\C 沉船危机[CCWJ].smc -> D:\AllRoms\SFC\沉船危机[CCWJ].smc
+去除前缀: D:\AllRoms\SFC\C 沉默之圣战命血时间不减[CMZSZMXSJBJ].smc -> D:\AllRoms\SFC\沉默之圣战命血时间不减[CMZSZMXSJBJ].smc
+去除前缀: D:\AllRoms\SFC\C 财宝猎人G[简][CBLRJ].sfc -> D:\AllRoms\SFC\财宝猎人G[简][CBLRJ].sfc
+去除前缀: D:\AllRoms\SFC\C 超人-死里逢生(绝招不减、人数不减 )[CRSLFSJZBJRSBJ].smc -> D:\AllRoms\SFC\超人-死里逢生(绝招不减、人数不减 )[CRSLFSJZBJRSBJ].smc
+去除前缀: D:\AllRoms\SFC\C 超任-任天堂导弹6[CRRTTDD6].smc -> D:\AllRoms\SFC\超任-任天堂导弹6[CRRTTDD6].smc
+去除前缀: D:\AllRoms\SFC\C 超兄贵-爆裂乱斗篇[CXGBLLDP].smc -> D:\AllRoms\SFC\超兄贵-爆裂乱斗篇[CXGBLLDP].smc
+去除前缀: D:\AllRoms\SFC\C 超时空之钥[简][CSKZYJ].sfc -> D:\AllRoms\SFC\超时空之钥[简][CSKZYJ].sfc
+去除前缀: D:\AllRoms\SFC\C 超时空要塞[CSKYS].smc -> D:\AllRoms\SFC\超时空要塞[CSKYS].smc
+去除前缀: D:\AllRoms\SFC\C 超时空要塞无敌[CSKYSWD].smc -> D:\AllRoms\SFC\超时空要塞无敌[CSKYSWD].smc
+去除前缀: D:\AllRoms\SFC\C 超级中国人世界[CJZGRSJ].smc -> D:\AllRoms\SFC\超级中国人世界[CJZGRSJ].smc
+去除前缀: D:\AllRoms\SFC\C 超级原人2[CJYR2].smc -> D:\AllRoms\SFC\超级原人2[CJYR2].smc
+去除前缀: D:\AllRoms\SFC\C 超级原人[CJYR].smc -> D:\AllRoms\SFC\超级原人[CJYR].smc
+去除前缀: D:\AllRoms\SFC\C 超级战士1(日)无限人无限保护[CJZS1RWXRWXBH].sfc -> D:\AllRoms\SFC\超级战士1(日)无限人无限保护[CJZS1RWXRWXBH].sfc
+去除前缀: D:\AllRoms\SFC\C 超级战士2 (美)无限人无限保护[CJZS2MWXRWXBH].sfc -> D:\AllRoms\SFC\超级战士2 (美)无限人无限保护[CJZS2MWXRWXBH].sfc
+去除前缀: D:\AllRoms\SFC\C 超级战士[CJZS].smc -> D:\AllRoms\SFC\超级战士[CJZS].smc
+去除前缀: D:\AllRoms\SFC\C 超级战鹰[CJZY].smc -> D:\AllRoms\SFC\超级战鹰[CJZY].smc
+去除前缀: D:\AllRoms\SFC\C 超级拳王争夺战[CJQWZDZ].smc -> D:\AllRoms\SFC\超级拳王争夺战[CJQWZDZ].smc
+去除前缀: D:\AllRoms\SFC\C 超级排球2[CJPQ2].smc -> D:\AllRoms\SFC\超级排球2[CJPQ2].smc
+去除前缀: D:\AllRoms\SFC\C 超级梦幻战士4体力不减技能使用数量不减(BY 疾风之狼)[CJMHZS4TLBJJNSYSLBJJFZL].smc -> D:\AllRoms\SFC\超级梦幻战士4体力不减技能使用数量不减(BY 疾风之狼)[CJMHZS4TLBJJNSYSLBJJFZL].smc
+去除前缀: D:\AllRoms\SFC\C 超级炸弹人2[CJZDR2].smc -> D:\AllRoms\SFC\超级炸弹人2[CJZDR2].smc
+去除前缀: D:\AllRoms\SFC\C 超级炸弹人3[CJZDR3].smc -> D:\AllRoms\SFC\超级炸弹人3[CJZDR3].smc
+去除前缀: D:\AllRoms\SFC\C 超级炸弹人4[CJZDR4].smc -> D:\AllRoms\SFC\超级炸弹人4[CJZDR4].smc
+去除前缀: D:\AllRoms\SFC\C 超级炸弹人5[CJZDR5].smc -> D:\AllRoms\SFC\超级炸弹人5[CJZDR5].smc
+去除前缀: D:\AllRoms\SFC\C 超级炸弹人II人时间炸弹威力不减[CJZDRRSJZDWLBJ].smc -> D:\AllRoms\SFC\超级炸弹人II人时间炸弹威力不减[CJZDRRSJZDWLBJ].smc
+去除前缀: D:\AllRoms\SFC\C 超级炸弹人[CJZDR].smc -> D:\AllRoms\SFC\超级炸弹人[CJZDR].smc
+去除前缀: D:\AllRoms\SFC\C 超级炸弹人方块[CJZDRFK].smc -> D:\AllRoms\SFC\超级炸弹人方块[CJZDRFK].smc
+去除前缀: D:\AllRoms\SFC\C 超级直升机3[CJZSJ3].smc -> D:\AllRoms\SFC\超级直升机3[CJZSJ3].smc
+去除前缀: D:\AllRoms\SFC\C 超级街头霸王2 - Fight Again (Hack)[CJJTBW2].smc -> D:\AllRoms\SFC\超级街头霸王2 - Fight Again (Hack)[CJJTBW2].smc
+去除前缀: D:\AllRoms\SFC\C 超级街头霸王2[CJJTBW2].smc -> D:\AllRoms\SFC\超级街头霸王2[CJJTBW2].smc
+去除前缀: D:\AllRoms\SFC\C 超级街头霸王2[简][人名汉化][CJJTBW2JRMHH].sfc -> D:\AllRoms\SFC\超级街头霸王2[简][人名汉化][CJJTBW2JRMHH].sfc
+去除前缀: D:\AllRoms\SFC\C 超级詹姆斯邦德2[CJZMSBD2].smc -> D:\AllRoms\SFC\超级詹姆斯邦德2[CJZMSBD2].smc
+去除前缀: D:\AllRoms\SFC\C 超级转转岛[CJZZD].smc -> D:\AllRoms\SFC\超级转转岛[CJZZD].smc
+去除前缀: D:\AllRoms\SFC\C 超级银河战士[简][CJYHZSJ].sfc -> D:\AllRoms\SFC\超级银河战士[简][CJYHZSJ].sfc
+去除前缀: D:\AllRoms\SFC\C 超级魔法气泡2[CJMFQP2].smc -> D:\AllRoms\SFC\超级魔法气泡2[CJMFQP2].smc
+去除前缀: D:\AllRoms\SFC\C 超级魔法气泡2重制版[CJMFQP2ZZB].smc -> D:\AllRoms\SFC\超级魔法气泡2重制版[CJMFQP2ZZB].smc
+去除前缀: D:\AllRoms\SFC\C 超级魔法气泡[CJMFQP].smc -> D:\AllRoms\SFC\超级魔法气泡[CJMFQP].smc
+去除前缀: D:\AllRoms\SFC\C 超能战士[CNZS].smc -> D:\AllRoms\SFC\超能战士[CNZS].smc
+去除前缀: D:\AllRoms\SFC\C 超越颠峰2[CYDF2].smc -> D:\AllRoms\SFC\超越颠峰2[CYDF2].smc
+去除前缀: D:\AllRoms\SFC\C 超越颠峰[CYDF].smc -> D:\AllRoms\SFC\超越颠峰[CYDF].smc
+去除前缀: D:\AllRoms\SFC\C 超魔法大陆-沃茲[CMFDLWZ].smc -> D:\AllRoms\SFC\超魔法大陆-沃茲[CMFDLWZ].smc
+去除前缀: D:\AllRoms\SFC\C 超魔界大战[CMJDZ].smc -> D:\AllRoms\SFC\超魔界大战[CMJDZ].smc
+去除前缀: D:\AllRoms\SFC\C 超魔界村[CMJC].smc -> D:\AllRoms\SFC\超魔界村[CMJC].smc
+去除前缀: D:\AllRoms\SFC\C 超魔界村半透明[CMJCBTM].smc -> D:\AllRoms\SFC\超魔界村半透明[CMJCBTM].smc
+去除前缀: D:\AllRoms\SFC\C 除灵师GS美神[CLSMS].smc -> D:\AllRoms\SFC\除灵师GS美神[CLSMS].smc
+无前缀: D:\AllRoms\SFC\Cosmo Police Galivan II - Arrow of Justice (Japan).sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\D Darius Twin 无限人数[WXRS].smc -> D:\AllRoms\SFC\Darius Twin 无限人数[WXRS].smc
+去除前缀: D:\AllRoms\SFC\D 动力贩卖[DLFM].smc -> D:\AllRoms\SFC\动力贩卖[DLFM].smc
+去除前缀: D:\AllRoms\SFC\D 动物快打[DWKD].smc -> D:\AllRoms\SFC\动物快打[DWKD].smc
+去除前缀: D:\AllRoms\SFC\D 叮当II能源不减[DDNYBJ].smc -> D:\AllRoms\SFC\叮当II能源不减[DDNYBJ].smc
+去除前缀: D:\AllRoms\SFC\D 哆啦A梦4-大雄和月之王国[简][少量汉化][DLM4DXHYZWGJSLHH].sfc -> D:\AllRoms\SFC\哆啦A梦4-大雄和月之王国[简][少量汉化][DLM4DXHYZWGJSLHH].sfc
+去除前缀: D:\AllRoms\SFC\D 地底魔神[DDMS].smc -> D:\AllRoms\SFC\地底魔神[DDMS].smc
+去除前缀: D:\AllRoms\SFC\D 地底魔神[简][Beta][DDMSJ].sfc -> D:\AllRoms\SFC\地底魔神[简][Beta][DDMSJ].sfc
+去除前缀: D:\AllRoms\SFC\D 地球冒险2[DQMX2].smc -> D:\AllRoms\SFC\地球冒险2[DQMX2].smc
+去除前缀: D:\AllRoms\SFC\D 大力工头POW人不减[DLGTRBJ].smc -> D:\AllRoms\SFC\大力工头POW人不减[DLGTRBJ].smc
+去除前缀: D:\AllRoms\SFC\D 大力工头[DLGT].smc -> D:\AllRoms\SFC\大力工头[DLGT].smc
+去除前缀: D:\AllRoms\SFC\D 大物黑巴斯钓鱼[DWHBSDY].smc -> D:\AllRoms\SFC\大物黑巴斯钓鱼[DWHBSDY].smc
+去除前缀: D:\AllRoms\SFC\D 大盗五卫门4代1[DDWWM4D1].smc -> D:\AllRoms\SFC\大盗五卫门4代1[DDWWM4D1].smc
+去除前缀: D:\AllRoms\SFC\D 大盗伍佑卫门-闪亮道中-我成为舞者的理由[DDWYWMSLDZWCWWZDLY].smc -> D:\AllRoms\SFC\大盗伍佑卫门-闪亮道中-我成为舞者的理由[DDWYWMSLDZWCWWZDLY].smc
+去除前缀: D:\AllRoms\SFC\D 大盗伍佑卫门-雪姬救出绘卷[DDWYWMXJJCHJ].smc -> D:\AllRoms\SFC\大盗伍佑卫门-雪姬救出绘卷[DDWYWMXJJCHJ].smc
+去除前缀: D:\AllRoms\SFC\D 大盗伍佑卫门2-奇天烈将军[DDWYWM2QTLJJ].smc -> D:\AllRoms\SFC\大盗伍佑卫门2-奇天烈将军[DDWYWM2QTLJJ].smc
+去除前缀: D:\AllRoms\SFC\D 大盗伍佑卫门3-狮子重禄兵卫的坚固机器人[DDWYWM3SZZLBWDJGJQR].smc -> D:\AllRoms\SFC\大盗伍佑卫门3-狮子重禄兵卫的坚固机器人[DDWYWM3SZZLBWDJGJQR].smc
+去除前缀: D:\AllRoms\SFC\D 大盗伍右卫门2能源金钱不减[DDWYWM2NYJQBJ].smc -> D:\AllRoms\SFC\大盗伍右卫门2能源金钱不减[DDWYWM2NYJQBJ].smc
+去除前缀: D:\AllRoms\SFC\D 大老二[繁][官][DLEFG].sfc -> D:\AllRoms\SFC\大老二[繁][官][DLEFG].sfc
+去除前缀: D:\AllRoms\SFC\D 大航海时代2[DHHSD2].smc -> D:\AllRoms\SFC\大航海时代2[DHHSD2].smc
+去除前缀: D:\AllRoms\SFC\D 大航海时代[DHHSD].smc -> D:\AllRoms\SFC\大航海时代[DHHSD].smc
+去除前缀: D:\AllRoms\SFC\D 德军总部3D[DJZB3].smc -> D:\AllRoms\SFC\德军总部3D[DJZB3].smc
+去除前缀: D:\AllRoms\SFC\D 打砖块[DZK].smc -> D:\AllRoms\SFC\打砖块[DZK].smc
+去除前缀: D:\AllRoms\SFC\D 斗姬传(日)无限命[DJCRWXM].sfc -> D:\AllRoms\SFC\斗姬传(日)无限命[DJCRWXM].sfc
+去除前缀: D:\AllRoms\SFC\D 点点君[DDJ].smc -> D:\AllRoms\SFC\点点君[DDJ].smc
+去除前缀: D:\AllRoms\SFC\D 电精[简][DJJ].sfc -> D:\AllRoms\SFC\电精[简][DJJ].sfc
+去除前缀: D:\AllRoms\SFC\D 电精人生命气能源不减[DJRSMQNYBJ].smc -> D:\AllRoms\SFC\电精人生命气能源不减[DJRSMQNYBJ].smc
+去除前缀: D:\AllRoms\SFC\D 电脑战机[DNZJ].smc -> D:\AllRoms\SFC\电脑战机[DNZJ].smc
+去除前缀: D:\AllRoms\SFC\D 第3次超级机器人大战[简][D3CCJJQRDZJ].sfc -> D:\AllRoms\SFC\第3次超级机器人大战[简][D3CCJJQRDZJ].sfc
+去除前缀: D:\AllRoms\SFC\D 第4次机器人大战--主角头像替换版[D4CJQRDZZJTXTHB].smc -> D:\AllRoms\SFC\第4次机器人大战--主角头像替换版[D4CJQRDZZJTXTHB].smc
+去除前缀: D:\AllRoms\SFC\D 第4次机器人大战修改版2[D4CJQRDZXGB2].smc -> D:\AllRoms\SFC\第4次机器人大战修改版2[D4CJQRDZXGB2].smc
+去除前缀: D:\AllRoms\SFC\D 第4次超级机器人大战[简][菜单汉化][D4CCJJQRDZJCDHH].sfc -> D:\AllRoms\SFC\第4次超级机器人大战[简][菜单汉化][D4CCJJQRDZJCDHH].sfc
+去除前缀: D:\AllRoms\SFC\D 第一武士[DYWS].smc -> D:\AllRoms\SFC\第一武士[DYWS].smc
+去除前缀: D:\AllRoms\SFC\D 第三次机器人大战hack[DSCJQRDZ].smc -> D:\AllRoms\SFC\第三次机器人大战hack[DSCJQRDZ].smc
+去除前缀: D:\AllRoms\SFC\D 第三次机器大战[DSCJQDZ].smc -> D:\AllRoms\SFC\第三次机器大战[DSCJQDZ].smc
+去除前缀: D:\AllRoms\SFC\D 第四次机器人大战[DSCJQRDZ].smc -> D:\AllRoms\SFC\第四次机器人大战[DSCJQRDZ].smc
+去除前缀: D:\AllRoms\SFC\D 第四次机器人大战机体强化3[DSCJQRDZJTQH3].smc -> D:\AllRoms\SFC\第四次机器人大战机体强化3[DSCJQRDZJTQH3].smc
+去除前缀: D:\AllRoms\SFC\D 第四次机器人大战机体强化4[DSCJQRDZJTQH4].smc -> D:\AllRoms\SFC\第四次机器人大战机体强化4[DSCJQRDZJTQH4].smc
+去除前缀: D:\AllRoms\SFC\D 达摩道场[DMDC].smc -> D:\AllRoms\SFC\达摩道场[DMDC].smc
+去除前缀: D:\AllRoms\SFC\D 达菲鸭火星任务[DFYHXRW].smc -> D:\AllRoms\SFC\达菲鸭火星任务[DFYHXRW].smc
+去除前缀: D:\AllRoms\SFC\D 钓鱼太郎[简][完全汉化][DYTLJWQHH].sfc -> D:\AllRoms\SFC\钓鱼太郎[简][完全汉化][DYTLJWQHH].sfc
+去除前缀: D:\AllRoms\SFC\D 钓鱼太郎[繁][DYTLF].sfc -> D:\AllRoms\SFC\钓鱼太郎[繁][DYTLF].sfc
+去除前缀: D:\AllRoms\SFC\E 恶魔城XX[EMC].smc -> D:\AllRoms\SFC\恶魔城XX[EMC].smc
+去除前缀: D:\AllRoms\SFC\E 恶魔城XX无限血[EMCWXX].smc -> D:\AllRoms\SFC\恶魔城XX无限血[EMCWXX].smc
+去除前缀: D:\AllRoms\SFC\E 恶魔城[EMC].smc -> D:\AllRoms\SFC\恶魔城[EMC].smc
+去除前缀: D:\AllRoms\SFC\E 恶魔城按键HACK zip[EMCAJ].smc -> D:\AllRoms\SFC\恶魔城按键HACK zip[EMCAJ].smc
+去除前缀: D:\AllRoms\SFC\E 恶魔城无限人透明[EMCWXRTM].smc -> D:\AllRoms\SFC\恶魔城无限人透明[EMCWXRTM].smc
+去除前缀: D:\AllRoms\SFC\F F-ZERO Grand Prix 2POWER不減99命(J)[BJ99M].smc -> D:\AllRoms\SFC\F-ZERO Grand Prix 2POWER不減99命(J)[BJ99M].smc
+去除前缀: D:\AllRoms\SFC\F F-ZERO Grand Prix 无限命及P不减[WXMJBJ].smc -> D:\AllRoms\SFC\F-ZERO Grand Prix 无限命及P不减[WXMJBJ].smc
+无前缀: D:\AllRoms\SFC\f f-zero 零式赛车 能量和人数[LSSCNLHRS].smc (未做更改)
+去除前缀: D:\AllRoms\SFC\F F1大奖赛3[DJS3].smc -> D:\AllRoms\SFC\F1大奖赛3[DJS3].smc
+去除前缀: D:\AllRoms\SFC\F FIFA国际足球[GJZQ].smc -> D:\AllRoms\SFC\FIFA国际足球[GJZQ].smc
+去除前缀: D:\AllRoms\SFC\F 弗尔曼真实拳击[FEMZSQJ].smc -> D:\AllRoms\SFC\弗尔曼真实拳击[FEMZSQJ].smc
+去除前缀: D:\AllRoms\SFC\F 绯王传[FWC].smc -> D:\AllRoms\SFC\绯王传[FWC].smc
+去除前缀: D:\AllRoms\SFC\F 翡翠龙.smc -> D:\AllRoms\SFC\翡翠龙.smc
+去除前缀: D:\AllRoms\SFC\F 翡翠龙[FCL].smc -> D:\AllRoms\SFC\翡翠龙[FCL].smc
+去除前缀: D:\AllRoms\SFC\F 风来的西林[简][FLDXLJ].sfc -> D:\AllRoms\SFC\风来的西林[简][FLDXLJ].sfc
+去除前缀: D:\AllRoms\SFC\F 风水回廊记[FSHLJ].smc -> D:\AllRoms\SFC\风水回廊记[FSHLJ].smc
+去除前缀: D:\AllRoms\SFC\F 飞行俱乐部[FXJLB].smc -> D:\AllRoms\SFC\飞行俱乐部[FXJLB].smc
+去除前缀: D:\AllRoms\SFC\F 飞行英雄[FXYX].smc -> D:\AllRoms\SFC\飞行英雄[FXYX].smc
+去除前缀: D:\AllRoms\SFC\F 飞龙之拳S-加强版[FLZQJQB].smc -> D:\AllRoms\SFC\飞龙之拳S-加强版[FLZQJQB].smc
+去除前缀: D:\AllRoms\SFC\F 飞龙之拳S-黄金战士[FLZQHJZS].smc -> D:\AllRoms\SFC\飞龙之拳S-黄金战士[FLZQHJZS].smc
+去除前缀: D:\AllRoms\SFC\G GO!GO!恶魔少年[简][EMSNJ].sfc -> D:\AllRoms\SFC\GO!GO!恶魔少年[简][EMSNJ].sfc
+去除前缀: D:\AllRoms\SFC\G GO!GO!恶魔少年[繁][EMSNF].sfc -> D:\AllRoms\SFC\GO!GO!恶魔少年[繁][EMSNF].sfc
+去除前缀: D:\AllRoms\SFC\G GO恶魔少年HACK(命数不减炸弹不减体力不减修正)BY疾风之狼[EMSNMSBJZDBJTLBJXZJFZL].smc -> D:\AllRoms\SFC\GO恶魔少年HACK(命数不减炸弹不减体力不减修正)BY疾风之狼[EMSNMSBJZDBJTLBJXZJFZL].smc
+去除前缀: D:\AllRoms\SFC\G GO恶魔少年无敌[EMSNWD].smc -> D:\AllRoms\SFC\GO恶魔少年无敌[EMSNWD].smc
+去除前缀: D:\AllRoms\SFC\G GP-1行云流水赛[XYLSS].smc -> D:\AllRoms\SFC\GP-1行云流水赛[XYLSS].smc
+去除前缀: D:\AllRoms\SFC\G GP-1重型机车赛[ZXJCS].smc -> D:\AllRoms\SFC\GP-1重型机车赛[ZXJCS].smc
+去除前缀: D:\AllRoms\SFC\G Gunforce - Battle Fire Engulfed Terror Island 无限人[WXR].smc -> D:\AllRoms\SFC\Gunforce - Battle Fire Engulfed Terror Island 无限人[WXR].smc
+去除前缀: D:\AllRoms\SFC\G 绀碧之舰队[简][GBZJDJ].sfc -> D:\AllRoms\SFC\绀碧之舰队[简][GBZJDJ].sfc
+去除前缀: D:\AllRoms\SFC\G 钢铁战士(日)无限炸弹人[GTZSRWXZDR].sfc -> D:\AllRoms\SFC\钢铁战士(日)无限炸弹人[GTZSRWXZDR].sfc
+去除前缀: D:\AllRoms\SFC\G 钢铁战士[GTZS].smc -> D:\AllRoms\SFC\钢铁战士[GTZS].smc
+去除前缀: D:\AllRoms\SFC\G 高桥名人之大冒险岛2[GQMRZDMXD2].smc -> D:\AllRoms\SFC\高桥名人之大冒险岛2[GQMRZDMXD2].smc
+去除前缀: D:\AllRoms\SFC\G 高桥名人之大冒险岛[GQMRZDMXD].smc -> D:\AllRoms\SFC\高桥名人之大冒险岛[GQMRZDMXD].smc
+去除前缀: D:\AllRoms\SFC\G 高飞狗-海贼岛大冒险[GFGHZDDMX].smc -> D:\AllRoms\SFC\高飞狗-海贼岛大冒险[GFGHZDDMX].smc
+去除前缀: D:\AllRoms\SFC\G 鬼神童子-烈斗雷传[简][GSTZLDLCJ].sfc -> D:\AllRoms\SFC\鬼神童子-烈斗雷传[简][GSTZLDLCJ].sfc
+去除前缀: D:\AllRoms\SFC\G 鬼神童子-烈斗雷传[繁][GSTZLDLCF].sfc -> D:\AllRoms\SFC\鬼神童子-烈斗雷传[繁][GSTZLDLCF].sfc
+去除前缀: D:\AllRoms\SFC\G 鬼神童子-电影雷舞[GSTZDYLW].smc -> D:\AllRoms\SFC\鬼神童子-电影雷舞[GSTZDYLW].smc
+去除前缀: D:\AllRoms\SFC\G 鬼神童子中文版(无限生血命保护)真正无敌版[GSTZZWBWXSXMBHZZWDB].smc -> D:\AllRoms\SFC\鬼神童子中文版(无限生血命保护)真正无敌版[GSTZZWBWXSXMBHZZWDB].smc
+无前缀: D:\AllRoms\SFC\G.O.D-幻想世纪(英译版).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\GO!GO!恶魔少年.sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\H 幻想传说.smc -> D:\AllRoms\SFC\幻想传说.smc
+去除前缀: D:\AllRoms\SFC\H 幻想传说[HXCS].smc -> D:\AllRoms\SFC\幻想传说[HXCS].smc
+去除前缀: D:\AllRoms\SFC\H 毁灭战士[HMZS].smc -> D:\AllRoms\SFC\毁灭战士[HMZS].smc
+去除前缀: D:\AllRoms\SFC\H 浣熊方块[HXFK].smc -> D:\AllRoms\SFC\浣熊方块[HXFK].smc
+去除前缀: D:\AllRoms\SFC\H 火焰之纹章 多拉基亚776中文修改版[HYZWZDLJY776ZWXGB].smc -> D:\AllRoms\SFC\火焰之纹章 多拉基亚776中文修改版[HYZWZDLJY776ZWXGB].smc
+去除前缀: D:\AllRoms\SFC\H 火焰之纹章3-纹章之谜[简][HYZWZ3WZZMJ].sfc -> D:\AllRoms\SFC\火焰之纹章3-纹章之谜[简][HYZWZ3WZZMJ].sfc
+去除前缀: D:\AllRoms\SFC\H 火焰之纹章3-纹章之谜[繁][HYZWZ3WZZMF].sfc -> D:\AllRoms\SFC\火焰之纹章3-纹章之谜[繁][HYZWZ3WZZMF].sfc
+去除前缀: D:\AllRoms\SFC\H 火焰之纹章4-圣战系谱[简][HYZWZ4SZXPJ].sfc -> D:\AllRoms\SFC\火焰之纹章4-圣战系谱[简][HYZWZ4SZXPJ].sfc
+去除前缀: D:\AllRoms\SFC\H 火焰之纹章4-圣战系谱[繁][HYZWZ4SZXPF].sfc -> D:\AllRoms\SFC\火焰之纹章4-圣战系谱[繁][HYZWZ4SZXPF].sfc
+去除前缀: D:\AllRoms\SFC\H 火焰之纹章5-多拉基亚776[简][HYZWZ5DLJY776J].sfc -> D:\AllRoms\SFC\火焰之纹章5-多拉基亚776[简][HYZWZ5DLJY776J].sfc
+去除前缀: D:\AllRoms\SFC\H 火焰之纹章5-多拉基亚776[繁][HYZWZ5DLJY776F].sfc -> D:\AllRoms\SFC\火焰之纹章5-多拉基亚776[繁][HYZWZ5DLJY776F].sfc
+去除前缀: D:\AllRoms\SFC\H 火焰纹章4圣战系谱完美成长率全特技版[HYWZ4SZXPWMCCLQTJB].smc -> D:\AllRoms\SFC\火焰纹章4圣战系谱完美成长率全特技版[HYWZ4SZXPWMCCLQTJB].smc
+去除前缀: D:\AllRoms\SFC\H 火焰纹章4圣战系谱法拉版[HYWZ4SZXPFLB].smc -> D:\AllRoms\SFC\火焰纹章4圣战系谱法拉版[HYWZ4SZXPFLB].smc
+去除前缀: D:\AllRoms\SFC\H 火焰纹章4圣战系谱疯狂版[HYWZ4SZXPFKB].smc -> D:\AllRoms\SFC\火焰纹章4圣战系谱疯狂版[HYWZ4SZXPFKB].smc
+去除前缀: D:\AllRoms\SFC\H 火焰纹章4圣战系谱达人版[HYWZ4SZXPDRB].fig -> D:\AllRoms\SFC\火焰纹章4圣战系谱达人版[HYWZ4SZXPDRB].fig
+去除前缀: D:\AllRoms\SFC\H 火焰纹章4圣战系谱魔剑版[HYWZ4SZXPMJB].smc -> D:\AllRoms\SFC\火焰纹章4圣战系谱魔剑版[HYWZ4SZXPMJB].smc
+去除前缀: D:\AllRoms\SFC\H 皇家战士[HJZS].smc -> D:\AllRoms\SFC\皇家战士[HJZS].smc
+去除前缀: D:\AllRoms\SFC\H 皇家骑士团2[繁][HJQST2F].sfc -> D:\AllRoms\SFC\皇家骑士团2[繁][HJQST2F].sfc
+去除前缀: D:\AllRoms\SFC\H 皇家骑士团[简][HJQSTJ].sfc -> D:\AllRoms\SFC\皇家骑士团[简][HJQSTJ].sfc
+去除前缀: D:\AllRoms\SFC\H 荒野之枪[HYZQ].smc -> D:\AllRoms\SFC\荒野之枪[HYZQ].smc
+去除前缀: D:\AllRoms\SFC\H 荒野双抢无敌版[HYSQWDB].smc -> D:\AllRoms\SFC\荒野双抢无敌版[HYSQWDB].smc
+去除前缀: D:\AllRoms\SFC\H 魂斗罗欧版(无限命无限炸弹HACK)[HDLOBWXMWXZD].smc -> D:\AllRoms\SFC\魂斗罗欧版(无限命无限炸弹HACK)[HDLOBWXMWXZD].smc
+去除前缀: D:\AllRoms\SFC\H 魂斗罗精神[HDLJS].smc -> D:\AllRoms\SFC\魂斗罗精神[HDLJS].smc
+去除前缀: D:\AllRoms\SFC\J J计划-机械少年皮诺[JHJXSNPN].smc -> D:\AllRoms\SFC\J计划-机械少年皮诺[JHJXSNPN].smc
+去除前缀: D:\AllRoms\SFC\J 剑狂-日[JKR].smc -> D:\AllRoms\SFC\剑狂-日[JKR].smc
+去除前缀: D:\AllRoms\SFC\J 剪草人[JCR].smc -> D:\AllRoms\SFC\剪草人[JCR].smc
+去除前缀: D:\AllRoms\SFC\J 加州游戏2[JZYX2].smc -> D:\AllRoms\SFC\加州游戏2[JZYX2].smc
+去除前缀: D:\AllRoms\SFC\J 晶沙之城堡探险[JSZCBTX].smc -> D:\AllRoms\SFC\晶沙之城堡探险[JSZCBTX].smc
+去除前缀: D:\AllRoms\SFC\J 极上Q版沙罗曼蛇[JSBSLMS].smc -> D:\AllRoms\SFC\极上Q版沙罗曼蛇[JSBSLMS].smc
+去除前缀: D:\AllRoms\SFC\J 极恶双雄MTV双傻(牙仔2人组)无敌[JESXSSYZ2RZWD].smc -> D:\AllRoms\SFC\极恶双雄MTV双傻(牙仔2人组)无敌[JESXSSYZ2RZWD].smc
+去除前缀: D:\AllRoms\SFC\J 甲龙传说[JLCS].smc -> D:\AllRoms\SFC\甲龙传说[JLCS].smc
+去除前缀: D:\AllRoms\SFC\J 礁湖传说[JHCS].smc -> D:\AllRoms\SFC\礁湖传说[JHCS].smc
+去除前缀: D:\AllRoms\SFC\J 究极合体战机(日)无限命[JJHTZJRWXM].sfc -> D:\AllRoms\SFC\究极合体战机(日)无限命[JJHTZJRWXM].sfc
+去除前缀: D:\AllRoms\SFC\J 精英军团无限血，命，子弹，法宝[JYJTWXXMZDFB].smc -> D:\AllRoms\SFC\精英军团无限血，命，子弹，法宝[JYJTWXXMZDFB].smc
+去除前缀: D:\AllRoms\SFC\J 绝地大屠杀2死亡游戏2 (美)无限人炸弹全武器子弹不减超爽版[JDDTS2SWYX2MWXRZDQWQZDBJCSB].sfc -> D:\AllRoms\SFC\绝地大屠杀2死亡游戏2 (美)无限人炸弹全武器子弹不减超爽版[JDDTS2SWYX2MWXRZDQWQZDBJCSB].sfc
+去除前缀: D:\AllRoms\SFC\J 街头格斗组合[JTGDZH].smc -> D:\AllRoms\SFC\街头格斗组合[JTGDZH].smc
+去除前缀: D:\AllRoms\SFC\J 街头赛车手[JTSCS].smc -> D:\AllRoms\SFC\街头赛车手[JTSCS].smc
+去除前缀: D:\AllRoms\SFC\J 街头霸王2-天下斗士[JTBW2TXDS].smc -> D:\AllRoms\SFC\街头霸王2-天下斗士[JTBW2TXDS].smc
+去除前缀: D:\AllRoms\SFC\J 街头霸王2加强版-超级战士[JTBW2JQBCJZS].smc -> D:\AllRoms\SFC\街头霸王2加强版-超级战士[JTBW2JQBCJZS].smc
+去除前缀: D:\AllRoms\SFC\J 街头霸王5超强版[JTBW5CQB].smc -> D:\AllRoms\SFC\街头霸王5超强版[JTBW5CQB].smc
+去除前缀: D:\AllRoms\SFC\J 近郊冒险队[JJMXD].smc -> D:\AllRoms\SFC\近郊冒险队[JJMXD].smc
+去除前缀: D:\AllRoms\SFC\J 迦楼罗王[JLLW].smc -> D:\AllRoms\SFC\迦楼罗王[JLLW].smc
+去除前缀: D:\AllRoms\SFC\J 金刚狼[JGL].smc -> D:\AllRoms\SFC\金刚狼[JGL].smc
+去除前缀: D:\AllRoms\SFC\J 金属战队[JSZD].smc -> D:\AllRoms\SFC\金属战队[JSZD].smc
+无前缀: D:\AllRoms\SFC\JoJo的奇妙冒险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\Jurassic Park Part 2 - The Chaos Continues (USA) (En,Fr,De,It).sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\K 卡比滚球[KBGQ].smc -> D:\AllRoms\SFC\卡比滚球[KBGQ].smc
+去除前缀: D:\AllRoms\SFC\K 卡通乐园[KTLY].smc -> D:\AllRoms\SFC\卡通乐园[KTLY].smc
+去除前缀: D:\AllRoms\SFC\K 卡通天蚕变[KTTCB].smc -> D:\AllRoms\SFC\卡通天蚕变[KTTCB].smc
+去除前缀: D:\AllRoms\SFC\K 快打刑事-乱[KDXSL].smc -> D:\AllRoms\SFC\快打刑事-乱[KDXSL].smc
+去除前缀: D:\AllRoms\SFC\K 快打刑事-修罗[KDXSXL].smc -> D:\AllRoms\SFC\快打刑事-修罗[KDXSXL].smc
+去除前缀: D:\AllRoms\SFC\K 快打刑事.smc -> D:\AllRoms\SFC\快打刑事.smc
+去除前缀: D:\AllRoms\SFC\K 快打刑事[KDXS].smc -> D:\AllRoms\SFC\快打刑事[KDXS].smc
+去除前缀: D:\AllRoms\SFC\K 快打旋风 2无限人数[KDXF2WXRS].smc -> D:\AllRoms\SFC\快打旋风 2无限人数[KDXF2WXRS].smc
+去除前缀: D:\AllRoms\SFC\K 快打旋风-朋友[KDXFPY].smc -> D:\AllRoms\SFC\快打旋风-朋友[KDXFPY].smc
+去除前缀: D:\AllRoms\SFC\K 快打旋风1代无限命[KDXF1DWXM].smc -> D:\AllRoms\SFC\快打旋风1代无限命[KDXF1DWXM].smc
+去除前缀: D:\AllRoms\SFC\K 快打旋风2[KDXF2].smc -> D:\AllRoms\SFC\快打旋风2[KDXF2].smc
+去除前缀: D:\AllRoms\SFC\K 快打旋风3[KDXF3].smc -> D:\AllRoms\SFC\快打旋风3[KDXF3].smc
+去除前缀: D:\AllRoms\SFC\K 快打旋风3终极HACK版[KDXF3ZJB].smc -> D:\AllRoms\SFC\快打旋风3终极HACK版[KDXF3ZJB].smc
+去除前缀: D:\AllRoms\SFC\K 快打旋风[简][KDXFJ].sfc -> D:\AllRoms\SFC\快打旋风[简][KDXFJ].sfc
+无前缀: D:\AllRoms\SFC\Kamen Rider (Japan) (Rev 1).sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\L 洛克人7-宿命的对决[LKR7SMDDJ].smc -> D:\AllRoms\SFC\洛克人7-宿命的对决[LKR7SMDDJ].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人X 修改版(V1[LKRXGB].sfc -> D:\AllRoms\SFC\洛克人X 修改版(V1[LKRXGB].sfc
+去除前缀: D:\AllRoms\SFC\L 洛克人X2[LKR].smc -> D:\AllRoms\SFC\洛克人X2[LKR].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人X2不减血[LKRBJX].smc -> D:\AllRoms\SFC\洛克人X2不减血[LKRBJX].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人X3[LKR].smc -> D:\AllRoms\SFC\洛克人X3[LKR].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人X3能力加强版[LKRNLJQB].smc -> D:\AllRoms\SFC\洛克人X3能力加强版[LKRNLJQB].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人X[LKR].smc -> D:\AllRoms\SFC\洛克人X[LKR].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人X初始拥有全武器版[LKRCSYYQWQB].smc -> D:\AllRoms\SFC\洛克人X初始拥有全武器版[LKRCSYYQWQB].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人_X3_ZERO版无限人[LKRBWXR].smc -> D:\AllRoms\SFC\洛克人_X3_ZERO版无限人[LKRBWXR].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人与佛鲁迪[LKRYFLD].smc -> D:\AllRoms\SFC\洛克人与佛鲁迪[LKRYFLD].smc
+去除前缀: D:\AllRoms\SFC\L 洛克人和佛罗迪HACK版[LKRHFLDB].sfc -> D:\AllRoms\SFC\洛克人和佛罗迪HACK版[LKRHFLDB].sfc
+去除前缀: D:\AllRoms\SFC\L 洛克人足球[LKRZQ].smc -> D:\AllRoms\SFC\洛克人足球[LKRZQ].smc
+去除前缀: D:\AllRoms\SFC\L 流浪之岛[LLZD].smc -> D:\AllRoms\SFC\流浪之岛[LLZD].smc
+去除前缀: D:\AllRoms\SFC\L 浪漫沙加3技能法术0消耗版[LMSJ3JNFS0XHB].smc -> D:\AllRoms\SFC\浪漫沙加3技能法术0消耗版[LMSJ3JNFS0XHB].smc
+去除前缀: D:\AllRoms\SFC\L 浪漫沙加3装备怪物强化版[LMSJ3ZBGWQHB].smc -> D:\AllRoms\SFC\浪漫沙加3装备怪物强化版[LMSJ3ZBGWQHB].smc
+去除前缀: D:\AllRoms\SFC\L 猎杀红色十月[LSHSSY].smc -> D:\AllRoms\SFC\猎杀红色十月[LSHSSY].smc
+去除前缀: D:\AllRoms\SFC\L 立体跳方块3[LTTFK3].smc -> D:\AllRoms\SFC\立体跳方块3[LTTFK3].smc
+去除前缀: D:\AllRoms\SFC\L 里迪克鲍拳击[LDKBQJ].smc -> D:\AllRoms\SFC\里迪克鲍拳击[LDKBQJ].smc
+去除前缀: D:\AllRoms\SFC\L 铃木亚久里F1超级赛车[LMYJLCJSC].smc -> D:\AllRoms\SFC\铃木亚久里F1超级赛车[LMYJLCJSC].smc
+去除前缀: D:\AllRoms\SFC\L 零式特攻队 (US)无限血，镖，命[LSTGDWXXBM].smc -> D:\AllRoms\SFC\零式特攻队 (US)无限血，镖，命[LSTGDWXXBM].smc
+去除前缀: D:\AllRoms\SFC\L 零式赛车[LSSC].smc -> D:\AllRoms\SFC\零式赛车[LSSC].smc
+去除前缀: D:\AllRoms\SFC\L 雷电[LD].smc -> D:\AllRoms\SFC\雷电[LD].smc
+去除前缀: D:\AllRoms\SFC\L 雷电传说[LDCS].smc -> D:\AllRoms\SFC\雷电传说[LDCS].smc
+去除前缀: D:\AllRoms\SFC\L 雷莎出击2[LSCJ2].smc -> D:\AllRoms\SFC\雷莎出击2[LSCJ2].smc
+去除前缀: D:\AllRoms\SFC\L 雷莎出击[LSCJ].smc -> D:\AllRoms\SFC\雷莎出击[LSCJ].smc
+去除前缀: D:\AllRoms\SFC\L 雷霆机器人[LTJQR].smc -> D:\AllRoms\SFC\雷霆机器人[LTJQR].smc
+去除前缀: D:\AllRoms\SFC\L 雷霆英豪(无限命人八种武器无限子弹)[LTYHWXMRBZWQWXZD].sfc -> D:\AllRoms\SFC\雷霆英豪(无限命人八种武器无限子弹)[LTYHWXMRBZWQWXZD].sfc
+去除前缀: D:\AllRoms\SFC\L 龙与地下城-魔眼杀机[LYDXCMYSJ].smc -> D:\AllRoms\SFC\龙与地下城-魔眼杀机[LYDXCMYSJ].smc
+去除前缀: D:\AllRoms\SFC\L 龙战士2-使命之子[LZS2SMZZ].smc -> D:\AllRoms\SFC\龙战士2-使命之子[LZS2SMZZ].smc
+去除前缀: D:\AllRoms\SFC\L 龙战士[LZS].smc -> D:\AllRoms\SFC\龙战士[LZS].smc
+去除前缀: D:\AllRoms\SFC\L 龙王[LW].smc -> D:\AllRoms\SFC\龙王[LW].smc
+去除前缀: D:\AllRoms\SFC\L 龙王战士HACK[LWZS].smc -> D:\AllRoms\SFC\龙王战士HACK[LWZS].smc
+去除前缀: D:\AllRoms\SFC\L 龙珠Z-超悟空传-觉醒篇[LZCWKCJXP].smc -> D:\AllRoms\SFC\龙珠Z-超悟空传-觉醒篇[LZCWKCJXP].smc
+去除前缀: D:\AllRoms\SFC\L 龙珠Z-超次元战记[LZCCYZJ].smc -> D:\AllRoms\SFC\龙珠Z-超次元战记[LZCCYZJ].smc
+去除前缀: D:\AllRoms\SFC\L 龙珠Z-超武斗传3[LZCWDC3].smc -> D:\AllRoms\SFC\龙珠Z-超武斗传3[LZCWDC3].smc
+去除前缀: D:\AllRoms\SFC\L 龙珠Z-超武斗传[LZCWDC].smc -> D:\AllRoms\SFC\龙珠Z-超武斗传[LZCWDC].smc
+去除前缀: D:\AllRoms\SFC\L 龙珠Z-超级赛亚人传说[LZCJSYRCS].smc -> D:\AllRoms\SFC\龙珠Z-超级赛亚人传说[LZCJSYRCS].smc
+去除前缀: D:\AllRoms\SFC\L 龙珠Z超悟空传-觉醒篇[简][少量汉化][LZCWKCJXPJSLHH].sfc -> D:\AllRoms\SFC\龙珠Z超悟空传-觉醒篇[简][少量汉化][LZCWKCJXPJSLHH].sfc
+去除前缀: D:\AllRoms\SFC\L 龙穴历险记[LXLXJ].smc -> D:\AllRoms\SFC\龙穴历险记[LXLXJ].smc
+去除前缀: D:\AllRoms\SFC\L 龙骑兵团[LQBT].smc -> D:\AllRoms\SFC\龙骑兵团[LQBT].smc
+无前缀: D:\AllRoms\SFC\list.bat (未做更改)
+去除前缀: D:\AllRoms\SFC\M 梦幻模拟战2[MHMNZ2].smc -> D:\AllRoms\SFC\梦幻模拟战2[MHMNZ2].smc
+去除前缀: D:\AllRoms\SFC\M 梦幻模拟战DER商店物品价格修改商店物品价格修改_BY_疾风之狼[MHMNZSDWPJGXGSDWPJGXGJFZL].smc -> D:\AllRoms\SFC\梦幻模拟战DER商店物品价格修改商店物品价格修改_BY_疾风之狼[MHMNZSDWPJGXGSDWPJGXGJFZL].smc
+去除前缀: D:\AllRoms\SFC\M 梦幻模拟战之小刀会[MHMNZZXDH].smc -> D:\AllRoms\SFC\梦幻模拟战之小刀会[MHMNZZXDH].smc
+去除前缀: D:\AllRoms\SFC\M 梦幻模拟战衍生版HACK 1[MHMNZYSB].smc -> D:\AllRoms\SFC\梦幻模拟战衍生版HACK 1[MHMNZYSB].smc
+去除前缀: D:\AllRoms\SFC\M 梦想家[简][MXJJ].sfc -> D:\AllRoms\SFC\梦想家[简][MXJJ].sfc
+去除前缀: D:\AllRoms\SFC\M 梦迷宫大冒险[MMGDMX].smc -> D:\AllRoms\SFC\梦迷宫大冒险[MMGDMX].smc
+去除前缀: D:\AllRoms\SFC\M 棉花小魔女修改了法力无限[MHXMNXGLFLWX].smc -> D:\AllRoms\SFC\棉花小魔女修改了法力无限[MHXMNXGLFLWX].smc
+去除前缀: D:\AllRoms\SFC\M 秘境魔宝2[MJMB2].smc -> D:\AllRoms\SFC\秘境魔宝2[MJMB2].smc
+去除前缀: D:\AllRoms\SFC\M 秘境魔宝美少女篇[MJMBMSNP].smc -> D:\AllRoms\SFC\秘境魔宝美少女篇[MJMBMSNP].smc
+去除前缀: D:\AllRoms\SFC\M 米奇和米妮-魔法冒险2[MQHMNMFMX2].smc -> D:\AllRoms\SFC\米奇和米妮-魔法冒险2[MQHMNMFMX2].smc
+去除前缀: D:\AllRoms\SFC\M 米老鼠-魔法冒险[MLSMFMX].smc -> D:\AllRoms\SFC\米老鼠-魔法冒险[MLSMFMX].smc
+去除前缀: D:\AllRoms\SFC\M 米老鼠与唐老鸭-魔法冒险3[MLSYTLYMFMX3].smc -> D:\AllRoms\SFC\米老鼠与唐老鸭-魔法冒险3[MLSYTLYMFMX3].smc
+去除前缀: D:\AllRoms\SFC\M 米老鼠东京迪士尼乐园大冒险[MLSDJDSNLYDMX].smc -> D:\AllRoms\SFC\米老鼠东京迪士尼乐园大冒险[MLSDJDSNLYDMX].smc
+去除前缀: D:\AllRoms\SFC\M 米老鼠历险记[MLSLXJ].smc -> D:\AllRoms\SFC\米老鼠历险记[MLSLXJ].smc
+去除前缀: D:\AllRoms\SFC\M 美国上尉(美)无限血，命[MGSWMWXXM].sfc -> D:\AllRoms\SFC\美国上尉(美)无限血，命[MGSWMWXXM].sfc
+去除前缀: D:\AllRoms\SFC\M 美食战队-蔷薇野郎血不减(怕电灯人)敌一击死[MSZDQWYLXBJPDDRDYJS].smc -> D:\AllRoms\SFC\美食战队-蔷薇野郎血不减(怕电灯人)敌一击死[MSZDQWYLXBJPDDRDYJS].smc
+去除前缀: D:\AllRoms\SFC\M 迷宫魔兽[MGMS].smc -> D:\AllRoms\SFC\迷宫魔兽[MGMS].smc
+去除前缀: D:\AllRoms\SFC\M 魔兽王(J)无限血，命[MSWWXXM].sfc -> D:\AllRoms\SFC\魔兽王(J)无限血，命[MSWWXXM].sfc
+去除前缀: D:\AllRoms\SFC\M 魔兽王HACK版，命血时间不减BY甲鱼[MSWBMXSJBJJY].smc -> D:\AllRoms\SFC\魔兽王HACK版，命血时间不减BY甲鱼[MSWBMXSJBJJY].smc
+去除前缀: D:\AllRoms\SFC\M 魔兽王[MSW].smc -> D:\AllRoms\SFC\魔兽王[MSW].smc
+去除前缀: D:\AllRoms\SFC\M 魔力小马[MLXM].smc -> D:\AllRoms\SFC\魔力小马[MLXM].smc
+去除前缀: D:\AllRoms\SFC\M 魔导物语-大幼稚园儿[MDWYDYZYE].smc -> D:\AllRoms\SFC\魔导物语-大幼稚园儿[MDWYDYZYE].smc
+去除前缀: D:\AllRoms\SFC\M 魔星迷踪-古代机械的记忆[MXMZGDJXDJY].smc -> D:\AllRoms\SFC\魔星迷踪-古代机械的记忆[MXMZGDJXDJY].smc
+去除前缀: D:\AllRoms\SFC\M 魔星迷踪2-封印的使徒[MXMZ2FYDST].smc -> D:\AllRoms\SFC\魔星迷踪2-封印的使徒[MXMZ2FYDST].smc
+去除前缀: D:\AllRoms\SFC\M 魔术强森的超级灌篮[MSQSDCJGL].smc -> D:\AllRoms\SFC\魔术强森的超级灌篮[MSQSDCJGL].smc
+去除前缀: D:\AllRoms\SFC\M 魔法剑(J)无限血[MFJWXX].sfc -> D:\AllRoms\SFC\魔法剑(J)无限血[MFJWXX].sfc
+去除前缀: D:\AllRoms\SFC\M 魔法堆球2[MFDQ2].smc -> D:\AllRoms\SFC\魔法堆球2[MFDQ2].smc
+去除前缀: D:\AllRoms\SFC\M 魔法堆球[MFDQ].smc -> D:\AllRoms\SFC\魔法堆球[MFDQ].smc
+去除前缀: D:\AllRoms\SFC\M 魔法大进击[MFDJJ].smc -> D:\AllRoms\SFC\魔法大进击[MFDJJ].smc
+去除前缀: D:\AllRoms\SFC\M 魔法大进击无敌[MFDJJWD].smc -> D:\AllRoms\SFC\魔法大进击无敌[MFDJJWD].smc
+去除前缀: D:\AllRoms\SFC\M 魔法师历险记[MFSLXJ].smc -> D:\AllRoms\SFC\魔法师历险记[MFSLXJ].smc
+去除前缀: D:\AllRoms\SFC\M 魔法提琴手[MFTQS].smc -> D:\AllRoms\SFC\魔法提琴手[MFTQS].smc
+去除前缀: D:\AllRoms\SFC\M 魔法提琴手_无敌版(无限命、时间、全宠物)[MFTQSWDBWXMSJQCW].smc -> D:\AllRoms\SFC\魔法提琴手_无敌版(无限命、时间、全宠物)[MFTQSWDBWXMSJQCW].smc
+去除前缀: D:\AllRoms\SFC\M 魔法气泡奇特版[MFQPQTB].smc -> D:\AllRoms\SFC\魔法气泡奇特版[MFQPQTB].smc
+去除前缀: D:\AllRoms\SFC\M 魔法气泡运动大对决[MFQPYDDDJ].smc -> D:\AllRoms\SFC\魔法气泡运动大对决[MFQPYDDDJ].smc
+去除前缀: D:\AllRoms\SFC\M 魔法骑士-雷阿斯[MFQSLAS].smc -> D:\AllRoms\SFC\魔法骑士-雷阿斯[MFQSLAS].smc
+去除前缀: D:\AllRoms\SFC\M 魔界佣兵2-光与暗的传说[MJYB2GYADCS].smc -> D:\AllRoms\SFC\魔界佣兵2-光与暗的传说[MJYB2GYADCS].smc
+去除前缀: D:\AllRoms\SFC\M 魔界村外传-纹章篇[MJCWCWZP].smc -> D:\AllRoms\SFC\魔界村外传-纹章篇[MJCWCWZP].smc
+去除前缀: D:\AllRoms\SFC\M 魔神转生2[简][MSZS2J].sfc -> D:\AllRoms\SFC\魔神转生2[简][MSZS2J].sfc
+去除前缀: D:\AllRoms\SFC\M 魔神转生2[繁][MSZS2F].sfc -> D:\AllRoms\SFC\魔神转生2[繁][MSZS2F].sfc
+无前缀: D:\AllRoms\SFC\Maten Densetsu - Senritsu no Ooparts (Japan).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\Melfand Stories (Japan).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\metadata.pegasus.txt (未做更改)
+去除前缀: D:\AllRoms\SFC\N 南国少年氣功人不減[NGSNQGRBJ].smc -> D:\AllRoms\SFC\南国少年氣功人不減[NGSNQGRBJ].smc
+去除前缀: D:\AllRoms\SFC\N 尼格尔曼塞尔的F1挑战赛[NGEMSEDTZS].smc -> D:\AllRoms\SFC\尼格尔曼塞尔的F1挑战赛[NGEMSEDTZS].smc
+去除前缀: D:\AllRoms\SFC\N 怒之要塞[NZYS].smc -> D:\AllRoms\SFC\怒之要塞[NZYS].smc
+去除前缀: D:\AllRoms\SFC\N 纽曼哈斯印地赛车[NMHSYDSC].smc -> D:\AllRoms\SFC\纽曼哈斯印地赛车[NMHSYDSC].smc
+无前缀: D:\AllRoms\SFC\NBA Give 'n Go (USA).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\Neugier (J) (patched).smc (未做更改)
+去除前缀: D:\AllRoms\SFC\O 欧陆战线[OLZX].smc -> D:\AllRoms\SFC\欧陆战线[OLZX].smc
+去除前缀: D:\AllRoms\SFC\P 庞克勇士(无限人)[PKYSWXR].sfc -> D:\AllRoms\SFC\庞克勇士(无限人)[PKYSWXR].sfc
+去除前缀: D:\AllRoms\SFC\P 拼图对决[PTDJ].smc -> D:\AllRoms\SFC\拼图对决[PTDJ].smc
+去除前缀: D:\AllRoms\SFC\P 排球大战[PQDZ].smc -> D:\AllRoms\SFC\排球大战[PQDZ].smc
+去除前缀: D:\AllRoms\SFC\P 普罗克大冒险[PLKDMX].smc -> D:\AllRoms\SFC\普罗克大冒险[PLKDMX].smc
+去除前缀: D:\AllRoms\SFC\P 泡泡龙[PPL].smc -> D:\AllRoms\SFC\泡泡龙[PPL].smc
+去除前缀: D:\AllRoms\SFC\P 苹果核战[PGHZ].smc -> D:\AllRoms\SFC\苹果核战[PGHZ].smc
+去除前缀: D:\AllRoms\SFC\P 蓬莱学园之冒险[PLXYZMX].smc -> D:\AllRoms\SFC\蓬莱学园之冒险[PLXYZMX].smc
+去除前缀: D:\AllRoms\SFC\Q Q版沙罗曼蛇-疯狂大射击[BSLMSFKDSJ].smc -> D:\AllRoms\SFC\Q版沙罗曼蛇-疯狂大射击[BSLMSFKDSJ].smc
+去除前缀: D:\AllRoms\SFC\Q 七喜小子[QXXZ].smc -> D:\AllRoms\SFC\七喜小子[QXXZ].smc
+去除前缀: D:\AllRoms\SFC\Q 奇奇怪界-月夜草子[QQGJYYCZ].smc -> D:\AllRoms\SFC\奇奇怪界-月夜草子[QQGJYYCZ].smc
+去除前缀: D:\AllRoms\SFC\Q 奇奇怪界-谜之黑斗篷[QQGJMZHDP].smc -> D:\AllRoms\SFC\奇奇怪界-谜之黑斗篷[QQGJMZHDP].smc
+去除前缀: D:\AllRoms\SFC\Q 奇奇怪界1美版无敌无限保护护身符超常时间[QQGJ1MBWDWXBHHSFCCSJ].smc -> D:\AllRoms\SFC\奇奇怪界1美版无敌无限保护护身符超常时间[QQGJ1MBWDWXBHHSFCCSJ].smc
+去除前缀: D:\AllRoms\SFC\Q 奇奇怪界2无限命骑狮子无限命版[QQGJ2WXMQSZWXMB].smc -> D:\AllRoms\SFC\奇奇怪界2无限命骑狮子无限命版[QQGJ2WXMQSZWXMB].smc
+去除前缀: D:\AllRoms\SFC\Q 奇异-猴子们的宝岛[简][QYHZMDBDJ].sfc -> D:\AllRoms\SFC\奇异-猴子们的宝岛[简][QYHZMDBDJ].sfc
+去除前缀: D:\AllRoms\SFC\Q 奇波方块[QBFK].smc -> D:\AllRoms\SFC\奇波方块[QBFK].smc
+去除前缀: D:\AllRoms\SFC\R Rendering_Ranger_R2_(J)命数不减_BY_疾风之狼[MSBJJFZL].sfc -> D:\AllRoms\SFC\Rendering_Ranger_R2_(J)命数不减_BY_疾风之狼[MSBJJFZL].sfc
+去除前缀: D:\AllRoms\SFC\R RPM赛车[SC].smc -> D:\AllRoms\SFC\RPM赛车[SC].smc
+去除前缀: D:\AllRoms\SFC\R 忍者战士牙无敌版[RZZSYWDB].smc -> D:\AllRoms\SFC\忍者战士牙无敌版[RZZSYWDB].smc
+去除前缀: D:\AllRoms\SFC\R 忍者神龟-及时海龟[RZSGJSHG].smc -> D:\AllRoms\SFC\忍者神龟-及时海龟[RZSGJSHG].smc
+去除前缀: D:\AllRoms\SFC\R 忍者神龟-突变武士[RZSGTBWS].smc -> D:\AllRoms\SFC\忍者神龟-突变武士[RZSGTBWS].smc
+去除前缀: D:\AllRoms\SFC\R 忍者神龟4命无限[RZSG4MWX].smc -> D:\AllRoms\SFC\忍者神龟4命无限[RZSG4MWX].smc
+去除前缀: D:\AllRoms\SFC\R 忍者蛙[RZW].smc -> D:\AllRoms\SFC\忍者蛙[RZW].smc
+去除前缀: D:\AllRoms\SFC\R 忍者龙剑传-巴[RZLJCB].smc -> D:\AllRoms\SFC\忍者龙剑传-巴[RZLJCB].smc
+去除前缀: D:\AllRoms\SFC\R 忍者龙剑传3合1(血不减+无限命+忍术无限[RZLJC3H1XBJWXMRSWX].sfc -> D:\AllRoms\SFC\忍者龙剑传3合1(血不减+无限命+忍术无限[RZLJC3H1XBJWXMRSWX].sfc
+去除前缀: D:\AllRoms\SFC\R 热爆赛车2[RBSC2].smc -> D:\AllRoms\SFC\热爆赛车2[RBSC2].smc
+去除前缀: D:\AllRoms\SFC\R 热爆赛车[RBSC].smc -> D:\AllRoms\SFC\热爆赛车[RBSC].smc
+去除前缀: D:\AllRoms\SFC\S SD快打外传不减能源[KDWCBJNY].smc -> D:\AllRoms\SFC\SD快打外传不减能源[KDWCBJNY].smc
+去除前缀: D:\AllRoms\SFC\S SD超人大挑战无限人[CRDTZWXR].smc -> D:\AllRoms\SFC\SD超人大挑战无限人[CRDTZWXR].smc
+去除前缀: D:\AllRoms\SFC\S SD高达X[GD].smc -> D:\AllRoms\SFC\SD高达X[GD].smc
+去除前缀: D:\AllRoms\SFC\S SFC名将无限人数[MJWXRS].smc -> D:\AllRoms\SFC\SFC名将无限人数[MJWXRS].smc
+去除前缀: D:\AllRoms\SFC\S 三丽鸥世界-爆裂斗球[SLOSJBLDQ].smc -> D:\AllRoms\SFC\三丽鸥世界-爆裂斗球[SLOSJBLDQ].smc
+去除前缀: D:\AllRoms\SFC\S 三国志2[SGZ2].smc -> D:\AllRoms\SFC\三国志2[SGZ2].smc
+去除前缀: D:\AllRoms\SFC\S 三国志3(中文版)[SGZ3ZWB].sfc -> D:\AllRoms\SFC\三国志3(中文版)[SGZ3ZWB].sfc
+去除前缀: D:\AllRoms\SFC\S 三国志3[繁][官][SGZ3FG].sfc -> D:\AllRoms\SFC\三国志3[繁][官][SGZ3FG].sfc
+去除前缀: D:\AllRoms\SFC\S 三国志3威力加强版[SGZ3WLJQB].smc -> D:\AllRoms\SFC\三国志3威力加强版[SGZ3WLJQB].smc
+去除前缀: D:\AllRoms\SFC\S 三国志4[SGZ4].smc -> D:\AllRoms\SFC\三国志4[SGZ4].smc
+去除前缀: D:\AllRoms\SFC\S 三国志英杰传[简][SGZYJCJ].sfc -> D:\AllRoms\SFC\三国志英杰传[简][SGZYJCJ].sfc
+去除前缀: D:\AllRoms\SFC\S 双枪[SQ].smc -> D:\AllRoms\SFC\双枪[SQ].smc
+去除前缀: D:\AllRoms\SFC\S 四狂神战记2[SKSZJ2].smc -> D:\AllRoms\SFC\四狂神战记2[SKSZJ2].smc
+去除前缀: D:\AllRoms\SFC\S 四狂神战记[SKSZJ].smc -> D:\AllRoms\SFC\四狂神战记[SKSZJ].smc
+去除前缀: D:\AllRoms\SFC\S 圣剑传说2.smc -> D:\AllRoms\SFC\圣剑传说2.smc
+去除前缀: D:\AllRoms\SFC\S 圣剑传说2[SJCS2].smc -> D:\AllRoms\SFC\圣剑传说2[SJCS2].smc
+去除前缀: D:\AllRoms\SFC\S 圣剑传说3[繁][SJCS3F].sfc -> D:\AllRoms\SFC\圣剑传说3[繁][SJCS3F].sfc
+去除前缀: D:\AllRoms\SFC\S 圣灵珠传说2[SLZCS2].smc -> D:\AllRoms\SFC\圣灵珠传说2[SLZCS2].smc
+去除前缀: D:\AllRoms\SFC\S 圣龙传说[SLCS].smc -> D:\AllRoms\SFC\圣龙传说[SLCS].smc
+去除前缀: D:\AllRoms\SFC\S 塞尔达传说[繁][SEDCSF].sfc -> D:\AllRoms\SFC\塞尔达传说[繁][SEDCSF].sfc
+去除前缀: D:\AllRoms\SFC\S 塞尔达传说中文_HACK版[SEDCSZWB].smc -> D:\AllRoms\SFC\塞尔达传说中文_HACK版[SEDCSZWB].smc
+去除前缀: D:\AllRoms\SFC\S 失落的维京人[SLDWJR].smc -> D:\AllRoms\SFC\失落的维京人[SLDWJR].smc
+去除前缀: D:\AllRoms\SFC\S 实况Q版沙罗曼蛇[SKBSLMS].smc -> D:\AllRoms\SFC\实况Q版沙罗曼蛇[SKBSLMS].smc
+去除前缀: D:\AllRoms\SFC\S 实战巴斯钓鱼必胜法[SZBSDYBSF].smc -> D:\AllRoms\SFC\实战巴斯钓鱼必胜法[SZBSDYBSF].smc
+去除前缀: D:\AllRoms\SFC\S 时空之旅[繁][SKZLF].sfc -> D:\AllRoms\SFC\时空之旅[繁][SKZLF].sfc
+去除前缀: D:\AllRoms\SFC\S 时空之旅中文版人物加强版[SKZLZWBRWJQB].smc -> D:\AllRoms\SFC\时空之旅中文版人物加强版[SKZLZWBRWJQB].smc
+去除前缀: D:\AllRoms\SFC\S 时空之旅中文版技能魔法消耗0 BY 疾风之狼[SKZLZWBJNMFXH0JFZL].smc -> D:\AllRoms\SFC\时空之旅中文版技能魔法消耗0 BY 疾风之狼[SKZLZWBJNMFXH0JFZL].smc
+去除前缀: D:\AllRoms\SFC\S 时空勇士[简][SKYSJ].sfc -> D:\AllRoms\SFC\时空勇士[简][SKYSJ].sfc
+去除前缀: D:\AllRoms\SFC\S 时空勇士[繁][SKYSF].sfc -> D:\AllRoms\SFC\时空勇士[繁][SKYSF].sfc
+去除前缀: D:\AllRoms\SFC\S 时空引导者[SKYDZ].smc -> D:\AllRoms\SFC\时空引导者[SKYDZ].smc
+去除前缀: D:\AllRoms\SFC\S 时空战警[SKZJ].smc -> D:\AllRoms\SFC\时空战警[SKZJ].smc
+去除前缀: D:\AllRoms\SFC\S 死亡之舞[SWZW].smc -> D:\AllRoms\SFC\死亡之舞[SWZW].smc
+去除前缀: D:\AllRoms\SFC\S 死亡游戏之电视斗士(J)无敌武器子弹不减超爽版[SWYXZDSDSWDWQZDBJCSB].sfc -> D:\AllRoms\SFC\死亡游戏之电视斗士(J)无敌武器子弹不减超爽版[SWYXZDSDSWDWQZDBJCSB].sfc
+去除前缀: D:\AllRoms\SFC\S 狮子王[简][少量汉化][SZWJSLHH].sfc -> D:\AllRoms\SFC\狮子王[简][少量汉化][SZWJSLHH].sfc
+去除前缀: D:\AllRoms\SFC\S 生化金属战机 无敌版[SHJSZJWDB].smc -> D:\AllRoms\SFC\生化金属战机 无敌版[SHJSZJWDB].smc
+去除前缀: D:\AllRoms\SFC\S 生化金属战机[SHJSZJ].smc -> D:\AllRoms\SFC\生化金属战机[SHJSZJ].smc
+去除前缀: D:\AllRoms\SFC\S 石头族乐园-升官版[STZLYSGB].smc -> D:\AllRoms\SFC\石头族乐园-升官版[STZLYSGB].smc
+无前缀: D:\AllRoms\SFC\SD英雄之挑战1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\SD英雄之挑战3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\SD英雄之挑战4.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\SD英雄之挑战5.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\SFC.txt (未做更改)
+无前缀: D:\AllRoms\SFC\Shounen Ninja Sasuke (Japan).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\Sword World SFC 2 - Inishie no Kyojin Densetsu (Japan) (Rev 1).sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\T 兔八哥[TBG].smc -> D:\AllRoms\SFC\兔八哥[TBG].smc
+去除前缀: D:\AllRoms\SFC\T 兔宝宝篮球 修改版[TBBLQXGB].sfc -> D:\AllRoms\SFC\兔宝宝篮球 修改版[TBBLQXGB].sfc
+去除前缀: D:\AllRoms\SFC\T 吞食天地-三国群雄传[简][TSTDSGQXCJ].sfc -> D:\AllRoms\SFC\吞食天地-三国群雄传[简][TSTDSGQXCJ].sfc
+去除前缀: D:\AllRoms\SFC\T 吞食天地-三国群雄传[繁][TSTDSGQXCF].sfc -> D:\AllRoms\SFC\吞食天地-三国群雄传[繁][TSTDSGQXCF].sfc
+去除前缀: D:\AllRoms\SFC\T 天使之翼5[繁][剧情汉化][TSZY5FJQHH].sfc -> D:\AllRoms\SFC\天使之翼5[繁][剧情汉化][TSZY5FJQHH].sfc
+去除前缀: D:\AllRoms\SFC\T 天使之翼J-通向世青杯之路[TSZYTXSQBZL].smc -> D:\AllRoms\SFC\天使之翼J-通向世青杯之路[TSZYTXSQBZL].smc
+去除前缀: D:\AllRoms\SFC\T 天地创造(自动升级、金钱、水晶无限、无敌)[TDCZZDSJJQSJWXWD].fig -> D:\AllRoms\SFC\天地创造(自动升级、金钱、水晶无限、无敌)[TDCZZDSJJQSJWXWD].fig
+去除前缀: D:\AllRoms\SFC\T 天地创造中文版(金钱、水晶无限 by lihhsy)[TDCZZWBJQSJWX].fig -> D:\AllRoms\SFC\天地创造中文版(金钱、水晶无限 by lihhsy)[TDCZZWBJQSJWX].fig
+去除前缀: D:\AllRoms\SFC\T 太空争霸(美)无敌无限保护命[TKZBMWDWXBHM].sfc -> D:\AllRoms\SFC\太空争霸(美)无敌无限保护命[TKZBMWDWXBHM].sfc
+去除前缀: D:\AllRoms\SFC\T 太空争霸-无敌版[TKZBWDB].smc -> D:\AllRoms\SFC\太空争霸-无敌版[TKZBWDB].smc
+去除前缀: D:\AllRoms\SFC\T 太空入侵者[TKRQZ].smc -> D:\AllRoms\SFC\太空入侵者[TKRQZ].smc
+去除前缀: D:\AllRoms\SFC\T 太空战斗机-力量[TKZDJLL].smc -> D:\AllRoms\SFC\太空战斗机-力量[TKZDJLL].smc
+去除前缀: D:\AllRoms\SFC\T 太空战斗机-双人版[TKZDJSRB].smc -> D:\AllRoms\SFC\太空战斗机-双人版[TKZDJSRB].smc
+去除前缀: D:\AllRoms\SFC\T 太空战斗机3无敌[TKZDJ3WD].smc -> D:\AllRoms\SFC\太空战斗机3无敌[TKZDJ3WD].smc
+去除前缀: D:\AllRoms\SFC\T 太空火箭炮[TKHJP].smc -> D:\AllRoms\SFC\太空火箭炮[TKHJP].smc
+去除前缀: D:\AllRoms\SFC\T 屠龙传记[TLCJ].smc -> D:\AllRoms\SFC\屠龙传记[TLCJ].smc
+去除前缀: D:\AllRoms\SFC\T 特鲁尼克大冒险-不可思议的迷宫[TLNKDMXBKSYDMG].smc -> D:\AllRoms\SFC\特鲁尼克大冒险-不可思议的迷宫[TLNKDMXBKSYDMG].smc
+去除前缀: D:\AllRoms\SFC\T 甜蜜男孩[TMNH].smc -> D:\AllRoms\SFC\甜蜜男孩[TMNH].smc
+去除前缀: D:\AllRoms\SFC\T 铁臂阿童木无限血无限人数[TBATMWXXWXRS].smc -> D:\AllRoms\SFC\铁臂阿童木无限血无限人数[TBATMWXXWXRS].smc
+去除前缀: D:\AllRoms\SFC\T 铁钩船长[TGCC].smc -> D:\AllRoms\SFC\铁钩船长[TGCC].smc
+无前缀: D:\AllRoms\SFC\tenshi_eng_v10.sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\W WWF皇家摔角[HJSJ].smc -> D:\AllRoms\SFC\WWF皇家摔角[HJSJ].smc
+去除前缀: D:\AllRoms\SFC\W WWF超级摔角[CJSJ].smc -> D:\AllRoms\SFC\WWF超级摔角[CJSJ].smc
+去除前缀: D:\AllRoms\SFC\W 无人岛物语[简][部分汉化][WRDWYJBFHH].sfc -> D:\AllRoms\SFC\无人岛物语[简][部分汉化][WRDWYJBFHH].sfc
+去除前缀: D:\AllRoms\SFC\W 武田修宏之超级杯足球[WTXHZCJBZQ].smc -> D:\AllRoms\SFC\武田修宏之超级杯足球[WTXHZCJBZQ].smc
+去除前缀: D:\AllRoms\SFC\W 武装部队[WZBD].smc -> D:\AllRoms\SFC\武装部队[WZBD].smc
+无前缀: D:\AllRoms\SFC\WeaponLord (USA).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\Wing Commander - The Secret Missions (USA).sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\X X地带[DD].sfc -> D:\AllRoms\SFC\X地带[DD].sfc
+去除前缀: D:\AllRoms\SFC\X X战警-变种末世录[ZJBZMSL].smc -> D:\AllRoms\SFC\X战警-变种末世录[ZJBZMSL].smc
+去除前缀: D:\AllRoms\SFC\X X战警-变种末世录无敌无限血，命[ZJBZMSLWDWXXM].smc -> D:\AllRoms\SFC\X战警-变种末世录无敌无限血，命[ZJBZMSLWDWXXM].smc
+去除前缀: D:\AllRoms\SFC\X X革命[GM].smc -> D:\AllRoms\SFC\X革命[GM].smc
+去除前缀: D:\AllRoms\SFC\X 信长之野望-全国版[XCZYWQGB].smc -> D:\AllRoms\SFC\信长之野望-全国版[XCZYWQGB].smc
+去除前缀: D:\AllRoms\SFC\X 信长之野望-武将风云录[XCZYWWJFYL].smc -> D:\AllRoms\SFC\信长之野望-武将风云录[XCZYWWJFYL].smc
+去除前缀: D:\AllRoms\SFC\X 新机动战记之刚弹W加强版[XJDZJZGDJQB].smc -> D:\AllRoms\SFC\新机动战记之刚弹W加强版[XJDZJZGDJQB].smc
+去除前缀: D:\AllRoms\SFC\X 新机动战记高达W[XJDZJGD].smc -> D:\AllRoms\SFC\新机动战记高达W[XJDZJGD].smc
+去除前缀: D:\AllRoms\SFC\X 星之卡比3[XZKB3].smc -> D:\AllRoms\SFC\星之卡比3[XZKB3].smc
+去除前缀: D:\AllRoms\SFC\X 星之卡比超值版[XZKBCZB].smc -> D:\AllRoms\SFC\星之卡比超值版[XZKBCZB].smc
+去除前缀: D:\AllRoms\SFC\X 星之海洋[XZHY].smc -> D:\AllRoms\SFC\星之海洋[XZHY].smc
+去除前缀: D:\AllRoms\SFC\X 星舰迷航记-另一个世代[XJMHJLYGSD].smc -> D:\AllRoms\SFC\星舰迷航记-另一个世代[XJMHJLYGSD].smc
+去除前缀: D:\AllRoms\SFC\X 星间游侠2-专家版[XJYX2ZJB].smc -> D:\AllRoms\SFC\星间游侠2-专家版[XJYX2ZJB].smc
+去除前缀: D:\AllRoms\SFC\X 星间游侠2[XJYX2].smc -> D:\AllRoms\SFC\星间游侠2[XJYX2].smc
+去除前缀: D:\AllRoms\SFC\X 星间游侠[XJYX].smc -> D:\AllRoms\SFC\星间游侠[XJYX].smc
+去除前缀: D:\AllRoms\SFC\X 星际之门[XJZM].smc -> D:\AllRoms\SFC\星际之门[XJZM].smc
+去除前缀: D:\AllRoms\SFC\X 星际火狐[XJHH].smc -> D:\AllRoms\SFC\星际火狐[XJHH].smc
+无前缀: D:\AllRoms\SFC\X地带.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\X战警：变种启示录.sfc (未做更改)
+去除前缀: D:\AllRoms\SFC\Y 伊忍道-打倒信长[YRDDDXC].smc -> D:\AllRoms\SFC\伊忍道-打倒信长[YRDDDXC].smc
+去除前缀: D:\AllRoms\SFC\Y 伊苏3[简][YS3J].sfc -> D:\AllRoms\SFC\伊苏3[简][YS3J].sfc
+去除前缀: D:\AllRoms\SFC\Y 伊苏3[繁][YS3F].sfc -> D:\AllRoms\SFC\伊苏3[繁][YS3F].sfc
+去除前缀: D:\AllRoms\SFC\Y 伊苏4-太阳之假面[YS4TYZJM].smc -> D:\AllRoms\SFC\伊苏4-太阳之假面[YS4TYZJM].smc
+去除前缀: D:\AllRoms\SFC\Y 伊苏4[简][YS4J].sfc -> D:\AllRoms\SFC\伊苏4[简][YS4J].sfc
+去除前缀: D:\AllRoms\SFC\Y 伊苏5-专家版[YS5ZJB].smc -> D:\AllRoms\SFC\伊苏5-专家版[YS5ZJB].smc
+去除前缀: D:\AllRoms\SFC\Y 伊苏5-消失的砂之都凯芬[YS5XSDSZDKF].smc -> D:\AllRoms\SFC\伊苏5-消失的砂之都凯芬[YS5XSDSZDKF].smc
+去除前缀: D:\AllRoms\SFC\Y 伊莉雅[YLY].smc -> D:\AllRoms\SFC\伊莉雅[YLY].smc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙1+2(修改)[YZDEL1XG].smc -> D:\AllRoms\SFC\勇者斗恶龙1+2(修改)[YZDEL1XG].smc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙1+2[简][1代汉化][YZDEL1JDHH].sfc -> D:\AllRoms\SFC\勇者斗恶龙1+2[简][1代汉化][YZDEL1JDHH].sfc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙1+2[简][YZDEL1J].sfc -> D:\AllRoms\SFC\勇者斗恶龙1+2[简][YZDEL1J].sfc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙3[简][YZDEL3J].sfc -> D:\AllRoms\SFC\勇者斗恶龙3[简][YZDEL3J].sfc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙3[繁][YZDEL3F].sfc -> D:\AllRoms\SFC\勇者斗恶龙3[繁][YZDEL3F].sfc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙5-天空的新娘[YZDEL5TKDXN].smc -> D:\AllRoms\SFC\勇者斗恶龙5-天空的新娘[YZDEL5TKDXN].smc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙6[简][英菜单][YZDEL6JYCD].sfc -> D:\AllRoms\SFC\勇者斗恶龙6[简][英菜单][YZDEL6JYCD].sfc
+去除前缀: D:\AllRoms\SFC\Y 勇者斗恶龙6[繁][英菜单][YZDEL6FYCD].sfc -> D:\AllRoms\SFC\勇者斗恶龙6[繁][英菜单][YZDEL6FYCD].sfc
+去除前缀: D:\AllRoms\SFC\Y 勇者机器人[YZJQR].smc -> D:\AllRoms\SFC\勇者机器人[YZJQR].smc
+去除前缀: D:\AllRoms\SFC\Y 原始人2 (日)无限人[YSR2RWXR].sfc -> D:\AllRoms\SFC\原始人2 (日)无限人[YSR2RWXR].sfc
+去除前缀: D:\AllRoms\SFC\Y 宇宙巡航舰3[YZXHJ3].smc -> D:\AllRoms\SFC\宇宙巡航舰3[YZXHJ3].smc
+去除前缀: D:\AllRoms\SFC\Y 宇宙陀螺仪[YZTLY].smc -> D:\AllRoms\SFC\宇宙陀螺仪[YZTLY].smc
+去除前缀: D:\AllRoms\SFC\Y 宇宙骑士[YZQS].smc -> D:\AllRoms\SFC\宇宙骑士[YZQS].smc
+去除前缀: D:\AllRoms\SFC\Y 幽游白书最终章-魔界最强列传[YYBSZZZMJZQLC].smc -> D:\AllRoms\SFC\幽游白书最终章-魔界最强列传[YYBSZZZMJZQLC].smc
+去除前缀: D:\AllRoms\SFC\Y 异形3[YX3].smc -> D:\AllRoms\SFC\异形3[YX3].smc
+去除前缀: D:\AllRoms\SFC\Y 异形对终极战士[YXDZJZS].smc -> D:\AllRoms\SFC\异形对终极战士[YXDZJZS].smc
+去除前缀: D:\AllRoms\SFC\Y 异形战机3[YXZJ3].smc -> D:\AllRoms\SFC\异形战机3[YXZJ3].smc
+去除前缀: D:\AllRoms\SFC\Y 永远的法莲娜[YYDFLN].smc -> D:\AllRoms\SFC\永远的法莲娜[YYDFLN].smc
+去除前缀: D:\AllRoms\SFC\Y 永远的蝙蝠侠[YYDBFX].smc -> D:\AllRoms\SFC\永远的蝙蝠侠[YYDBFX].smc
+去除前缀: D:\AllRoms\SFC\Y 英雄传说.smc -> D:\AllRoms\SFC\英雄传说.smc
+去除前缀: D:\AllRoms\SFC\Y 英雄传说2[YXCS2].smc -> D:\AllRoms\SFC\英雄传说2[YXCS2].smc
+去除前缀: D:\AllRoms\SFC\Y 英雄传说[YXCS].smc -> D:\AllRoms\SFC\英雄传说[YXCS].smc
+去除前缀: D:\AllRoms\SFC\Y 英雄圣战2-邪神之胎动[YXSZ2XSZTD].smc -> D:\AllRoms\SFC\英雄圣战2-邪神之胎动[YXSZ2XSZTD].smc
+去除前缀: D:\AllRoms\SFC\Y 英雄圣战[YXSZ].smc -> D:\AllRoms\SFC\英雄圣战[YXSZ].smc
+去除前缀: D:\AllRoms\SFC\Y 野人(J)无限血，命，吼[YRWXXMH].sfc -> D:\AllRoms\SFC\野人(J)无限血，命，吼[YRWXXMH].sfc
+去除前缀: D:\AllRoms\SFC\Z 侏罗纪公园[ZLJGY].smc -> D:\AllRoms\SFC\侏罗纪公园[ZLJGY].smc
+去除前缀: D:\AllRoms\SFC\Z 战区88[ZQ88].smc -> D:\AllRoms\SFC\战区88[ZQ88].smc
+去除前缀: D:\AllRoms\SFC\Z 战区88无限人数[ZQ88WXRS].smc -> D:\AllRoms\SFC\战区88无限人数[ZQ88WXRS].smc
+去除前缀: D:\AllRoms\SFC\Z 战斗原始人3 (日)无限命血[ZDYSR3RWXMX].sfc -> D:\AllRoms\SFC\战斗原始人3 (日)无限命血[ZDYSR3RWXMX].sfc
+去除前缀: D:\AllRoms\SFC\Z 战斗原始人3[ZDYSR3].smc -> D:\AllRoms\SFC\战斗原始人3[ZDYSR3].smc
+去除前缀: D:\AllRoms\SFC\Z 战斗原始人无限人透明[ZDYSRWXRTM].smc -> D:\AllRoms\SFC\战斗原始人无限人透明[ZDYSRWXRTM].smc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想4-简易版[ZZHX4JYB].smc -> D:\AllRoms\SFC\最终幻想4-简易版[ZZHX4JYB].smc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想4.smc -> D:\AllRoms\SFC\最终幻想4.smc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想4[ZZHX4].smc -> D:\AllRoms\SFC\最终幻想4[ZZHX4].smc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想5[ZZHX5].smc -> D:\AllRoms\SFC\最终幻想5[ZZHX5].smc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想5[简][ZZHX5J].sfc -> D:\AllRoms\SFC\最终幻想5[简][ZZHX5J].sfc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想5[繁][ZZHX5F].sfc -> D:\AllRoms\SFC\最终幻想5[繁][ZZHX5F].sfc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想6[简][日菜单][ZZHX6JRCD].sfc -> D:\AllRoms\SFC\最终幻想6[简][日菜单][ZZHX6JRCD].sfc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想6[简][英菜单][ZZHX6JYCD].sfc -> D:\AllRoms\SFC\最终幻想6[简][英菜单][ZZHX6JYCD].sfc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想6中文版[ZZHX6ZWB].smc -> D:\AllRoms\SFC\最终幻想6中文版[ZZHX6ZWB].smc
+去除前缀: D:\AllRoms\SFC\Z 最终幻想USA-神秘任务[ZZHXSMRW].smc -> D:\AllRoms\SFC\最终幻想USA-神秘任务[ZZHXSMRW].smc
+去除前缀: D:\AllRoms\SFC\Z 真人快打2[ZRKD2].smc -> D:\AllRoms\SFC\真人快打2[ZRKD2].smc
+去除前缀: D:\AllRoms\SFC\Z 真人快打[ZRKD].smc -> D:\AllRoms\SFC\真人快打[ZRKD].smc
+去除前缀: D:\AllRoms\SFC\Z 真女神转生2[ZNSZS2].smc -> D:\AllRoms\SFC\真女神转生2[ZNSZS2].smc
+去除前缀: D:\AllRoms\SFC\Z 真女神转生IF[ZNSZS].smc -> D:\AllRoms\SFC\真女神转生IF[ZNSZS].smc
+去除前缀: D:\AllRoms\SFC\Z 真女神转生[ZNSZS].smc -> D:\AllRoms\SFC\真女神转生[ZNSZS].smc
+去除前缀: D:\AllRoms\SFC\Z 真宝珠小子[ZBZXZ].smc -> D:\AllRoms\SFC\真宝珠小子[ZBZXZ].smc
+去除前缀: D:\AllRoms\SFC\Z 终结者2子弹炸弹hp，全无限[ZJZ2ZDZDQWX].smc -> D:\AllRoms\SFC\终结者2子弹炸弹hp，全无限[ZJZ2ZDZDQWX].smc
+去除前缀: D:\AllRoms\SFC\Z 者哩小子半透明[ZLXZBTM].smc -> D:\AllRoms\SFC\者哩小子半透明[ZLXZBTM].smc
+去除前缀: D:\AllRoms\SFC\Z 重装机兵2[简][ZZJB2J].sfc -> D:\AllRoms\SFC\重装机兵2[简][ZZJB2J].sfc
+去除前缀: D:\AllRoms\SFC\Z 重装机兵R Hack2[ZZJB].SMC -> D:\AllRoms\SFC\重装机兵R Hack2[ZZJB].SMC
+去除前缀: D:\AllRoms\SFC\Z 重装机兵Returns[简][ZZJBJ].sfc -> D:\AllRoms\SFC\重装机兵Returns[简][ZZJBJ].sfc
+去除前缀: D:\AllRoms\SFC\Z 重装机兵R中文强化版（测试版)V1[ZZJBZWQHBCSB].SMC -> D:\AllRoms\SFC\重装机兵R中文强化版（测试版)V1[ZZJBZWQHBCSB].SMC
+去除前缀: D:\AllRoms\SFC\Z 重装机兵中文初始等级能力MAX版[ZZJBZWCSDJNLB].SMC -> D:\AllRoms\SFC\重装机兵中文初始等级能力MAX版[ZZJBZWCSDJNLB].SMC
+去除前缀: D:\AllRoms\SFC\Z 重装机兵中文商店修改版（汉化）[ZZJBZWSDXGBHH].SMC -> D:\AllRoms\SFC\重装机兵中文商店修改版（汉化）[ZZJBZWSDXGBHH].SMC
+去除前缀: D:\AllRoms\SFC\Z 重装机兵瓦尔肯[繁][ZZJBWEKF].sfc -> D:\AllRoms\SFC\重装机兵瓦尔肯[繁][ZZJBWEKF].sfc
+无前缀: D:\AllRoms\SFC\丁丁在西藏.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\三国志英杰传.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\三星幻界.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\乱马爆裂乱斗篇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\亚当斯一家.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\任天堂侦探俱乐部2-站在身后的少女.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\伊苏3汉化0.99.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\伊苏4.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\伊苏5.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\传说战士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\侍魂.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\修罗战士 钢.smc (未做更改)
+无前缀: D:\AllRoms\SFC\僵尸邻居1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\僵尸邻居2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\光伞传说.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\光脚阿迪.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\兔宝宝历险记之古怪运动会.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\兔宝宝大冒险.smc (未做更改)
+无前缀: D:\AllRoms\SFC\兵蜂.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\兵蜂之彩虹铃铛大冒险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\再生侠.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\冠军桌球少量汉化.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\创世封魔录.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\前线任务.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\前线任务外传：枪之危机.smc (未做更改)
+无前缀: D:\AllRoms\SFC\剑勇传说.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\勇者斗恶龙1+2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\勇者斗恶龙3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\勇者斗恶龙6.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\北斗神拳7.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\南国少年.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\卡比滚球.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\卡比魔法气泡.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\印第安纳琼斯的伟大冒险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\双截龙4 回归.smc (未做更改)
+无前缀: D:\AllRoms\SFC\双截龙5.smc (未做更改)
+无前缀: D:\AllRoms\SFC\变相怪杰.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\古城救美.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\史努比音乐会.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\吃豆小精灵2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\名将.smc (未做更改)
+无前缀: D:\AllRoms\SFC\吞食天地3 三国志群雄传.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\哆啦A梦4-大雄和月之王国.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\唐老鸭大冒险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\唐老鸭的魔法帽.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\四国战机.smc (未做更改)
+无前缀: D:\AllRoms\SFC\四狂神战记2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\国际超级足球赛豪华版.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\圆桌骑士.smc (未做更改)
+无前缀: D:\AllRoms\SFC\圣兽魔传-怪兽和刀刃.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\圣剑传说2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\圣剑传说3.smc (未做更改)
+无前缀: D:\AllRoms\SFC\圣灵珠传说2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\圣龙战记.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\地底魔神.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\塞尔达传说 三角力量.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\多拉米的幻想.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\大冒险岛1.smc (未做更改)
+无前缀: D:\AllRoms\SFC\大冒险岛2.smc (未做更改)
+无前缀: D:\AllRoms\SFC\大力工头.smc (未做更改)
+无前缀: D:\AllRoms\SFC\大卫克拉尼网球.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\大盗伍佑卫门1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\大盗伍佑卫门2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\大盗伍佑卫门3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\大盗伍佑卫门4.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\大相扑-立身出世篇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\大老二繁体汉化官中.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\天使之翼5.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\天圣龙.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\天地创造.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\天地无用.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\天外魔境ZERO.smc (未做更改)
+无前缀: D:\AllRoms\SFC\天龙斩.smc (未做更改)
+无前缀: D:\AllRoms\SFC\太空争霸.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\太空侵略者：原版.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\太空战斗机 力量.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\太空战斗机 双子.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\失落的维京人.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\奇奇怪界1-漆黑斗篷之谜.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\奇奇怪界2-月夜草子.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\奇异猴子们的宝岛.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\如梦似幻繁体汉化全对话2.0.smc (未做更改)
+无前缀: D:\AllRoms\SFC\宇宙巡航机3.smc (未做更改)
+无前缀: D:\AllRoms\SFC\安妮之梦.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\小讨厌 梦幻仙境汉化1.1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\屠龙战士(英译版).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\巫术1+2+3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\巫术6禁断的魔笔.smc (未做更改)
+无前缀: D:\AllRoms\SFC\巴巴罗萨剧情汉化.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\幸运的卢克.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\幻想传说(英译版).smc (未做更改)
+无前缀: D:\AllRoms\SFC\异形对铁血战士.smc (未做更改)
+无前缀: D:\AllRoms\SFC\异形战机3.smc (未做更改)
+无前缀: D:\AllRoms\SFC\忍者战士 牙.smc (未做更改)
+无前缀: D:\AllRoms\SFC\忍者神龟4.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\忍者神龟5.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\忍者蛙.smc (未做更改)
+无前缀: D:\AllRoms\SFC\忍者蛙和双截龙.smc (未做更改)
+无前缀: D:\AllRoms\SFC\忍者龙剑传合集.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\快打刑事1.smc (未做更改)
+无前缀: D:\AllRoms\SFC\快打刑事2 乱.smc (未做更改)
+无前缀: D:\AllRoms\SFC\快打刑事3 修罗.smc (未做更改)
+无前缀: D:\AllRoms\SFC\快打旋风1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\快打旋风2.smc (未做更改)
+无前缀: D:\AllRoms\SFC\快打旋风3.smc (未做更改)
+无前缀: D:\AllRoms\SFC\怒之要塞.smc (未做更改)
+无前缀: D:\AllRoms\SFC\恶梦毁灭者.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\恶魔城4.smc (未做更改)
+无前缀: D:\AllRoms\SFC\恶魔城XX.smc (未做更改)
+无前缀: D:\AllRoms\SFC\惑星引导者(英译版).sfc (未做更改)
+无前缀: D:\AllRoms\SFC\战区88.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\战国传承.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\战斗原始人3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\战斗潜水艇汉化.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\拉普拉斯之魔.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\摇滚赛车.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\救火战士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\救火英雄.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\斗姬传.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\斩3汉化1.0.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\斯皮鲁.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\新机动战记高达W无尽的决斗.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\新热血硬派.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\旅梦人 盗不走的宝石汉化.smc (未做更改)
+无前缀: D:\AllRoms\SFC\旅鼠总动员2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\无人岛物语.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\日落骑士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\旧约女神转生.smc (未做更改)
+无前缀: D:\AllRoms\SFC\时空之轮.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\时空勇士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\时空战警.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\星之卡比3.smc (未做更改)
+无前缀: D:\AllRoms\SFC\星之海洋(英译版).smc (未做更改)
+无前缀: D:\AllRoms\SFC\星间游侠2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\星际火狐1.smc (未做更改)
+无前缀: D:\AllRoms\SFC\星际火狐2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\普罗克大冒险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\智王传说之公主战士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\暗影狂奔.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\暴力刑警.smc (未做更改)
+无前缀: D:\AllRoms\SFC\最终幻想4.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\最终幻想5.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\最终幻想6.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\最终幻想之神秘历险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\未来骑警R2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\机械战警3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\机械战警对终结者.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\杀手学堂.smc (未做更改)
+无前缀: D:\AllRoms\SFC\杰利小子2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\极上沙罗曼蛇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\桌球大亨.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\梦幻模拟战Der.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\横山光辉三国志汉化1.2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\正义之纹章.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\毁灭战士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\毁灭武器.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\毁灭骑兵.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\水管梦想曲.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\永远的法莲娜.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\永远的神秘.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\沉船危机.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\波斯王子2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\洛克人7.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\洛克人X1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\洛克人X2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\洛克人X3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\洛克人与佛鲁迪.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\浪漫沙加3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\激突弹丸机动车决战.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\激走战队.smc (未做更改)
+无前缀: D:\AllRoms\SFC\灌篮高手2汉化0.3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\灌篮高手SD升温.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\火焰之纹章3 纹章之谜.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\火焰之纹章4 圣战之系谱.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\火焰之纹章5 多拉基亚776.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\火箭骑士2.smc (未做更改)
+无前缀: D:\AllRoms\SFC\热血高校躲避球全员集合.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\爆裂斗球.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\牧场物语.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\特技立体赛车.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\狮子王.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\王子外传.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\瑜伽熊.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\瓦里奥之森.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\电精.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\电脑战机.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\白痴殿下总动员.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\皇家骑士团1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\皇家骑士团2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\盖亚幻想纪.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\真人快打2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\真人快打3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\真女神转生1.smc (未做更改)
+无前缀: D:\AllRoms\SFC\真女神转生2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\真女神转生if.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\神奇J计划.smc (未做更改)
+无前缀: D:\AllRoms\SFC\神秘的约柜.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\秀斗魔导士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\秘境魔宝.smc (未做更改)
+无前缀: D:\AllRoms\SFC\童话物语.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\第3次超级机器人大战.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\第4次超级机器人大战.smc (未做更改)
+无前缀: D:\AllRoms\SFC\米老鼠与唐老鸭3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\米老鼠东京迪士尼大冒险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\米老鼠魔法传说.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\紫炎.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\绀碧之舰队.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\终结者2 审判日.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\罗德岛战记.smc (未做更改)
+无前缀: D:\AllRoms\SFC\美少女战士-另一个故事.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\美食战队-蔷薇野郎.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\耀西岛.smc (未做更改)
+无前缀: D:\AllRoms\SFC\花仙子方块.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\英雄圣战1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\英雄圣战2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\荒野双枪.smc (未做更改)
+无前缀: D:\AllRoms\SFC\蓬莱学园大冒险.smc (未做更改)
+无前缀: D:\AllRoms\SFC\虚幻之梦.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\蚯蚓战士1.smc (未做更改)
+无前缀: D:\AllRoms\SFC\蚯蚓战士2.smc (未做更改)
+无前缀: D:\AllRoms\SFC\蜡笔小新1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\蜡笔小新2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\蝙蝠侠与罗宾.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\街头赛车.smc (未做更改)
+无前缀: D:\AllRoms\SFC\街头霸王 ZERO2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\街头霸王2 SUPER.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\街头霸王2 TURBO.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\西部英豪-枪手的考验.smc (未做更改)
+无前缀: D:\AllRoms\SFC\豪枪神雷传说.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\豪血寺一族.smc (未做更改)
+无前缀: D:\AllRoms\SFC\财宝猎人G.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\资讯骑士2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\赏金之剑.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\起始之森.smc (未做更改)
+无前缀: D:\AllRoms\SFC\超人绝处逢生.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超原人.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级坦克2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级大金刚1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级大金刚2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级大金刚3.smc (未做更改)
+无前缀: D:\AllRoms\SFC\超级忍者君.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级战士2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级拳无虚发.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级星球大战.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级星球大战之帝国反击战.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级星球大战之武士复仇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级机器人大战EX汉化.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级炸弹人1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级炸弹人2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级炸弹人3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级炸弹人4.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级炸弹人5.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级独轮车.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级联合部队.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级追击HQ.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级银河战士.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级马里奥1-3.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级马里奥4.smc (未做更改)
+无前缀: D:\AllRoms\SFC\超级马里奥RPG七星传奇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级马里奥医生.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超级马里奥拆屋工.smc (未做更改)
+无前缀: D:\AllRoms\SFC\超级马里奥赛车.smc (未做更改)
+无前缀: D:\AllRoms\SFC\超越巅峰2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超钢战机.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\超魔法大陆Wozz.smc (未做更改)
+无前缀: D:\AllRoms\SFC\超魔界村.smc (未做更改)
+无前缀: D:\AllRoms\SFC\越空狂龙.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\跆拳道.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\达摩道场.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\近郊冒险队.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\迦楼罗王.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\逃离异世界.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\邦克猫.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\酷小子.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\重装机兵2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\重装机兵R.smc (未做更改)
+无前缀: D:\AllRoms\SFC\重装机兵瓦尔肯完全汉化.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\金属机器人战记.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\钓鱼太郎1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\钓鱼太郎2-川钓太郎.smc (未做更改)
+无前缀: D:\AllRoms\SFC\钟楼.smc (未做更改)
+无前缀: D:\AllRoms\SFC\钢铁战士.smc (未做更改)
+无前缀: D:\AllRoms\SFC\铁头战士.smc (未做更改)
+无前缀: D:\AllRoms\SFC\银河战国群雄传.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\银河风暴.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\锁定目标.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\错乱时空.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\闪电出击.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\阿拉丁.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\除灵师 GS 美神.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\隐逝的黑暗.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\零式特攻队.smc (未做更改)
+无前缀: D:\AllRoms\SFC\零式赛车.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\雷电传说.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\雷莎出击1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\雷莎出击2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\露卡大冒险.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\音速快击手2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\风来的西林.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\风水回廊记.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\飞行俱乐部.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\飞行英雄.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\飞跃星光草原.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\饿狼传说特别版.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\首都高速赛车94.smc (未做更改)
+无前缀: D:\AllRoms\SFC\高飞狗.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\鬼神童子-烈斗雷传.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魂斗罗3 精神.smc (未做更改)
+无前缀: D:\AllRoms\SFC\魔兽大战-虹色之魔石.smc (未做更改)
+无前缀: D:\AllRoms\SFC\魔兽王.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔剑.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔剑道.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔幻精灵卡.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔星迷踪2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔法小子.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔法师.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔法提琴手.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔法泡泡.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔界村外传-纹章篇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔神转生2.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\魔装机神.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\鲁多拉秘宝.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\鸟人战队1.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\鸟人战队2.smc (未做更改)
+无前缀: D:\AllRoms\SFC\黑水海盗.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\黑色荆棘.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\龙珠Z 极度空间.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\龙珠Z 超悟空传 突激篇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\龙珠Z 超悟空传 觉醒篇.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\龙虎之拳2.smc (未做更改)
+无前缀: D:\AllRoms\SFC\龙骑兵团.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\龙骑士4.sfc (未做更改)
+无前缀: D:\AllRoms\SFC\Imgs\3 360度滚球[DGQ].png (未做更改)
+无前缀: D:\AllRoms\SFC\Imgs\3 3D方块人大战[FKRDZ].png (未做更改)
+无前缀: D:\AllRoms\SFC\Imgs\3 3x3只眼-圣魔降临传[ZYSMJLC].png (未做更改)
+无前缀: D:\AllRoms\SFC\Imgs\4 46亿年物语[YNWY].png (未做更改)
+无前缀: D:\AllRoms\SFC\Imgs\8 8小时机车赛[XSJCS].png (未做更改)
+无前缀: D:\AllRoms\SFC\Imgs\9 94美国世界杯足球[MGSJBZQ].png (未做更改)
+去除前缀: D:\AllRoms\SFC\Imgs\A ABC电视台周一橄榄球[DSTZYGLQ].png -> D:\AllRoms\SFC\Imgs\ABC电视台周一橄榄球[DSTZYGLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\A Act_Raiser2沉默之圣战[CMZSZ].png -> D:\AllRoms\SFC\Imgs\Act_Raiser2沉默之圣战[CMZSZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 奥特曼[ATM].png -> D:\AllRoms\SFC\Imgs\奥特曼[ATM].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 安琪莉可-原声版[AQLKYSB].png -> D:\AllRoms\SFC\Imgs\安琪莉可-原声版[AQLKYSB].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 安琪莉可-限定版[AQLKXDB].png -> D:\AllRoms\SFC\Imgs\安琪莉可-限定版[AQLKXDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 安琪莉可[AQLK].png -> D:\AllRoms\SFC\Imgs\安琪莉可[AQLK].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 暗影狂奔[AYKB].png -> D:\AllRoms\SFC\Imgs\暗影狂奔[AYKB].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 暗黑破坏神[AHPHS].png -> D:\AllRoms\SFC\Imgs\暗黑破坏神[AHPHS].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 爱天使传说[ATSCS].png -> D:\AllRoms\SFC\Imgs\爱天使传说[ATSCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 阿拉丁[ALD].png -> D:\AllRoms\SFC\Imgs\阿拉丁[ALD].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 阿拉丁无限苹果无限生命[ALDWXPGWXSM].png -> D:\AllRoms\SFC\Imgs\阿拉丁无限苹果无限生命[ALDWXPGWXSM].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 阿拉伯之夜-沙漠的精灵王[ALBZYSMDJLW].png -> D:\AllRoms\SFC\Imgs\阿拉伯之夜-沙漠的精灵王[ALBZYSMDJLW].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 阿蕾莎[ALS].png -> D:\AllRoms\SFC\Imgs\阿蕾莎[ALS].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 阿达一族[ADYZ].png -> D:\AllRoms\SFC\Imgs\阿达一族[ADYZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\A 阿飞的魔法头[AFDMFT].png -> D:\AllRoms\SFC\Imgs\阿飞的魔法头[AFDMFT].png
+去除前缀: D:\AllRoms\SFC\Imgs\B BB鸟与大野狼[NYDYL].png -> D:\AllRoms\SFC\Imgs\BB鸟与大野狼[NYDYL].png
+去除前缀: D:\AllRoms\SFC\Imgs\B BIG RUN不减时间[BJSJ].png -> D:\AllRoms\SFC\Imgs\BIG RUN不减时间[BJSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 不可思议之人偶[BKSYZRO].png -> D:\AllRoms\SFC\Imgs\不可思议之人偶[BKSYZRO].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 兵蜂-彩虹铃当大冒险[BFCHLDDMX].png -> D:\AllRoms\SFC\Imgs\兵蜂-彩虹铃当大冒险[BFCHLDDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 兵蜂[BF].png -> D:\AllRoms\SFC\Imgs\兵蜂[BF].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 兵蜂能源不减[BFNYBJ].png -> D:\AllRoms\SFC\Imgs\兵蜂能源不减[BFNYBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 北斗神拳6-霸王之道[BDSQ6BWZD].png -> D:\AllRoms\SFC\Imgs\北斗神拳6-霸王之道[BDSQ6BWZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 北斗神拳7[简][部分汉化][BDSQ7JBFHH].png -> D:\AllRoms\SFC\Imgs\北斗神拳7[简][部分汉化][BDSQ7JBFHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 变相怪杰(人数、血格、特殊攻击不减by lihhsy)[BXGJRSXGTSGJBJ].png -> D:\AllRoms\SFC\Imgs\变相怪杰(人数、血格、特殊攻击不减by lihhsy)[BXGJRSXGTSGJBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 宾尼兔冒险-大运动会[BNTMXDYDH].png -> D:\AllRoms\SFC\Imgs\宾尼兔冒险-大运动会[BNTMXDYDH].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 宾尼兔冒险[BNTMX].png -> D:\AllRoms\SFC\Imgs\宾尼兔冒险[BNTMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 巴克利强力灌篮[BKLQLGL].png -> D:\AllRoms\SFC\Imgs\巴克利强力灌篮[BKLQLGL].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 巴巴罗萨[简][BBLSJ].png -> D:\AllRoms\SFC\Imgs\巴巴罗萨[简][BBLSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 巴斯大师教室[BSDSJS].png -> D:\AllRoms\SFC\Imgs\巴斯大师教室[BSDSJS].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 巴比斯大冒险[BBSDMX].png -> D:\AllRoms\SFC\Imgs\巴比斯大冒险[BBSDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 暴力刑警[BLXJ].png -> D:\AllRoms\SFC\Imgs\暴力刑警[BLXJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 暴力刑警无限人[BLXJWXR].png -> D:\AllRoms\SFC\Imgs\暴力刑警无限人[BLXJWXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 柏青夫大进攻[BQFDJG].png -> D:\AllRoms\SFC\Imgs\柏青夫大进攻[BQFDJG].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 波斯王子[BSWZ].png -> D:\AllRoms\SFC\Imgs\波斯王子[BSWZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 爆破精灵[BPJL].png -> D:\AllRoms\SFC\Imgs\爆破精灵[BPJL].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 爆裂斗球[BLDQ].png -> D:\AllRoms\SFC\Imgs\爆裂斗球[BLDQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 白热野球[BRYQ].png -> D:\AllRoms\SFC\Imgs\白热野球[BRYQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 白痴殿下总动员[BCDXZDY].png -> D:\AllRoms\SFC\Imgs\白痴殿下总动员[BCDXZDY].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 蝙蝠侠归来[BFXGL].png -> D:\AllRoms\SFC\Imgs\蝙蝠侠归来[BFXGL].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 蝙蝠鼠2-Aero the Acro-Bat 2全不减[BFS2QBJ].png -> D:\AllRoms\SFC\Imgs\蝙蝠鼠2-Aero the Acro-Bat 2全不减[BFS2QBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 邦克大进击 (日)无限心，命，炸弹，跑[BKDJJRWXXMZDP].png -> D:\AllRoms\SFC\Imgs\邦克大进击 (日)无限心，命，炸弹，跑[BKDJJRWXXMZDP].png
+去除前缀: D:\AllRoms\SFC\Imgs\B 邦克大进击[BKDJJ].png -> D:\AllRoms\SFC\Imgs\邦克大进击[BKDJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 丛林激战直升机[CLJZZSJ].png -> D:\AllRoms\SFC\Imgs\丛林激战直升机[CLJZZSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 丛林王子[CLWZ].png -> D:\AllRoms\SFC\Imgs\丛林王子[CLWZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 传说战士(美)[02CE]不减血，命，炸弹[CSZSMBJXMZD].png -> D:\AllRoms\SFC\Imgs\传说战士(美)[02CE]不减血，命，炸弹[CSZSMBJXMZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 冲!冲!恶魔少年2[CCEMSN2].png -> D:\AllRoms\SFC\Imgs\冲!冲!恶魔少年2[CCEMSN2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 冲!冲!恶魔少年3[CCEMSN3].png -> D:\AllRoms\SFC\Imgs\冲!冲!恶魔少年3[CCEMSN3].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 出击飞龙无敌版天龙斩[CJFLWDBTLZ].png -> D:\AllRoms\SFC\Imgs\出击飞龙无敌版天龙斩[CJFLWDBTLZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 创世封魔录[CSFML].png -> D:\AllRoms\SFC\Imgs\创世封魔录[CSFML].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 创世纪6-伪的预言者[CSJ6WDYYZ].png -> D:\AllRoms\SFC\Imgs\创世纪6-伪的预言者[CSJ6WDYYZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 创世纪7-黑暗之门[CSJ7HAZM].png -> D:\AllRoms\SFC\Imgs\创世纪7-黑暗之门[CSJ7HAZM].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 创世纪外传-黑骑士的阴谋[CSJWCHQSDYM].png -> D:\AllRoms\SFC\Imgs\创世纪外传-黑骑士的阴谋[CSJWCHQSDYM].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 创业人生2[CYRS2].png -> D:\AllRoms\SFC\Imgs\创业人生2[CYRS2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 沉船危机[CCWJ].png -> D:\AllRoms\SFC\Imgs\沉船危机[CCWJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 沉默之圣战命血时间不减[CMZSZMXSJBJ].png -> D:\AllRoms\SFC\Imgs\沉默之圣战命血时间不减[CMZSZMXSJBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 苍狼与白鹿-元朝秘史[CLYBLYCMS].png -> D:\AllRoms\SFC\Imgs\苍狼与白鹿-元朝秘史[CLYBLYCMS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 财宝猎人G[简][CBLRJ].png -> D:\AllRoms\SFC\Imgs\财宝猎人G[简][CBLRJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超人-死里逢生(绝招不减、人数不减 )[CRSLFSJZBJRSBJ].png -> D:\AllRoms\SFC\Imgs\超人-死里逢生(绝招不减、人数不减 )[CRSLFSJZBJRSBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超任-任天堂导弹6[CRRTTDD6].png -> D:\AllRoms\SFC\Imgs\超任-任天堂导弹6[CRRTTDD6].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超兄贵-爆裂乱斗篇[CXGBLLDP].png -> D:\AllRoms\SFC\Imgs\超兄贵-爆裂乱斗篇[CXGBLLDP].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超攻合神[CGHS].png -> D:\AllRoms\SFC\Imgs\超攻合神[CGHS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超时空之钥[简][CSKZYJ].png -> D:\AllRoms\SFC\Imgs\超时空之钥[简][CSKZYJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超时空战士[CSKZS].png -> D:\AllRoms\SFC\Imgs\超时空战士[CSKZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超时空要塞[CSKYS].png -> D:\AllRoms\SFC\Imgs\超时空要塞[CSKYS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超时空要塞无敌[CSKYSWD].png -> D:\AllRoms\SFC\Imgs\超时空要塞无敌[CSKYSWD].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超次元地带[CCYDD].png -> D:\AllRoms\SFC\Imgs\超次元地带[CCYDD].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级上海-龙之眼[CJSHLZY].png -> D:\AllRoms\SFC\Imgs\超级上海-龙之眼[CJSHLZY].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级世界野外赛车[CJSJYWSC].png -> D:\AllRoms\SFC\Imgs\超级世界野外赛车[CJSJYWSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级中国人世界[CJZGRSJ].png -> D:\AllRoms\SFC\Imgs\超级中国人世界[CJZGRSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级仓库番[CJCKF].png -> D:\AllRoms\SFC\Imgs\超级仓库番[CJCKF].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级任天堂大战[CJRTTDZ].png -> D:\AllRoms\SFC\Imgs\超级任天堂大战[CJRTTDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级保龄球[CJBLQ].png -> D:\AllRoms\SFC\Imgs\超级保龄球[CJBLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级公路追击H.Q.[CJGLZJ].png -> D:\AllRoms\SFC\Imgs\超级公路追击H.Q.[CJGLZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级冒险岛无敌[CJMXDWD].png -> D:\AllRoms\SFC\Imgs\超级冒险岛无敌[CJMXDWD].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级冰球射网[CJBQSW].png -> D:\AllRoms\SFC\Imgs\超级冰球射网[CJBQSW].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级冲撞橄榄球[CJCZGLQ].png -> D:\AllRoms\SFC\Imgs\超级冲撞橄榄球[CJCZGLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级原人2[CJYR2].png -> D:\AllRoms\SFC\Imgs\超级原人2[CJYR2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级原人[CJYR].png -> D:\AllRoms\SFC\Imgs\超级原人[CJYR].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级哥斯拉[CJGSL].png -> D:\AllRoms\SFC\Imgs\超级哥斯拉[CJGSL].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级四轮赛车[CJSLSC].png -> D:\AllRoms\SFC\Imgs\超级四轮赛车[CJSLSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级地球防卫力量[CJDQFWLL].png -> D:\AllRoms\SFC\Imgs\超级地球防卫力量[CJDQFWLL].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级地球防卫队半透明[CJDQFWDBTM].png -> D:\AllRoms\SFC\Imgs\超级地球防卫队半透明[CJDQFWDBTM].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级坦克2[CJTK2].png -> D:\AllRoms\SFC\Imgs\超级坦克2[CJTK2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级坦克[CJTK].png -> D:\AllRoms\SFC\Imgs\超级坦克[CJTK].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级射汽球兄弟[CJSQQXD].png -> D:\AllRoms\SFC\Imgs\超级射汽球兄弟[CJSQQXD].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级射篮[CJSL].png -> D:\AllRoms\SFC\Imgs\超级射篮[CJSL].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级射网[CJSW].png -> D:\AllRoms\SFC\Imgs\超级射网[CJSW].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级屠龙传记[CJTLCJ].png -> D:\AllRoms\SFC\Imgs\超级屠龙传记[CJTLCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级异形战机[CJYXZJ].png -> D:\AllRoms\SFC\Imgs\超级异形战机[CJYXZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级战士1(日)无限人无限保护[CJZS1RWXRWXBH].png -> D:\AllRoms\SFC\Imgs\超级战士1(日)无限人无限保护[CJZS1RWXRWXBH].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级战士2 (美)无限人无限保护[CJZS2MWXRWXBH].png -> D:\AllRoms\SFC\Imgs\超级战士2 (美)无限人无限保护[CJZS2MWXRWXBH].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级战士[CJZS].png -> D:\AllRoms\SFC\Imgs\超级战士[CJZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级战鹰[CJZY].png -> D:\AllRoms\SFC\Imgs\超级战鹰[CJZY].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级拳王争夺战[CJQWZDZ].png -> D:\AllRoms\SFC\Imgs\超级拳王争夺战[CJQWZDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级排球2[CJPQ2].png -> D:\AllRoms\SFC\Imgs\超级排球2[CJPQ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级星球大战-帝国大反击[CJXQDZDGDFJ].png -> D:\AllRoms\SFC\Imgs\超级星球大战-帝国大反击[CJXQDZDGDFJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级星球大战-杰迪归来[CJXQDZJDGL].png -> D:\AllRoms\SFC\Imgs\超级星球大战-杰迪归来[CJXQDZJDGL].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级星球大战[CJXQDZ].png -> D:\AllRoms\SFC\Imgs\超级星球大战[CJXQDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级机器人大战EX[CJJQRDZ].png -> D:\AllRoms\SFC\Imgs\超级机器人大战EX[CJJQRDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级杯足球[CJBZQ].png -> D:\AllRoms\SFC\Imgs\超级杯足球[CJBZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级桃太郎电铁3[CJTTLDT3].png -> D:\AllRoms\SFC\Imgs\超级桃太郎电铁3[CJTTLDT3].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级桃太郎电铁DX[CJTTLDT].png -> D:\AllRoms\SFC\Imgs\超级桃太郎电铁DX[CJTTLDT].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级梦幻战士4[CJMHZS4].png -> D:\AllRoms\SFC\Imgs\超级梦幻战士4[CJMHZS4].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级梦幻战士4体力不减技能使用数量不减(BY 疾风之狼)[CJMHZS4TLBJJNSYSLBJJFZL].png -> D:\AllRoms\SFC\Imgs\超级梦幻战士4体力不减技能使用数量不减(BY 疾风之狼)[CJMHZS4TLBJJNSYSLBJJFZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级泰拳格斗[CJTQGD].png -> D:\AllRoms\SFC\Imgs\超级泰拳格斗[CJTQGD].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级混战[CJHZ].png -> D:\AllRoms\SFC\Imgs\超级混战[CJHZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级漫画英雄-秘宝之战[CJMHYXMBZZ].png -> D:\AllRoms\SFC\Imgs\超级漫画英雄-秘宝之战[CJMHYXMBZZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级火焰职业摔角X[CJHYZYSJ].png -> D:\AllRoms\SFC\Imgs\超级火焰职业摔角X[CJHYZYSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级火焰职业摔角X超值版[CJHYZYSJCZB].png -> D:\AllRoms\SFC\Imgs\超级火焰职业摔角X超值版[CJHYZYSJCZB].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级炸弹人2[CJZDR2].png -> D:\AllRoms\SFC\Imgs\超级炸弹人2[CJZDR2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级炸弹人3[CJZDR3].png -> D:\AllRoms\SFC\Imgs\超级炸弹人3[CJZDR3].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级炸弹人4[CJZDR4].png -> D:\AllRoms\SFC\Imgs\超级炸弹人4[CJZDR4].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级炸弹人5[CJZDR5].png -> D:\AllRoms\SFC\Imgs\超级炸弹人5[CJZDR5].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级炸弹人II人时间炸弹威力不减[CJZDRRSJZDWLBJ].png -> D:\AllRoms\SFC\Imgs\超级炸弹人II人时间炸弹威力不减[CJZDRRSJZDWLBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级炸弹人[CJZDR].png -> D:\AllRoms\SFC\Imgs\超级炸弹人[CJZDR].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级炸弹人方块[CJZDRFK].png -> D:\AllRoms\SFC\Imgs\超级炸弹人方块[CJZDRFK].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级电视斗士[CJDSDS].png -> D:\AllRoms\SFC\Imgs\超级电视斗士[CJDSDS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级直升机3[CJZSJ3].png -> D:\AllRoms\SFC\Imgs\超级直升机3[CJZSJ3].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级神龙III只数不减[CJSLZSBJ].png -> D:\AllRoms\SFC\Imgs\超级神龙III只数不减[CJSLZSBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级神龙号[CJSLH].png -> D:\AllRoms\SFC\Imgs\超级神龙号[CJSLH].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级空中战斗员[CJKZZDY].png -> D:\AllRoms\SFC\Imgs\超级空中战斗员[CJKZZDY].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级结构足球[CJJGZQ].png -> D:\AllRoms\SFC\Imgs\超级结构足球[CJJGZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级蛇方块[CJSFK].png -> D:\AllRoms\SFC\Imgs\超级蛇方块[CJSFK].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级街头霸王2 - Fight Again (Hack)[CJJTBW2].png -> D:\AllRoms\SFC\Imgs\超级街头霸王2 - Fight Again (Hack)[CJJTBW2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级街头霸王2[CJJTBW2].png -> D:\AllRoms\SFC\Imgs\超级街头霸王2[CJJTBW2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级街头霸王2[简][人名汉化][CJJTBW2JRMHH].png -> D:\AllRoms\SFC\Imgs\超级街头霸王2[简][人名汉化][CJJTBW2JRMHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级詹姆斯邦德2[CJZMSBD2].png -> D:\AllRoms\SFC\Imgs\超级詹姆斯邦德2[CJZMSBD2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级豆豆君2[CJDDJ2].png -> D:\AllRoms\SFC\Imgs\超级豆豆君2[CJDDJ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级赌城[CJDC].png -> D:\AllRoms\SFC\Imgs\超级赌城[CJDC].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级转转岛[CJZZD].png -> D:\AllRoms\SFC\Imgs\超级转转岛[CJZZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级野外赛车[CJYWSC].png -> D:\AllRoms\SFC\Imgs\超级野外赛车[CJYWSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级银河战士[简][CJYHZSJ].png -> D:\AllRoms\SFC\Imgs\超级银河战士[简][CJYHZSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级领国战役[CJLGZY].png -> D:\AllRoms\SFC\Imgs\超级领国战役[CJLGZY].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级魔法气泡2[CJMFQP2].png -> D:\AllRoms\SFC\Imgs\超级魔法气泡2[CJMFQP2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级魔法气泡2重制版[CJMFQP2ZZB].png -> D:\AllRoms\SFC\Imgs\超级魔法气泡2重制版[CJMFQP2ZZB].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级魔法气泡[CJMFQP].png -> D:\AllRoms\SFC\Imgs\超级魔法气泡[CJMFQP].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级黑巴斯2[CJHBS2].png -> D:\AllRoms\SFC\Imgs\超级黑巴斯2[CJHBS2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超级黑巴斯[CJHBS].png -> D:\AllRoms\SFC\Imgs\超级黑巴斯[CJHBS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超能战士[CNZS].png -> D:\AllRoms\SFC\Imgs\超能战士[CNZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超越颠峰2[CYDF2].png -> D:\AllRoms\SFC\Imgs\超越颠峰2[CYDF2].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超越颠峰[CYDF].png -> D:\AllRoms\SFC\Imgs\超越颠峰[CYDF].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超钢战机-机动装甲[CGZJJDZJ].png -> D:\AllRoms\SFC\Imgs\超钢战机-机动装甲[CGZJJDZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超魔法大陆-沃茲[CMFDLWZ].png -> D:\AllRoms\SFC\Imgs\超魔法大陆-沃茲[CMFDLWZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超魔界大战[CMJDZ].png -> D:\AllRoms\SFC\Imgs\超魔界大战[CMJDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超魔界村[CMJC].png -> D:\AllRoms\SFC\Imgs\超魔界村[CMJC].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 超魔界村半透明[CMJCBTM].png -> D:\AllRoms\SFC\Imgs\超魔界村半透明[CMJCBTM].png
+去除前缀: D:\AllRoms\SFC\Imgs\C 除灵师GS美神[CLSMS].png -> D:\AllRoms\SFC\Imgs\除灵师GS美神[CLSMS].png
+去除前缀: D:\AllRoms\SFC\Imgs\D Darius Twin 无限人数[WXRS].png -> D:\AllRoms\SFC\Imgs\Darius Twin 无限人数[WXRS].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 动力贩卖[DLFM].png -> D:\AllRoms\SFC\Imgs\动力贩卖[DLFM].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 动物快打[DWKD].png -> D:\AllRoms\SFC\Imgs\动物快打[DWKD].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 叮当II能源不减[DDNYBJ].png -> D:\AllRoms\SFC\Imgs\叮当II能源不减[DDNYBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 哆啦A梦4-大雄和月之王国[简][少量汉化][DLM4DXHYZWGJSLHH].png -> D:\AllRoms\SFC\Imgs\哆啦A梦4-大雄和月之王国[简][少量汉化][DLM4DXHYZWGJSLHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 嘟先生[DXS].png -> D:\AllRoms\SFC\Imgs\嘟先生[DXS].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 地底魔神[DDMS].png -> D:\AllRoms\SFC\Imgs\地底魔神[DDMS].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 地底魔神[简][Beta][DDMSJ].png -> D:\AllRoms\SFC\Imgs\地底魔神[简][Beta][DDMSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 地球冒险2[DQMX2].png -> D:\AllRoms\SFC\Imgs\地球冒险2[DQMX2].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大力工头POW人不减[DLGTRBJ].png -> D:\AllRoms\SFC\Imgs\大力工头POW人不减[DLGTRBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大力工头[DLGT].png -> D:\AllRoms\SFC\Imgs\大力工头[DLGT].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大物黑巴斯钓鱼[DWHBSDY].png -> D:\AllRoms\SFC\Imgs\大物黑巴斯钓鱼[DWHBSDY].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大盗五卫门4代1[DDWWM4D1].png -> D:\AllRoms\SFC\Imgs\大盗五卫门4代1[DDWWM4D1].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大盗伍佑卫门-闪亮道中-我成为舞者的理由[DDWYWMSLDZWCWWZDLY].png -> D:\AllRoms\SFC\Imgs\大盗伍佑卫门-闪亮道中-我成为舞者的理由[DDWYWMSLDZWCWWZDLY].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大盗伍佑卫门-雪姬救出绘卷[DDWYWMXJJCHJ].png -> D:\AllRoms\SFC\Imgs\大盗伍佑卫门-雪姬救出绘卷[DDWYWMXJJCHJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大盗伍佑卫门2-奇天烈将军[DDWYWM2QTLJJ].png -> D:\AllRoms\SFC\Imgs\大盗伍佑卫门2-奇天烈将军[DDWYWM2QTLJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大盗伍佑卫门3-狮子重禄兵卫的坚固机器人[DDWYWM3SZZLBWDJGJQR].png -> D:\AllRoms\SFC\Imgs\大盗伍佑卫门3-狮子重禄兵卫的坚固机器人[DDWYWM3SZZLBWDJGJQR].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大盗伍右卫门2能源金钱不减[DDWYWM2NYJQBJ].png -> D:\AllRoms\SFC\Imgs\大盗伍右卫门2能源金钱不减[DDWYWM2NYJQBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大老二[繁][官][DLEFG].png -> D:\AllRoms\SFC\Imgs\大老二[繁][官][DLEFG].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大航海时代2[DHHSD2].png -> D:\AllRoms\SFC\Imgs\大航海时代2[DHHSD2].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 大航海时代[DHHSD].png -> D:\AllRoms\SFC\Imgs\大航海时代[DHHSD].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 对决!!黄金决战[DJHJJZ].png -> D:\AllRoms\SFC\Imgs\对决!!黄金决战[DJHJJZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 德军总部3D[DJZB3].png -> D:\AllRoms\SFC\Imgs\德军总部3D[DJZB3].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 打砖块[DZK].png -> D:\AllRoms\SFC\Imgs\打砖块[DZK].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 斗士的历史[DSDLS].png -> D:\AllRoms\SFC\Imgs\斗士的历史[DSDLS].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 斗姬传(日)无限命[DJCRWXM].png -> D:\AllRoms\SFC\Imgs\斗姬传(日)无限命[DJCRWXM].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 斗姬传[DJC].png -> D:\AllRoms\SFC\Imgs\斗姬传[DJC].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 点点君[DDJ].png -> D:\AllRoms\SFC\Imgs\点点君[DDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 独立战争[DLZZ].png -> D:\AllRoms\SFC\Imgs\独立战争[DLZZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 电精[简][DJJ].png -> D:\AllRoms\SFC\Imgs\电精[简][DJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 电精人生命气能源不减[DJRSMQNYBJ].png -> D:\AllRoms\SFC\Imgs\电精人生命气能源不减[DJRSMQNYBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 电脑战机[DNZJ].png -> D:\AllRoms\SFC\Imgs\电脑战机[DNZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第3次超级机器人大战[简][D3CCJJQRDZJ].png -> D:\AllRoms\SFC\Imgs\第3次超级机器人大战[简][D3CCJJQRDZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第4次机器人大战--主角头像替换版[D4CJQRDZZJTXTHB].png -> D:\AllRoms\SFC\Imgs\第4次机器人大战--主角头像替换版[D4CJQRDZZJTXTHB].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第4次机器人大战修改版2[D4CJQRDZXGB2].png -> D:\AllRoms\SFC\Imgs\第4次机器人大战修改版2[D4CJQRDZXGB2].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第4次超级机器人大战[简][菜单汉化][D4CCJJQRDZJCDHH].png -> D:\AllRoms\SFC\Imgs\第4次超级机器人大战[简][菜单汉化][D4CCJJQRDZJCDHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第一武士[DYWS].png -> D:\AllRoms\SFC\Imgs\第一武士[DYWS].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第三次机器人大战hack[DSCJQRDZ].png -> D:\AllRoms\SFC\Imgs\第三次机器人大战hack[DSCJQRDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第三次机器大战[DSCJQDZ].png -> D:\AllRoms\SFC\Imgs\第三次机器大战[DSCJQDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第四次机器人大战[DSCJQRDZ].png -> D:\AllRoms\SFC\Imgs\第四次机器人大战[DSCJQRDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第四次机器人大战机体强化3[DSCJQRDZJTQH3].png -> D:\AllRoms\SFC\Imgs\第四次机器人大战机体强化3[DSCJQRDZJTQH3].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 第四次机器人大战机体强化4[DSCJQRDZJTQH4].png -> D:\AllRoms\SFC\Imgs\第四次机器人大战机体强化4[DSCJQRDZJTQH4].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 达摩道场[DMDC].png -> D:\AllRoms\SFC\Imgs\达摩道场[DMDC].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 达菲鸭火星任务[DFYHXRW].png -> D:\AllRoms\SFC\Imgs\达菲鸭火星任务[DFYHXRW].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 钓鱼太郎[简][完全汉化][DYTLJWQHH].png -> D:\AllRoms\SFC\Imgs\钓鱼太郎[简][完全汉化][DYTLJWQHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\D 钓鱼太郎[繁][DYTLF].png -> D:\AllRoms\SFC\Imgs\钓鱼太郎[繁][DYTLF].png
+去除前缀: D:\AllRoms\SFC\Imgs\E 恶魔城XX[EMC].png -> D:\AllRoms\SFC\Imgs\恶魔城XX[EMC].png
+去除前缀: D:\AllRoms\SFC\Imgs\E 恶魔城XX无限血[EMCWXX].png -> D:\AllRoms\SFC\Imgs\恶魔城XX无限血[EMCWXX].png
+去除前缀: D:\AllRoms\SFC\Imgs\E 恶魔城[EMC].png -> D:\AllRoms\SFC\Imgs\恶魔城[EMC].png
+去除前缀: D:\AllRoms\SFC\Imgs\E 恶魔城按键HACK zip[EMCAJ].png -> D:\AllRoms\SFC\Imgs\恶魔城按键HACK zip[EMCAJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\E 恶魔城无限人透明[EMCWXRTM].png -> D:\AllRoms\SFC\Imgs\恶魔城无限人透明[EMCWXRTM].png
+去除前缀: D:\AllRoms\SFC\Imgs\F F-ZERO Grand Prix 2POWER不減99命(J)[BJ99M].png -> D:\AllRoms\SFC\Imgs\F-ZERO Grand Prix 2POWER不減99命(J)[BJ99M].png
+去除前缀: D:\AllRoms\SFC\Imgs\F F-ZERO Grand Prix 无限命及P不减[WXMJBJ].png -> D:\AllRoms\SFC\Imgs\F-ZERO Grand Prix 无限命及P不减[WXMJBJ].png
+无前缀: D:\AllRoms\SFC\Imgs\f f-zero 零式赛车 能量和人数[LSSCNLHRS].png (未做更改)
+去除前缀: D:\AllRoms\SFC\Imgs\F F1大奖赛3[DJS3].png -> D:\AllRoms\SFC\Imgs\F1大奖赛3[DJS3].png
+去除前缀: D:\AllRoms\SFC\Imgs\F FIFA国际足球[GJZQ].png -> D:\AllRoms\SFC\Imgs\FIFA国际足球[GJZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 弗尔曼真实拳击[FEMZSQJ].png -> D:\AllRoms\SFC\Imgs\弗尔曼真实拳击[FEMZSQJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 绯王传[FWC].png -> D:\AllRoms\SFC\Imgs\绯王传[FWC].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 翡翠龙.png -> D:\AllRoms\SFC\Imgs\翡翠龙.png
+去除前缀: D:\AllRoms\SFC\Imgs\F 翡翠龙[FCL].png -> D:\AllRoms\SFC\Imgs\翡翠龙[FCL].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 风来的西林[简][FLDXLJ].png -> D:\AllRoms\SFC\Imgs\风来的西林[简][FLDXLJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 风水回廊记[FSHLJ].png -> D:\AllRoms\SFC\Imgs\风水回廊记[FSHLJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 飞行俱乐部[FXJLB].png -> D:\AllRoms\SFC\Imgs\飞行俱乐部[FXJLB].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 飞行英雄[FXYX].png -> D:\AllRoms\SFC\Imgs\飞行英雄[FXYX].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 飞龙之拳S-加强版[FLZQJQB].png -> D:\AllRoms\SFC\Imgs\飞龙之拳S-加强版[FLZQJQB].png
+去除前缀: D:\AllRoms\SFC\Imgs\F 飞龙之拳S-黄金战士[FLZQHJZS].png -> D:\AllRoms\SFC\Imgs\飞龙之拳S-黄金战士[FLZQHJZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G GO!GO!恶魔少年[简][EMSNJ].png -> D:\AllRoms\SFC\Imgs\GO!GO!恶魔少年[简][EMSNJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\G GO!GO!恶魔少年[繁][EMSNF].png -> D:\AllRoms\SFC\Imgs\GO!GO!恶魔少年[繁][EMSNF].png
+去除前缀: D:\AllRoms\SFC\Imgs\G GO恶魔少年HACK(命数不减炸弹不减体力不减修正)BY疾风之狼[EMSNMSBJZDBJTLBJXZJFZL].png -> D:\AllRoms\SFC\Imgs\GO恶魔少年HACK(命数不减炸弹不减体力不减修正)BY疾风之狼[EMSNMSBJZDBJTLBJXZJFZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\G GO恶魔少年无敌[EMSNWD].png -> D:\AllRoms\SFC\Imgs\GO恶魔少年无敌[EMSNWD].png
+去除前缀: D:\AllRoms\SFC\Imgs\G GP-1行云流水赛[XYLSS].png -> D:\AllRoms\SFC\Imgs\GP-1行云流水赛[XYLSS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G GP-1重型机车赛[ZXJCS].png -> D:\AllRoms\SFC\Imgs\GP-1重型机车赛[ZXJCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G Gunforce - Battle Fire Engulfed Terror Island 无限人[WXR].png -> D:\AllRoms\SFC\Imgs\Gunforce - Battle Fire Engulfed Terror Island 无限人[WXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 光伞传说[GSCS].png -> D:\AllRoms\SFC\Imgs\光伞传说[GSCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 光脚阿迪传说[GJADCS].png -> D:\AllRoms\SFC\Imgs\光脚阿迪传说[GJADCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 冠军世界级足球赛[GJSJJZQS].png -> D:\AllRoms\SFC\Imgs\冠军世界级足球赛[GJSJJZQS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 冠军桌球[GJZQ].png -> D:\AllRoms\SFC\Imgs\冠军桌球[GJZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 冠军桌球[简][少量汉化][GJZQJSLHH].png -> D:\AllRoms\SFC\Imgs\冠军桌球[简][少量汉化][GJZQJSLHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 古城救美[GCJM].png -> D:\AllRoms\SFC\Imgs\古城救美[GCJM].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 古大陆物语2[GDLWY2].png -> D:\AllRoms\SFC\Imgs\古大陆物语2[GDLWY2].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 古魔法世界[GMFSJ].png -> D:\AllRoms\SFC\Imgs\古魔法世界[GMFSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 哥斯拉-怪兽大决战[GSLGSDJZ].png -> D:\AllRoms\SFC\Imgs\哥斯拉-怪兽大决战[GSLGSDJZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 国际象棋大师[GJXQDS].png -> D:\AllRoms\SFC\Imgs\国际象棋大师[GJXQDS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 怪物三人行(欧)无限血，命，骨，吼[GWSRXOWXXMGH].png -> D:\AllRoms\SFC\Imgs\怪物三人行(欧)无限血，命，骨，吼[GWSRXOWXXMGH].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 怪物圣地[GWSD].png -> D:\AllRoms\SFC\Imgs\怪物圣地[GWSD].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 灌篮高手2[简][GLGS2J].png -> D:\AllRoms\SFC\Imgs\灌篮高手2[简][GLGS2J].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 灌籃高手2 修改版[GLGS2XGB].png -> D:\AllRoms\SFC\Imgs\灌籃高手2 修改版[GLGS2XGB].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 盖亚幻想纪[繁][GYHXJF].png -> D:\AllRoms\SFC\Imgs\盖亚幻想纪[繁][GYHXJF].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 盖亚幻想记中文版V1[GYHXJZWB].png -> D:\AllRoms\SFC\Imgs\盖亚幻想记中文版V1[GYHXJZWB].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 绀碧之舰队[简][GBZJDJ].png -> D:\AllRoms\SFC\Imgs\绀碧之舰队[简][GBZJDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 钢铁战士(日)无限炸弹人[GTZSRWXZDR].png -> D:\AllRoms\SFC\Imgs\钢铁战士(日)无限炸弹人[GTZSRWXZDR].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 钢铁战士[GTZS].png -> D:\AllRoms\SFC\Imgs\钢铁战士[GTZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 高智能方程式赛车[GZNFCSSC].png -> D:\AllRoms\SFC\Imgs\高智能方程式赛车[GZNFCSSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 高桥名人之大冒险岛2[GQMRZDMXD2].png -> D:\AllRoms\SFC\Imgs\高桥名人之大冒险岛2[GQMRZDMXD2].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 高桥名人之大冒险岛[GQMRZDMXD].png -> D:\AllRoms\SFC\Imgs\高桥名人之大冒险岛[GQMRZDMXD].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 高飞狗-海贼岛大冒险[GFGHZDDMX].png -> D:\AllRoms\SFC\Imgs\高飞狗-海贼岛大冒险[GFGHZDDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 鬼屋历险[GWLX].png -> D:\AllRoms\SFC\Imgs\鬼屋历险[GWLX].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 鬼神童子-烈斗雷传[简][GSTZLDLCJ].png -> D:\AllRoms\SFC\Imgs\鬼神童子-烈斗雷传[简][GSTZLDLCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 鬼神童子-烈斗雷传[繁][GSTZLDLCF].png -> D:\AllRoms\SFC\Imgs\鬼神童子-烈斗雷传[繁][GSTZLDLCF].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 鬼神童子-电影雷舞[GSTZDYLW].png -> D:\AllRoms\SFC\Imgs\鬼神童子-电影雷舞[GSTZDYLW].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 鬼神童子中文版(无限生血命保护)真正无敌版[GSTZZWBWXSXMBHZZWDB].png -> D:\AllRoms\SFC\Imgs\鬼神童子中文版(无限生血命保护)真正无敌版[GSTZZWBWXSXMBHZZWDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\G 鬼马小精灵[GMXJL].png -> D:\AllRoms\SFC\Imgs\鬼马小精灵[GMXJL].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 哈利巨人屋探险[HLJRWTX].png -> D:\AllRoms\SFC\Imgs\哈利巨人屋探险[HLJRWTX].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 回到未来2[HDWL2].png -> D:\AllRoms\SFC\Imgs\回到未来2[HDWL2].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 幻兽旅团[HSLT].png -> D:\AllRoms\SFC\Imgs\幻兽旅团[HSLT].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 幻想传说.png -> D:\AllRoms\SFC\Imgs\幻想传说.png
+去除前缀: D:\AllRoms\SFC\Imgs\H 幻想传说[HXCS].png -> D:\AllRoms\SFC\Imgs\幻想传说[HXCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 横山光辉三国志[简][HSGHSGZJ].png -> D:\AllRoms\SFC\Imgs\横山光辉三国志[简][HSGHSGZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 横山光辉三国志[繁][HSGHSGZF].png -> D:\AllRoms\SFC\Imgs\横山光辉三国志[繁][HSGHSGZF].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 毁灭战士[HMZS].png -> D:\AllRoms\SFC\Imgs\毁灭战士[HMZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 浣熊方块[HXFK].png -> D:\AllRoms\SFC\Imgs\浣熊方块[HXFK].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 海腹川背(日版)[HFCBRB].png -> D:\AllRoms\SFC\Imgs\海腹川背(日版)[HFCBRB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 海腹川背[HFCB].png -> D:\AllRoms\SFC\Imgs\海腹川背[HFCB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 海风之鼓动[HFZGD].png -> D:\AllRoms\SFC\Imgs\海风之鼓动[HFZGD].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 滑雪天堂[HXTT].png -> D:\AllRoms\SFC\Imgs\滑雪天堂[HXTT].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火柴摩托车赛[HCMTCS].png -> D:\AllRoms\SFC\Imgs\火柴摩托车赛[HCMTCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰之纹章 多拉基亚776中文修改版[HYZWZDLJY776ZWXGB].png -> D:\AllRoms\SFC\Imgs\火焰之纹章 多拉基亚776中文修改版[HYZWZDLJY776ZWXGB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰之纹章3-纹章之谜[简][HYZWZ3WZZMJ].png -> D:\AllRoms\SFC\Imgs\火焰之纹章3-纹章之谜[简][HYZWZ3WZZMJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰之纹章3-纹章之谜[繁][HYZWZ3WZZMF].png -> D:\AllRoms\SFC\Imgs\火焰之纹章3-纹章之谜[繁][HYZWZ3WZZMF].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰之纹章4-圣战系谱[简][HYZWZ4SZXPJ].png -> D:\AllRoms\SFC\Imgs\火焰之纹章4-圣战系谱[简][HYZWZ4SZXPJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰之纹章4-圣战系谱[繁][HYZWZ4SZXPF].png -> D:\AllRoms\SFC\Imgs\火焰之纹章4-圣战系谱[繁][HYZWZ4SZXPF].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰之纹章5-多拉基亚776[简][HYZWZ5DLJY776J].png -> D:\AllRoms\SFC\Imgs\火焰之纹章5-多拉基亚776[简][HYZWZ5DLJY776J].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰之纹章5-多拉基亚776[繁][HYZWZ5DLJY776F].png -> D:\AllRoms\SFC\Imgs\火焰之纹章5-多拉基亚776[繁][HYZWZ5DLJY776F].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰纹章4圣战系谱完美成长率全特技版[HYWZ4SZXPWMCCLQTJB].png -> D:\AllRoms\SFC\Imgs\火焰纹章4圣战系谱完美成长率全特技版[HYWZ4SZXPWMCCLQTJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰纹章4圣战系谱法拉版[HYWZ4SZXPFLB].png -> D:\AllRoms\SFC\Imgs\火焰纹章4圣战系谱法拉版[HYWZ4SZXPFLB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰纹章4圣战系谱疯狂版[HYWZ4SZXPFKB].png -> D:\AllRoms\SFC\Imgs\火焰纹章4圣战系谱疯狂版[HYWZ4SZXPFKB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰纹章4圣战系谱达人版[HYWZ4SZXPDRB].png -> D:\AllRoms\SFC\Imgs\火焰纹章4圣战系谱达人版[HYWZ4SZXPDRB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火焰纹章4圣战系谱魔剑版[HYWZ4SZXPMJB].png -> D:\AllRoms\SFC\Imgs\火焰纹章4圣战系谱魔剑版[HYWZ4SZXPMJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火箭飞行者[HJFXZ].png -> D:\AllRoms\SFC\Imgs\火箭飞行者[HJFXZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火箭骑士.png -> D:\AllRoms\SFC\Imgs\火箭骑士.png
+去除前缀: D:\AllRoms\SFC\Imgs\H 火箭骑士[HJQS].png -> D:\AllRoms\SFC\Imgs\火箭骑士[HJQS].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 猴子大冒险[HZDMX].png -> D:\AllRoms\SFC\Imgs\猴子大冒险[HZDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 皇家战士[HJZS].png -> D:\AllRoms\SFC\Imgs\皇家战士[HJZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 皇家骑士团2[繁][HJQST2F].png -> D:\AllRoms\SFC\Imgs\皇家骑士团2[繁][HJQST2F].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 皇家骑士团[简][HJQSTJ].png -> D:\AllRoms\SFC\Imgs\皇家骑士团[简][HJQSTJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 红棉花魔女[J]人法力不減.png -> D:\AllRoms\SFC\Imgs\红棉花魔女[J]人法力不減.png
+去除前缀: D:\AllRoms\SFC\Imgs\H 航空霸业-太空飞翔[HKBYTKFX].png -> D:\AllRoms\SFC\Imgs\航空霸业-太空飞翔[HKBYTKFX].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 航空霸业2-目标航空王[HKBY2MBHKW].png -> D:\AllRoms\SFC\Imgs\航空霸业2-目标航空王[HKBY2MBHKW].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 花仙子方块[HXZFK].png -> D:\AllRoms\SFC\Imgs\花仙子方块[HXZFK].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 花式撞球[HSZQ].png -> D:\AllRoms\SFC\Imgs\花式撞球[HSZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 荒野之枪[HYZQ].png -> D:\AllRoms\SFC\Imgs\荒野之枪[HYZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 荒野双抢无敌版[HYSQWDB].png -> D:\AllRoms\SFC\Imgs\荒野双抢无敌版[HYSQWDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 豪枪神雷传说-武者[HQSLCSWZ].png -> D:\AllRoms\SFC\Imgs\豪枪神雷传说-武者[HQSLCSWZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 魂斗罗欧版(无限命无限炸弹HACK)[HDLOBWXMWXZD].png -> D:\AllRoms\SFC\Imgs\魂斗罗欧版(无限命无限炸弹HACK)[HDLOBWXMWXZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 魂斗罗精神[HDLJS].png -> D:\AllRoms\SFC\Imgs\魂斗罗精神[HDLJS].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 黄龙之耳[HLZE].png -> D:\AllRoms\SFC\Imgs\黄龙之耳[HLZE].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 黑暗之鹰[HAZY].png -> D:\AllRoms\SFC\Imgs\黑暗之鹰[HAZY].png
+去除前缀: D:\AllRoms\SFC\Imgs\H 黑暗法令[HAFL].png -> D:\AllRoms\SFC\Imgs\黑暗法令[HAFL].png
+去除前缀: D:\AllRoms\SFC\Imgs\J J联盟热力足球94[LMRLZQ94].png -> D:\AllRoms\SFC\Imgs\J联盟热力足球94[LMRLZQ94].png
+去除前缀: D:\AllRoms\SFC\Imgs\J J联盟超级足球95[LMCJZQ95].png -> D:\AllRoms\SFC\Imgs\J联盟超级足球95[LMCJZQ95].png
+去除前缀: D:\AllRoms\SFC\Imgs\J J联盟超级足球[LMCJZQ].png -> D:\AllRoms\SFC\Imgs\J联盟超级足球[LMCJZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\J J联盟足球得分王3[LMZQDFW3].png -> D:\AllRoms\SFC\Imgs\J联盟足球得分王3[LMZQDFW3].png
+去除前缀: D:\AllRoms\SFC\Imgs\J J计划-机械少年皮诺[JHJXSNPN].png -> D:\AllRoms\SFC\Imgs\J计划-机械少年皮诺[JHJXSNPN].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 剑狂-日[JKR].png -> D:\AllRoms\SFC\Imgs\剑狂-日[JKR].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 剪草人[JCR].png -> D:\AllRoms\SFC\Imgs\剪草人[JCR].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 加州游戏2[JZYX2].png -> D:\AllRoms\SFC\Imgs\加州游戏2[JZYX2].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 劲爆NBA篮球-锦标赛版[JBLQJBSB].png -> D:\AllRoms\SFC\Imgs\劲爆NBA篮球-锦标赛版[JBLQJBSB].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 劲爆NBA篮球[JBLQ].png -> D:\AllRoms\SFC\Imgs\劲爆NBA篮球[JBLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 惊异之旅[JYZL].png -> D:\AllRoms\SFC\Imgs\惊异之旅[JYZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 救火战士[JHZS].png -> D:\AllRoms\SFC\Imgs\救火战士[JHZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 旧约女神转生[JYNSZS].png -> D:\AllRoms\SFC\Imgs\旧约女神转生[JYNSZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 晶沙之城堡探险[JSZCBTX].png -> D:\AllRoms\SFC\Imgs\晶沙之城堡探险[JSZCBTX].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机动战士高达-0079年[JDZSGDN].png -> D:\AllRoms\SFC\Imgs\机动战士高达-0079年[JDZSGDN].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机动战士高达F91-法缪拉战记0122[JDZSGDFMLZJ0122].png -> D:\AllRoms\SFC\Imgs\机动战士高达F91-法缪拉战记0122[JDZSGDFMLZJ0122].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机动武斗传G高达[JDWDCGD].png -> D:\AllRoms\SFC\Imgs\机动武斗传G高达[JDWDCGD].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机动装甲[JDZJ].png -> D:\AllRoms\SFC\Imgs\机动装甲[JDZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机械战警对终结者 命数增加99，体力增加255点BY_疾风之狼[JXZJDZJZMSZJ99TLZJ255DJFZL].png -> D:\AllRoms\SFC\Imgs\机械战警对终结者 命数增加99，体力增加255点BY_疾风之狼[JXZJDZJZMSZJ99TLZJ255DJFZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机甲争霸3050年[JJZB3050N].png -> D:\AllRoms\SFC\Imgs\机甲争霸3050年[JJZB3050N].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机甲争霸[JJZB].png -> D:\AllRoms\SFC\Imgs\机甲争霸[JJZB].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机甲警察[JJJC].png -> D:\AllRoms\SFC\Imgs\机甲警察[JJJC].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机甲骑士2-地球帝国的野望[JJQS2DQDGDYW].png -> D:\AllRoms\SFC\Imgs\机甲骑士2-地球帝国的野望[JJQS2DQDGDYW].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机甲骑士[JJQS].png -> D:\AllRoms\SFC\Imgs\机甲骑士[JJQS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 机甲魂斗罗按键换枪[JJHDLAJHQ].png -> D:\AllRoms\SFC\Imgs\机甲魂斗罗按键换枪[JJHDLAJHQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 极上Q版沙罗曼蛇[JSBSLMS].png -> D:\AllRoms\SFC\Imgs\极上Q版沙罗曼蛇[JSBSLMS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 极恶双雄MTV双傻(牙仔2人组)无敌[JESXSSYZ2RZWD].png -> D:\AllRoms\SFC\Imgs\极恶双雄MTV双傻(牙仔2人组)无敌[JESXSSYZ2RZWD].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 激战火箭炮[JZHJP].png -> D:\AllRoms\SFC\Imgs\激战火箭炮[JZHJP].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 激斗火焰摔角[JDHYSJ].png -> D:\AllRoms\SFC\Imgs\激斗火焰摔角[JDHYSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 激空战机[JKZJ].png -> D:\AllRoms\SFC\Imgs\激空战机[JKZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 甲龙传说[JLCS].png -> D:\AllRoms\SFC\Imgs\甲龙传说[JLCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 礁湖传说[JHCS].png -> D:\AllRoms\SFC\Imgs\礁湖传说[JHCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 究极合体战机(日)无限命[JJHTZJRWXM].png -> D:\AllRoms\SFC\Imgs\究极合体战机(日)无限命[JJHTZJRWXM].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 究极合体战机[JJHTZJ].png -> D:\AllRoms\SFC\Imgs\究极合体战机[JJHTZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 究极战士[JJZS].png -> D:\AllRoms\SFC\Imgs\究极战士[JJZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 精英军团无限血，命，子弹，法宝[JYJTWXXMZDFB].png -> D:\AllRoms\SFC\Imgs\精英军团无限血，命，子弹，法宝[JYJTWXXMZDFB].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 绝地大屠杀2死亡游戏2 (美)无限人炸弹全武器子弹不减超爽版[JDDTS2SWYX2MWXRZDQWQZDBJCSB].png -> D:\AllRoms\SFC\Imgs\绝地大屠杀2死亡游戏2 (美)无限人炸弹全武器子弹不减超爽版[JDDTS2SWYX2MWXRZDQWQZDBJCSB].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 街头格斗组合[JTGDZH].png -> D:\AllRoms\SFC\Imgs\街头格斗组合[JTGDZH].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 街头赛车手[JTSCS].png -> D:\AllRoms\SFC\Imgs\街头赛车手[JTSCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 街头霸王2-天下斗士[JTBW2TXDS].png -> D:\AllRoms\SFC\Imgs\街头霸王2-天下斗士[JTBW2TXDS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 街头霸王2加强版-超级战士[JTBW2JQBCJZS].png -> D:\AllRoms\SFC\Imgs\街头霸王2加强版-超级战士[JTBW2JQBCJZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 街头霸王5超强版[JTBW5CQB].png -> D:\AllRoms\SFC\Imgs\街头霸王5超强版[JTBW5CQB].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 近郊冒险队[JJMXD].png -> D:\AllRoms\SFC\Imgs\近郊冒险队[JJMXD].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 迦楼罗王[JLLW].png -> D:\AllRoms\SFC\Imgs\迦楼罗王[JLLW].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 金刚狼[JGL].png -> D:\AllRoms\SFC\Imgs\金刚狼[JGL].png
+去除前缀: D:\AllRoms\SFC\Imgs\J 金属战队[JSZD].png -> D:\AllRoms\SFC\Imgs\金属战队[JSZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 凯伦的疯狂追逐[KLDFKZZ].png -> D:\AllRoms\SFC\Imgs\凯伦的疯狂追逐[KLDFKZZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 卡比滚球[KBGQ].png -> D:\AllRoms\SFC\Imgs\卡比滚球[KBGQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 卡通乐园[KTLY].png -> D:\AllRoms\SFC\Imgs\卡通乐园[KTLY].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 卡通天蚕变[KTTCB].png -> D:\AllRoms\SFC\Imgs\卡通天蚕变[KTTCB].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打刑事-乱[KDXSL].png -> D:\AllRoms\SFC\Imgs\快打刑事-乱[KDXSL].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打刑事-修罗[KDXSXL].png -> D:\AllRoms\SFC\Imgs\快打刑事-修罗[KDXSXL].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打刑事.png -> D:\AllRoms\SFC\Imgs\快打刑事.png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打刑事[KDXS].png -> D:\AllRoms\SFC\Imgs\快打刑事[KDXS].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打刑警II[KDXJ].png -> D:\AllRoms\SFC\Imgs\快打刑警II[KDXJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打旋风 2无限人数[KDXF2WXRS].png -> D:\AllRoms\SFC\Imgs\快打旋风 2无限人数[KDXF2WXRS].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打旋风-朋友[KDXFPY].png -> D:\AllRoms\SFC\Imgs\快打旋风-朋友[KDXFPY].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打旋风1代无限命[KDXF1DWXM].png -> D:\AllRoms\SFC\Imgs\快打旋风1代无限命[KDXF1DWXM].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打旋风2[KDXF2].png -> D:\AllRoms\SFC\Imgs\快打旋风2[KDXF2].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打旋风3[KDXF3].png -> D:\AllRoms\SFC\Imgs\快打旋风3[KDXF3].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打旋风3终极HACK版[KDXF3ZJB].png -> D:\AllRoms\SFC\Imgs\快打旋风3终极HACK版[KDXF3ZJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 快打旋风[简][KDXFJ].png -> D:\AllRoms\SFC\Imgs\快打旋风[简][KDXFJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 恐龙大战[KLDZ].png -> D:\AllRoms\SFC\Imgs\恐龙大战[KLDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 恐龙战队[KLZD].png -> D:\AllRoms\SFC\Imgs\恐龙战队[KLZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 恐龙抢蛋[KLQD].png -> D:\AllRoms\SFC\Imgs\恐龙抢蛋[KLQD].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 空中力量[KZLL].png -> D:\AllRoms\SFC\Imgs\空中力量[KZLL].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 空想科学世界[KXKXSJ].png -> D:\AllRoms\SFC\Imgs\空想科学世界[KXKXSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\K 酷昂八[KAB].png -> D:\AllRoms\SFC\Imgs\酷昂八[KAB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 乱马1／2-奥义邪暗拳[LM1AYXAQ].png -> D:\AllRoms\SFC\Imgs\乱马1／2-奥义邪暗拳[LM1AYXAQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 乱马1／2-村內激斗篇[LM1CNJDP].png -> D:\AllRoms\SFC\Imgs\乱马1／2-村內激斗篇[LM1CNJDP].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 乱马1／2-爆裂乱斗篇[LM1BLLDP].png -> D:\AllRoms\SFC\Imgs\乱马1／2-爆裂乱斗篇[LM1BLLDP].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 兰古瑞萨Der[简][LGRSJ].png -> D:\AllRoms\SFC\Imgs\兰古瑞萨Der[简][LGRSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 垄断[LD].png -> D:\AllRoms\SFC\Imgs\垄断[LD].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 拉布拉斯之魔[LBLSZM].png -> D:\AllRoms\SFC\Imgs\拉布拉斯之魔[LBLSZM].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 拉斯维加斯之梦[LSWJSZM].png -> D:\AllRoms\SFC\Imgs\拉斯维加斯之梦[LSWJSZM].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 拉莫斯的世界足球[LMSDSJZQ].png -> D:\AllRoms\SFC\Imgs\拉莫斯的世界足球[LMSDSJZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 拉里尼克松的超级巴斯钓鱼[LLNKSDCJBSDY].png -> D:\AllRoms\SFC\Imgs\拉里尼克松的超级巴斯钓鱼[LLNKSDCJBSDY].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 旅鼠总动员2-部落[LSZDY2BL].png -> D:\AllRoms\SFC\Imgs\旅鼠总动员2-部落[LSZDY2BL].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 旅鼠总动员[LSZDY].png -> D:\AllRoms\SFC\Imgs\旅鼠总动员[LSZDY].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人7-宿命的对决[LKR7SMDDJ].png -> D:\AllRoms\SFC\Imgs\洛克人7-宿命的对决[LKR7SMDDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人X 修改版(V1[LKRXGB].png -> D:\AllRoms\SFC\Imgs\洛克人X 修改版(V1[LKRXGB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人X2[LKR].png -> D:\AllRoms\SFC\Imgs\洛克人X2[LKR].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人X2不减血[LKRBJX].png -> D:\AllRoms\SFC\Imgs\洛克人X2不减血[LKRBJX].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人X3[LKR].png -> D:\AllRoms\SFC\Imgs\洛克人X3[LKR].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人X3能力加强版[LKRNLJQB].png -> D:\AllRoms\SFC\Imgs\洛克人X3能力加强版[LKRNLJQB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人X[LKR].png -> D:\AllRoms\SFC\Imgs\洛克人X[LKR].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人X初始拥有全武器版[LKRCSYYQWQB].png -> D:\AllRoms\SFC\Imgs\洛克人X初始拥有全武器版[LKRCSYYQWQB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人_X3_ZERO版无限人[LKRBWXR].png -> D:\AllRoms\SFC\Imgs\洛克人_X3_ZERO版无限人[LKRBWXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人与佛鲁迪[LKRYFLD].png -> D:\AllRoms\SFC\Imgs\洛克人与佛鲁迪[LKRYFLD].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人和佛罗迪HACK版[LKRHFLDB].png -> D:\AllRoms\SFC\Imgs\洛克人和佛罗迪HACK版[LKRHFLDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 洛克人足球[LKRZQ].png -> D:\AllRoms\SFC\Imgs\洛克人足球[LKRZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 流浪之岛[LLZD].png -> D:\AllRoms\SFC\Imgs\流浪之岛[LLZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 浪漫沙加3[LMSJ3].png -> D:\AllRoms\SFC\Imgs\浪漫沙加3[LMSJ3].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 浪漫沙加3[简][LMSJ3J].png -> D:\AllRoms\SFC\Imgs\浪漫沙加3[简][LMSJ3J].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 浪漫沙加3[繁][LMSJ3F].png -> D:\AllRoms\SFC\Imgs\浪漫沙加3[繁][LMSJ3F].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 浪漫沙加3技能法术0消耗版[LMSJ3JNFS0XHB].png -> D:\AllRoms\SFC\Imgs\浪漫沙加3技能法术0消耗版[LMSJ3JNFS0XHB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 浪漫沙加3装备怪物强化版[LMSJ3ZBGWQHB].png -> D:\AllRoms\SFC\Imgs\浪漫沙加3装备怪物强化版[LMSJ3ZBGWQHB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 猎杀红色十月[LSHSSY].png -> D:\AllRoms\SFC\Imgs\猎杀红色十月[LSHSSY].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 立体跳方块3[LTTFK3].png -> D:\AllRoms\SFC\Imgs\立体跳方块3[LTTFK3].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 罗德斯岛战记.png -> D:\AllRoms\SFC\Imgs\罗德斯岛战记.png
+去除前缀: D:\AllRoms\SFC\Imgs\L 罗德斯岛战记[LDSDZJ].png -> D:\AllRoms\SFC\Imgs\罗德斯岛战记[LDSDZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 蓝色兄弟[LSXD].png -> D:\AllRoms\SFC\Imgs\蓝色兄弟[LSXD].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 里迪克鲍拳击[LDKBQJ].png -> D:\AllRoms\SFC\Imgs\里迪克鲍拳击[LDKBQJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 铃木亚久里F1超级赛车[LMYJLCJSC].png -> D:\AllRoms\SFC\Imgs\铃木亚久里F1超级赛车[LMYJLCJSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 零式特攻队 (US)无限血，镖，命[LSTGDWXXBM].png -> D:\AllRoms\SFC\Imgs\零式特攻队 (US)无限血，镖，命[LSTGDWXXBM].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 零式赛车[LSSC].png -> D:\AllRoms\SFC\Imgs\零式赛车[LSSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 雷电[LD].png -> D:\AllRoms\SFC\Imgs\雷电[LD].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 雷电传说[LDCS].png -> D:\AllRoms\SFC\Imgs\雷电传说[LDCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 雷莎出击2[LSCJ2].png -> D:\AllRoms\SFC\Imgs\雷莎出击2[LSCJ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 雷莎出击[LSCJ].png -> D:\AllRoms\SFC\Imgs\雷莎出击[LSCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 雷霆机器人[LTJQR].png -> D:\AllRoms\SFC\Imgs\雷霆机器人[LTJQR].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 雷霆英豪(无限命人八种武器无限子弹)[LTYHWXMRBZWQWXZD].png -> D:\AllRoms\SFC\Imgs\雷霆英豪(无限命人八种武器无限子弹)[LTYHWXMRBZWQWXZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 露卡大冒险[LKDMX].png -> D:\AllRoms\SFC\Imgs\露卡大冒险[LKDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 鲁多拉秘宝.png -> D:\AllRoms\SFC\Imgs\鲁多拉秘宝.png
+去除前缀: D:\AllRoms\SFC\Imgs\L 鲁多拉秘宝[LDLMB].png -> D:\AllRoms\SFC\Imgs\鲁多拉秘宝[LDLMB].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙与地下城-魔眼杀机[LYDXCMYSJ].png -> D:\AllRoms\SFC\Imgs\龙与地下城-魔眼杀机[LYDXCMYSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙战士2-使命之子[LZS2SMZZ].png -> D:\AllRoms\SFC\Imgs\龙战士2-使命之子[LZS2SMZZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙战士[LZS].png -> D:\AllRoms\SFC\Imgs\龙战士[LZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙王[LW].png -> D:\AllRoms\SFC\Imgs\龙王[LW].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙王战士HACK[LWZS].png -> D:\AllRoms\SFC\Imgs\龙王战士HACK[LWZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙珠Z-超悟空传-觉醒篇[LZCWKCJXP].png -> D:\AllRoms\SFC\Imgs\龙珠Z-超悟空传-觉醒篇[LZCWKCJXP].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙珠Z-超次元战记[LZCCYZJ].png -> D:\AllRoms\SFC\Imgs\龙珠Z-超次元战记[LZCCYZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙珠Z-超武斗传3[LZCWDC3].png -> D:\AllRoms\SFC\Imgs\龙珠Z-超武斗传3[LZCWDC3].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙珠Z-超武斗传[LZCWDC].png -> D:\AllRoms\SFC\Imgs\龙珠Z-超武斗传[LZCWDC].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙珠Z-超级赛亚人传说[LZCJSYRCS].png -> D:\AllRoms\SFC\Imgs\龙珠Z-超级赛亚人传说[LZCJSYRCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙珠Z超悟空传-觉醒篇[简][少量汉化][LZCWKCJXPJSLHH].png -> D:\AllRoms\SFC\Imgs\龙珠Z超悟空传-觉醒篇[简][少量汉化][LZCWKCJXPJSLHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙穴历险记[LXLXJ].png -> D:\AllRoms\SFC\Imgs\龙穴历险记[LXLXJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\L 龙骑兵团[LQBT].png -> D:\AllRoms\SFC\Imgs\龙骑兵团[LQBT].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 名将[MJ].png -> D:\AllRoms\SFC\Imgs\名将[MJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 帽子戏法足球英雄[MZXFZQYX].png -> D:\AllRoms\SFC\Imgs\帽子戏法足球英雄[MZXFZQYX].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 描绘卫门[MHWM].png -> D:\AllRoms\SFC\Imgs\描绘卫门[MHWM].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 摩登大圣[MDDS].png -> D:\AllRoms\SFC\Imgs\摩登大圣[MDDS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 明日之丈[MRZZ].png -> D:\AllRoms\SFC\Imgs\明日之丈[MRZZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 木偶奇遇记[MOQYJ].png -> D:\AllRoms\SFC\Imgs\木偶奇遇记[MOQYJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 梦幻模拟战2[MHMNZ2].png -> D:\AllRoms\SFC\Imgs\梦幻模拟战2[MHMNZ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 梦幻模拟战DER商店物品价格修改商店物品价格修改_BY_疾风之狼[MHMNZSDWPJGXGSDWPJGXGJFZL].png -> D:\AllRoms\SFC\Imgs\梦幻模拟战DER商店物品价格修改商店物品价格修改_BY_疾风之狼[MHMNZSDWPJGXGSDWPJGXGJFZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 梦幻模拟战之小刀会[MHMNZZXDH].png -> D:\AllRoms\SFC\Imgs\梦幻模拟战之小刀会[MHMNZZXDH].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 梦幻模拟战衍生版HACK 1[MHMNZYSB].png -> D:\AllRoms\SFC\Imgs\梦幻模拟战衍生版HACK 1[MHMNZYSB].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 梦想家[简][MXJJ].png -> D:\AllRoms\SFC\Imgs\梦想家[简][MXJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 梦迷宫大冒险[MMGDMX].png -> D:\AllRoms\SFC\Imgs\梦迷宫大冒险[MMGDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 棉花小魔女修改了法力无限[MHXMNXGLFLWX].png -> D:\AllRoms\SFC\Imgs\棉花小魔女修改了法力无限[MHXMNXGLFLWX].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 模拟城市2000[MNCS2000].png -> D:\AllRoms\SFC\Imgs\模拟城市2000[MNCS2000].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 模拟城市[MNCS].png -> D:\AllRoms\SFC\Imgs\模拟城市[MNCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 模拟蚂蚁[MNMY].png -> D:\AllRoms\SFC\Imgs\模拟蚂蚁[MNMY].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 灭绝战记2[MJZJ2].png -> D:\AllRoms\SFC\Imgs\灭绝战记2[MJZJ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 牧场物语[简][MCWYJ].png -> D:\AllRoms\SFC\Imgs\牧场物语[简][MCWYJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 牧场物语[繁][MCWYF].png -> D:\AllRoms\SFC\Imgs\牧场物语[繁][MCWYF].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 牧场物语中文强化版bygbas[MCWYZWQHB].png -> D:\AllRoms\SFC\Imgs\牧场物语中文强化版bygbas[MCWYZWQHB].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 猫和老鼠[MHLS].png -> D:\AllRoms\SFC\Imgs\猫和老鼠[MHLS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 玛亚冒险[MYMX].png -> D:\AllRoms\SFC\Imgs\玛亚冒险[MYMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 玛莉明星合集无敌无限人[MLMXHJWDWXR].png -> D:\AllRoms\SFC\Imgs\玛莉明星合集无敌无限人[MLMXHJWDWXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 秘境魔宝2[MJMB2].png -> D:\AllRoms\SFC\Imgs\秘境魔宝2[MJMB2].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 秘境魔宝美少女篇[MJMBMSNP].png -> D:\AllRoms\SFC\Imgs\秘境魔宝美少女篇[MJMBMSNP].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 米奇和米妮-魔法冒险2[MQHMNMFMX2].png -> D:\AllRoms\SFC\Imgs\米奇和米妮-魔法冒险2[MQHMNMFMX2].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 米老鼠-魔法冒险[MLSMFMX].png -> D:\AllRoms\SFC\Imgs\米老鼠-魔法冒险[MLSMFMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 米老鼠与唐老鸭-魔法冒险3[MLSYTLYMFMX3].png -> D:\AllRoms\SFC\Imgs\米老鼠与唐老鸭-魔法冒险3[MLSYTLYMFMX3].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 米老鼠东京迪士尼乐园大冒险[MLSDJDSNLYDMX].png -> D:\AllRoms\SFC\Imgs\米老鼠东京迪士尼乐园大冒险[MLSDJDSNLYDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 米老鼠历险记[MLSLXJ].png -> D:\AllRoms\SFC\Imgs\米老鼠历险记[MLSLXJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美国上尉(美)无限血，命[MGSWMWXXM].png -> D:\AllRoms\SFC\Imgs\美国上尉(美)无限血，命[MGSWMWXXM].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美国冰球[MGBQ].png -> D:\AllRoms\SFC\Imgs\美国冰球[MGBQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美国巡回赛车[MGXHSC].png -> D:\AllRoms\SFC\Imgs\美国巡回赛车[MGXHSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美女与野兽[MNYYS].png -> D:\AllRoms\SFC\Imgs\美女与野兽[MNYYS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美少女剑士梅儿[MSNJSME].png -> D:\AllRoms\SFC\Imgs\美少女剑士梅儿[MSNJSME].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美少女战士-新的故事[MSNZSXDGS].png -> D:\AllRoms\SFC\Imgs\美少女战士-新的故事[MSNZSXDGS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美少女战士R[MSNZS].png -> D:\AllRoms\SFC\Imgs\美少女战士R[MSNZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美少女战士S-场外乱斗!主役争夺战[MSNZSCWLDZYZDZ].png -> D:\AllRoms\SFC\Imgs\美少女战士S-场外乱斗!主役争夺战[MSNZSCWLDZYZDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美少女战士超级S-全员参加!主役争夺战[MSNZSCJQYCJZYZDZ].png -> D:\AllRoms\SFC\Imgs\美少女战士超级S-全员参加!主役争夺战[MSNZSCJQYCJZYZDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美少女抢救大作战[MSNQJDZZ].png -> D:\AllRoms\SFC\Imgs\美少女抢救大作战[MSNQJDZZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美食战队-蔷薇野郎血不减(怕电灯人)敌一击死[MSZDQWYLXBJPDDRDYJS].png -> D:\AllRoms\SFC\Imgs\美食战队-蔷薇野郎血不减(怕电灯人)敌一击死[MSZDQWYLXBJPDDRDYJS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 美食战队[MSZD].png -> D:\AllRoms\SFC\Imgs\美食战队[MSZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 蚂蚁战士[MYZS].png -> D:\AllRoms\SFC\Imgs\蚂蚁战士[MYZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 迈克尔安德瑞蒂的印地赛车挑战赛[MKEADRDDYDSCTZS].png -> D:\AllRoms\SFC\Imgs\迈克尔安德瑞蒂的印地赛车挑战赛[MKEADRDDYDSCTZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 迷宫魔兽[MGMS].png -> D:\AllRoms\SFC\Imgs\迷宫魔兽[MGMS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔兽王(J)无限血，命[MSWWXXM].png -> D:\AllRoms\SFC\Imgs\魔兽王(J)无限血，命[MSWWXXM].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔兽王HACK版，命血时间不减BY甲鱼[MSWBMXSJBJJY].png -> D:\AllRoms\SFC\Imgs\魔兽王HACK版，命血时间不减BY甲鱼[MSWBMXSJBJJY].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔兽王[MSW].png -> D:\AllRoms\SFC\Imgs\魔兽王[MSW].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔剑美神[MJMS].png -> D:\AllRoms\SFC\Imgs\魔剑美神[MJMS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔剑道[MJD].png -> D:\AllRoms\SFC\Imgs\魔剑道[MJD].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔力小马[MLXM].png -> D:\AllRoms\SFC\Imgs\魔力小马[MLXM].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔导物语-大幼稚园儿[MDWYDYZYE].png -> D:\AllRoms\SFC\Imgs\魔导物语-大幼稚园儿[MDWYDYZYE].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔幻精灵卡[MHJLK].png -> D:\AllRoms\SFC\Imgs\魔幻精灵卡[MHJLK].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔星迷踪-古代机械的记忆[MXMZGDJXDJY].png -> D:\AllRoms\SFC\Imgs\魔星迷踪-古代机械的记忆[MXMZGDJXDJY].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔星迷踪2-封印的使徒[MXMZ2FYDST].png -> D:\AllRoms\SFC\Imgs\魔星迷踪2-封印的使徒[MXMZ2FYDST].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔术强森的超级灌篮[MSQSDCJGL].png -> D:\AllRoms\SFC\Imgs\魔术强森的超级灌篮[MSQSDCJGL].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法与剑[MFYJ].png -> D:\AllRoms\SFC\Imgs\魔法与剑[MFYJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法之剑[MFZJ].png -> D:\AllRoms\SFC\Imgs\魔法之剑[MFZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法剑(J)无限血[MFJWXX].png -> D:\AllRoms\SFC\Imgs\魔法剑(J)无限血[MFJWXX].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法堆球2[MFDQ2].png -> D:\AllRoms\SFC\Imgs\魔法堆球2[MFDQ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法堆球[MFDQ].png -> D:\AllRoms\SFC\Imgs\魔法堆球[MFDQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法大进击[MFDJJ].png -> D:\AllRoms\SFC\Imgs\魔法大进击[MFDJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法大进击无敌[MFDJJWD].png -> D:\AllRoms\SFC\Imgs\魔法大进击无敌[MFDJJWD].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法师历险记[MFSLXJ].png -> D:\AllRoms\SFC\Imgs\魔法师历险记[MFSLXJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法提琴手[MFTQS].png -> D:\AllRoms\SFC\Imgs\魔法提琴手[MFTQS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法提琴手_无敌版(无限命、时间、全宠物)[MFTQSWDBWXMSJQCW].png -> D:\AllRoms\SFC\Imgs\魔法提琴手_无敌版(无限命、时间、全宠物)[MFTQSWDBWXMSJQCW].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法气泡奇特版[MFQPQTB].png -> D:\AllRoms\SFC\Imgs\魔法气泡奇特版[MFQPQTB].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法气泡运动大对决[MFQPYDDDJ].png -> D:\AllRoms\SFC\Imgs\魔法气泡运动大对决[MFQPYDDDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法转转叠[MFZZD].png -> D:\AllRoms\SFC\Imgs\魔法转转叠[MFZZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔法骑士-雷阿斯[MFQSLAS].png -> D:\AllRoms\SFC\Imgs\魔法骑士-雷阿斯[MFQSLAS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔界佣兵2-光与暗的传说[MJYB2GYADCS].png -> D:\AllRoms\SFC\Imgs\魔界佣兵2-光与暗的传说[MJYB2GYADCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔界村外传-纹章篇[MJCWCWZP].png -> D:\AllRoms\SFC\Imgs\魔界村外传-纹章篇[MJCWCWZP].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔神转生2[简][MSZS2J].png -> D:\AllRoms\SFC\Imgs\魔神转生2[简][MSZS2J].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔神转生2[繁][MSZS2F].png -> D:\AllRoms\SFC\Imgs\魔神转生2[繁][MSZS2F].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔装机神[MZJS].png -> D:\AllRoms\SFC\Imgs\魔装机神[MZJS].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔装机神[简][MZJSJ].png -> D:\AllRoms\SFC\Imgs\魔装机神[简][MZJSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\M 魔鬼终结者2-街机版[MGZJZ2JJB].png -> D:\AllRoms\SFC\Imgs\魔鬼终结者2-街机版[MGZJZ2JJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NBA专业篮球-公牛对开拓者[ZYLQGNDKTZ].png -> D:\AllRoms\SFC\Imgs\NBA专业篮球-公牛对开拓者[ZYLQGNDKTZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NBA专业篮球94-公牛对太阳[ZYLQ94GNDTY].png -> D:\AllRoms\SFC\Imgs\NBA专业篮球94-公牛对太阳[ZYLQ94GNDTY].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NBA全美明星挑战赛[QMMXTZS].png -> D:\AllRoms\SFC\Imgs\NBA全美明星挑战赛[QMMXTZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NBA实况比赛[SKBS].png -> D:\AllRoms\SFC\Imgs\NBA实况比赛[SKBS].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NBA现场直播赛95[XCZBS95].png -> D:\AllRoms\SFC\Imgs\NBA现场直播赛95[XCZBS95].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NFL四分卫俱乐部96[SFWJLB96].png -> D:\AllRoms\SFC\Imgs\NFL四分卫俱乐部96[SFWJLB96].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NFL四分卫俱乐部[SFWJLB].png -> D:\AllRoms\SFC\Imgs\NFL四分卫俱乐部[SFWJLB].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NFL橄榄球[GLQ].png -> D:\AllRoms\SFC\Imgs\NFL橄榄球[GLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NFL职业橄榄球94[ZYGLQ94].png -> D:\AllRoms\SFC\Imgs\NFL职业橄榄球94[ZYGLQ94].png
+去除前缀: D:\AllRoms\SFC\Imgs\N NHL职业冰球94[ZYBQ94].png -> D:\AllRoms\SFC\Imgs\NHL职业冰球94[ZYBQ94].png
+去除前缀: D:\AllRoms\SFC\Imgs\N 南国少年-帕普瓦君[NGSNPPWJ].png -> D:\AllRoms\SFC\Imgs\南国少年-帕普瓦君[NGSNPPWJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\N 南国少年氣功人不減[NGSNQGRBJ].png -> D:\AllRoms\SFC\Imgs\南国少年氣功人不減[NGSNQGRBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\N 尼格尔曼塞尔的F1挑战赛[NGEMSEDTZS].png -> D:\AllRoms\SFC\Imgs\尼格尔曼塞尔的F1挑战赛[NGEMSEDTZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\N 怒之要塞[NZYS].png -> D:\AllRoms\SFC\Imgs\怒之要塞[NZYS].png
+去除前缀: D:\AllRoms\SFC\Imgs\N 纽曼哈斯印地赛车[NMHSYDSC].png -> D:\AllRoms\SFC\Imgs\纽曼哈斯印地赛车[NMHSYDSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\O 欧陆战线[OLZX].png -> D:\AllRoms\SFC\Imgs\欧陆战线[OLZX].png
+去除前缀: D:\AllRoms\SFC\Imgs\P 庞克勇士(无限人)[PKYSWXR].png -> D:\AllRoms\SFC\Imgs\庞克勇士(无限人)[PKYSWXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\P 拼图对决[PTDJ].png -> D:\AllRoms\SFC\Imgs\拼图对决[PTDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\P 排球大战[PQDZ].png -> D:\AllRoms\SFC\Imgs\排球大战[PQDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\P 普罗克大冒险[PLKDMX].png -> D:\AllRoms\SFC\Imgs\普罗克大冒险[PLKDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\P 泡泡龙[PPL].png -> D:\AllRoms\SFC\Imgs\泡泡龙[PPL].png
+去除前缀: D:\AllRoms\SFC\Imgs\P 苹果核战[PGHZ].png -> D:\AllRoms\SFC\Imgs\苹果核战[PGHZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\P 蓬莱学园之冒险[PLXYZMX].png -> D:\AllRoms\SFC\Imgs\蓬莱学园之冒险[PLXYZMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q Q版沙罗曼蛇-疯狂大射击[BSLMSFKDSJ].png -> D:\AllRoms\SFC\Imgs\Q版沙罗曼蛇-疯狂大射击[BSLMSFKDSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 七喜小子[QXXZ].png -> D:\AllRoms\SFC\Imgs\七喜小子[QXXZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 乔乔的奇妙冒险[QQDQMMX].png -> D:\AllRoms\SFC\Imgs\乔乔的奇妙冒险[QQDQMMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 企业联合[QYLH].png -> D:\AllRoms\SFC\Imgs\企业联合[QYLH].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 全速狂飙[QSKB].png -> D:\AllRoms\SFC\Imgs\全速狂飙[QSKB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 前线任务-枪之危机[QXRWQZWJ].png -> D:\AllRoms\SFC\Imgs\前线任务-枪之危机[QXRWQZWJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 前线任务[简][QXRWJ].png -> D:\AllRoms\SFC\Imgs\前线任务[简][QXRWJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 前线任务[繁][QXRWF].png -> D:\AllRoms\SFC\Imgs\前线任务[繁][QXRWF].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 奇奇怪界-月夜草子[QQGJYYCZ].png -> D:\AllRoms\SFC\Imgs\奇奇怪界-月夜草子[QQGJYYCZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 奇奇怪界-谜之黑斗篷[QQGJMZHDP].png -> D:\AllRoms\SFC\Imgs\奇奇怪界-谜之黑斗篷[QQGJMZHDP].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 奇奇怪界1美版无敌无限保护护身符超常时间[QQGJ1MBWDWXBHHSFCCSJ].png -> D:\AllRoms\SFC\Imgs\奇奇怪界1美版无敌无限保护护身符超常时间[QQGJ1MBWDWXBHHSFCCSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 奇奇怪界2无限命骑狮子无限命版[QQGJ2WXMQSZWXMB].png -> D:\AllRoms\SFC\Imgs\奇奇怪界2无限命骑狮子无限命版[QQGJ2WXMQSZWXMB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 奇异-猴子们的宝岛[QYHZMDBD].png -> D:\AllRoms\SFC\Imgs\奇异-猴子们的宝岛[QYHZMDBD].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 奇异-猴子们的宝岛[简][QYHZMDBDJ].png -> D:\AllRoms\SFC\Imgs\奇异-猴子们的宝岛[简][QYHZMDBDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 奇波方块[QBFK].png -> D:\AllRoms\SFC\Imgs\奇波方块[QBFK].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 抢救彩虹[QJCH].png -> D:\AllRoms\SFC\Imgs\抢救彩虹[QJCH].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 拳斗王[QDW].png -> D:\AllRoms\SFC\Imgs\拳斗王[QDW].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 枪手的考验[QSDKY].png -> D:\AllRoms\SFC\Imgs\枪手的考验[QSDKY].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 球弹枪[QDQ].png -> D:\AllRoms\SFC\Imgs\球弹枪[QDQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Q 蚯蚓吉姆[QYJM].png -> D:\AllRoms\SFC\Imgs\蚯蚓吉姆[QYJM].png
+去除前缀: D:\AllRoms\SFC\Imgs\R Rendering_Ranger_R2_(J)命数不减_BY_疾风之狼[MSBJJFZL].png -> D:\AllRoms\SFC\Imgs\Rendering_Ranger_R2_(J)命数不减_BY_疾风之狼[MSBJJFZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\R RPM赛车[SC].png -> D:\AllRoms\SFC\Imgs\RPM赛车[SC].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者战士-牙[RZZSY].png -> D:\AllRoms\SFC\Imgs\忍者战士-牙[RZZSY].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者战士牙无敌版[RZZSYWDB].png -> D:\AllRoms\SFC\Imgs\忍者战士牙无敌版[RZZSYWDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者神龟-及时海龟[RZSGJSHG].png -> D:\AllRoms\SFC\Imgs\忍者神龟-及时海龟[RZSGJSHG].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者神龟-突变武士[RZSGTBWS].png -> D:\AllRoms\SFC\Imgs\忍者神龟-突变武士[RZSGTBWS].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者神龟4命无限[RZSG4MWX].png -> D:\AllRoms\SFC\Imgs\忍者神龟4命无限[RZSG4MWX].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者蛙[RZW].png -> D:\AllRoms\SFC\Imgs\忍者蛙[RZW].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者龙剑传-巴[RZLJCB].png -> D:\AllRoms\SFC\Imgs\忍者龙剑传-巴[RZLJCB].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 忍者龙剑传3合1(血不减+无限命+忍术无限[RZLJC3H1XBJWXMRSWX].png -> D:\AllRoms\SFC\Imgs\忍者龙剑传3合1(血不减+无限命+忍术无限[RZLJC3H1XBJWXMRSWX].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 热爆赛车2[RBSC2].png -> D:\AllRoms\SFC\Imgs\热爆赛车2[RBSC2].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 热爆赛车[RBSC].png -> D:\AllRoms\SFC\Imgs\热爆赛车[RBSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\R 若贵大相扑[RGDXP].png -> D:\AllRoms\SFC\Imgs\若贵大相扑[RGDXP].png
+去除前缀: D:\AllRoms\SFC\Imgs\S SD Kidou Senshi Gundam - V Sakusen Shidou 无限人[WXR].png -> D:\AllRoms\SFC\Imgs\SD Kidou Senshi Gundam - V Sakusen Shidou 无限人[WXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\S SD快打外传不减能源[KDWCBJNY].png -> D:\AllRoms\SFC\Imgs\SD快打外传不减能源[KDWCBJNY].png
+去除前缀: D:\AllRoms\SFC\Imgs\S SD超人大挑战无限人[CRDTZWXR].png -> D:\AllRoms\SFC\Imgs\SD超人大挑战无限人[CRDTZWXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\S SD高达X[GD].png -> D:\AllRoms\SFC\Imgs\SD高达X[GD].png
+去除前缀: D:\AllRoms\SFC\Imgs\S SFC名将无限人数[MJWXRS].png -> D:\AllRoms\SFC\Imgs\SFC名将无限人数[MJWXRS].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 三丽鸥世界-爆裂斗球[SLOSJBLDQ].png -> D:\AllRoms\SFC\Imgs\三丽鸥世界-爆裂斗球[SLOSJBLDQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 三国志2[SGZ2].png -> D:\AllRoms\SFC\Imgs\三国志2[SGZ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 三国志3(中文版)[SGZ3ZWB].png -> D:\AllRoms\SFC\Imgs\三国志3(中文版)[SGZ3ZWB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 三国志3[繁][官][SGZ3FG].png -> D:\AllRoms\SFC\Imgs\三国志3[繁][官][SGZ3FG].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 三国志3威力加强版[SGZ3WLJQB].png -> D:\AllRoms\SFC\Imgs\三国志3威力加强版[SGZ3WLJQB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 三国志4[SGZ4].png -> D:\AllRoms\SFC\Imgs\三国志4[SGZ4].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 三国志英杰传[简][SGZYJCJ].png -> D:\AllRoms\SFC\Imgs\三国志英杰传[简][SGZYJCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 上海III无限HELP补时[SHWXBS].png -> D:\AllRoms\SFC\Imgs\上海III无限HELP补时[SHWXBS].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 世界杯足球[SJBZQ].png -> D:\AllRoms\SFC\Imgs\世界杯足球[SJBZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 世界级橄榄球大赛[SJJGLQDS].png -> D:\AllRoms\SFC\Imgs\世界级橄榄球大赛[SJJGLQDS].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 世界英雄2[SJYX2].png -> D:\AllRoms\SFC\Imgs\世界英雄2[SJYX2].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 世界英雄[SJYX].png -> D:\AllRoms\SFC\Imgs\世界英雄[SJYX].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 世界足球[SJZQ].png -> D:\AllRoms\SFC\Imgs\世界足球[SJZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 升刚机器人[SGJQR].png -> D:\AllRoms\SFC\Imgs\升刚机器人[SGJQR].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 双枪[SQ].png -> D:\AllRoms\SFC\Imgs\双枪[SQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 史奴比音乐会[SNBYLH].png -> D:\AllRoms\SFC\Imgs\史奴比音乐会[SNBYLH].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 史莱姆大进击[SLMDJJ].png -> D:\AllRoms\SFC\Imgs\史莱姆大进击[SLMDJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 四国战机[SGZJ].png -> D:\AllRoms\SFC\Imgs\四国战机[SGZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 四国战机无限人数和无限炸弹[SGZJWXRSHWXZD].png -> D:\AllRoms\SFC\Imgs\四国战机无限人数和无限炸弹[SGZJWXRSHWXZD].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 四狂神战记2[SKSZJ2].png -> D:\AllRoms\SFC\Imgs\四狂神战记2[SKSZJ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 四狂神战记[SKSZJ].png -> D:\AllRoms\SFC\Imgs\四狂神战记[SKSZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 圣剑传说2.png -> D:\AllRoms\SFC\Imgs\圣剑传说2.png
+去除前缀: D:\AllRoms\SFC\Imgs\S 圣剑传说2[SJCS2].png -> D:\AllRoms\SFC\Imgs\圣剑传说2[SJCS2].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 圣剑传说3[繁][SJCS3F].png -> D:\AllRoms\SFC\Imgs\圣剑传说3[繁][SJCS3F].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 圣灵珠传说2[SLZCS2].png -> D:\AllRoms\SFC\Imgs\圣灵珠传说2[SLZCS2].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 圣龙传说[SLCS].png -> D:\AllRoms\SFC\Imgs\圣龙传说[SLCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 塞尔达传说[繁][SEDCSF].png -> D:\AllRoms\SFC\Imgs\塞尔达传说[繁][SEDCSF].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 塞尔达传说中文_HACK版[SEDCSZWB].png -> D:\AllRoms\SFC\Imgs\塞尔达传说中文_HACK版[SEDCSZWB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 失落的维京人[SLDWJR].png -> D:\AllRoms\SFC\Imgs\失落的维京人[SLDWJR].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 实况Q版沙罗曼蛇[SKBSLMS].png -> D:\AllRoms\SFC\Imgs\实况Q版沙罗曼蛇[SKBSLMS].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 实况世界足球-完美十一人[SKSJZQWMSYR].png -> D:\AllRoms\SFC\Imgs\实况世界足球-完美十一人[SKSJZQWMSYR].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 实况世界足球2-战斗十一人[SKSJZQ2ZDSYR].png -> D:\AllRoms\SFC\Imgs\实况世界足球2-战斗十一人[SKSJZQ2ZDSYR].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 实战巴斯钓鱼必胜法[SZBSDYBSF].png -> D:\AllRoms\SFC\Imgs\实战巴斯钓鱼必胜法[SZBSDYBSF].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 少年街霸2[SNJB2].png -> D:\AllRoms\SFC\Imgs\少年街霸2[SNJB2].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 少年阿希贝[SNAXB].png -> D:\AllRoms\SFC\Imgs\少年阿希贝[SNAXB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 摔角霸王[SJBW].png -> D:\AllRoms\SFC\Imgs\摔角霸王[SJBW].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 时空之旅[繁][SKZLF].png -> D:\AllRoms\SFC\Imgs\时空之旅[繁][SKZLF].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 时空之旅中文版人物加强版[SKZLZWBRWJQB].png -> D:\AllRoms\SFC\Imgs\时空之旅中文版人物加强版[SKZLZWBRWJQB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 时空之旅中文版技能魔法消耗0 BY 疾风之狼[SKZLZWBJNMFXH0JFZL].png -> D:\AllRoms\SFC\Imgs\时空之旅中文版技能魔法消耗0 BY 疾风之狼[SKZLZWBJNMFXH0JFZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 时空勇士[简][SKYSJ].png -> D:\AllRoms\SFC\Imgs\时空勇士[简][SKYSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 时空勇士[繁][SKYSF].png -> D:\AllRoms\SFC\Imgs\时空勇士[繁][SKYSF].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 时空引导者[SKYDZ].png -> D:\AllRoms\SFC\Imgs\时空引导者[SKYDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 时空战警[SKZJ].png -> D:\AllRoms\SFC\Imgs\时空战警[SKZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 松鼠大冒险[SSDMX].png -> D:\AllRoms\SFC\Imgs\松鼠大冒险[SSDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 树帝战记[SDZJ].png -> D:\AllRoms\SFC\Imgs\树帝战记[SDZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 桑德拉大冒险[SDLDMX].png -> D:\AllRoms\SFC\Imgs\桑德拉大冒险[SDLDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 死亡之舞[SWZW].png -> D:\AllRoms\SFC\Imgs\死亡之舞[SWZW].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 死亡游戏之电视斗士(J)无敌武器子弹不减超爽版[SWYXZDSDSWDWQZDBJCSB].png -> D:\AllRoms\SFC\Imgs\死亡游戏之电视斗士(J)无敌武器子弹不减超爽版[SWYXZDSDSWDWQZDBJCSB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 沙漠雄鹰[SMXY].png -> D:\AllRoms\SFC\Imgs\沙漠雄鹰[SMXY].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 沙漠风暴-重返海湾[SMFBCFHW].png -> D:\AllRoms\SFC\Imgs\沙漠风暴-重返海湾[SMFBCFHW].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 狮子王[SZW].png -> D:\AllRoms\SFC\Imgs\狮子王[SZW].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 狮子王[简][少量汉化][SZWJSLHH].png -> D:\AllRoms\SFC\Imgs\狮子王[简][少量汉化][SZWJSLHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 生化金属战机 无敌版[SHJSZJWDB].png -> D:\AllRoms\SFC\Imgs\生化金属战机 无敌版[SHJSZJWDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 生化金属战机[SHJSZJ].png -> D:\AllRoms\SFC\Imgs\生化金属战机[SHJSZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 石头族乐园-升官版[STZLYSGB].png -> D:\AllRoms\SFC\Imgs\石头族乐园-升官版[STZLYSGB].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 神奇女孩[SQNH].png -> D:\AllRoms\SFC\Imgs\神奇女孩[SQNH].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 神秘的约柜[SMDYG].png -> D:\AllRoms\SFC\Imgs\神秘的约柜[SMDYG].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 神风特攻队[SFTGD].png -> D:\AllRoms\SFC\Imgs\神风特攻队[SFTGD].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 赏金剑客[SJJK].png -> D:\AllRoms\SFC\Imgs\赏金剑客[SJJK].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 闪电出击[SDCJ].png -> D:\AllRoms\SFC\Imgs\闪电出击[SDCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\S 闪电回归[SDHG].png -> D:\AllRoms\SFC\Imgs\闪电回归[SDHG].png
+去除前缀: D:\AllRoms\SFC\Imgs\T TECMO超级NBA篮球[CJLQ].png -> D:\AllRoms\SFC\Imgs\TECMO超级NBA篮球[CJLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T TECMO超级橄榄球2-特别版[CJGLQ2TBB].png -> D:\AllRoms\SFC\Imgs\TECMO超级橄榄球2-特别版[CJGLQ2TBB].png
+去除前缀: D:\AllRoms\SFC\Imgs\T TECMO超级橄榄球3-最终版[CJGLQ3ZZB].png -> D:\AllRoms\SFC\Imgs\TECMO超级橄榄球3-最终版[CJGLQ3ZZB].png
+去除前缀: D:\AllRoms\SFC\Imgs\T TECMO超级橄榄球[CJGLQ].png -> D:\AllRoms\SFC\Imgs\TECMO超级橄榄球[CJGLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 兔八哥[TBG].png -> D:\AllRoms\SFC\Imgs\兔八哥[TBG].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 兔宝宝篮球 修改版[TBBLQXGB].png -> D:\AllRoms\SFC\Imgs\兔宝宝篮球 修改版[TBBLQXGB].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 吞食天地-三国群雄传[简][TSTDSGQXCJ].png -> D:\AllRoms\SFC\Imgs\吞食天地-三国群雄传[简][TSTDSGQXCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 吞食天地-三国群雄传[繁][TSTDSGQXCF].png -> D:\AllRoms\SFC\Imgs\吞食天地-三国群雄传[繁][TSTDSGQXCF].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 唐老鸭-茂伊岛绿头鸭[TLYMYDLTY].png -> D:\AllRoms\SFC\Imgs\唐老鸭-茂伊岛绿头鸭[TLYMYDLTY].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天使之翼5[繁][剧情汉化][TSZY5FJQHH].png -> D:\AllRoms\SFC\Imgs\天使之翼5[繁][剧情汉化][TSZY5FJQHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天使之翼J-通向世青杯之路[TSZYTXSQBZL].png -> D:\AllRoms\SFC\Imgs\天使之翼J-通向世青杯之路[TSZYTXSQBZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天圣龙[TSL].png -> D:\AllRoms\SFC\Imgs\天圣龙[TSL].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天地创造(自动升级、金钱、水晶无限、无敌)[TDCZZDSJJQSJWXWD].png -> D:\AllRoms\SFC\Imgs\天地创造(自动升级、金钱、水晶无限、无敌)[TDCZZDSJJQSJWXWD].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天地创造[简][TDCZJ].png -> D:\AllRoms\SFC\Imgs\天地创造[简][TDCZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天地创造[繁][TDCZF].png -> D:\AllRoms\SFC\Imgs\天地创造[繁][TDCZF].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天地创造中文版(金钱、水晶无限 by lihhsy)[TDCZZWBJQSJWX].png -> D:\AllRoms\SFC\Imgs\天地创造中文版(金钱、水晶无限 by lihhsy)[TDCZZWBJQSJWX].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天地无用[TDWY].png -> D:\AllRoms\SFC\Imgs\天地无用[TDWY].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天外魔境[简][TWMJJ].png -> D:\AllRoms\SFC\Imgs\天外魔境[简][TWMJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天外魔境[繁][TWMJF].png -> D:\AllRoms\SFC\Imgs\天外魔境[繁][TWMJF].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天空任务[TKRW].png -> D:\AllRoms\SFC\Imgs\天空任务[TKRW].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 天龙源一郎的职业摔角-革命[TLYYLDZYSJGM].png -> D:\AllRoms\SFC\Imgs\天龙源一郎的职业摔角-革命[TLYYLDZYSJGM].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空争霸(美)无敌无限保护命[TKZBMWDWXBHM].png -> D:\AllRoms\SFC\Imgs\太空争霸(美)无敌无限保护命[TKZBMWDWXBHM].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空争霸-无敌版[TKZBWDB].png -> D:\AllRoms\SFC\Imgs\太空争霸-无敌版[TKZBWDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空争霸[TKZB].png -> D:\AllRoms\SFC\Imgs\太空争霸[TKZB].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空入侵者[TKRQZ].png -> D:\AllRoms\SFC\Imgs\太空入侵者[TKRQZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空战斗机-力量[TKZDJLL].png -> D:\AllRoms\SFC\Imgs\太空战斗机-力量[TKZDJLL].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空战斗机-双人版[TKZDJSRB].png -> D:\AllRoms\SFC\Imgs\太空战斗机-双人版[TKZDJSRB].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空战斗机3无敌[TKZDJ3WD].png -> D:\AllRoms\SFC\Imgs\太空战斗机3无敌[TKZDJ3WD].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空火箭炮[TKHJP].png -> D:\AllRoms\SFC\Imgs\太空火箭炮[TKHJP].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空足球[TKZQ].png -> D:\AllRoms\SFC\Imgs\太空足球[TKZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 太空高手[TKGS].png -> D:\AllRoms\SFC\Imgs\太空高手[TKGS].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 屠龙传记[TLCJ].png -> D:\AllRoms\SFC\Imgs\屠龙传记[TLCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 提督之决断2[TDZJD2].png -> D:\AllRoms\SFC\Imgs\提督之决断2[TDZJD2].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 提督之决断[TDZJD].png -> D:\AllRoms\SFC\Imgs\提督之决断[TDZJD].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 特技立体赛车[TJLTSC].png -> D:\AllRoms\SFC\Imgs\特技立体赛车[TJLTSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 特殊任务[TSRW].png -> D:\AllRoms\SFC\Imgs\特殊任务[TSRW].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 特警判官[TJPG].png -> D:\AllRoms\SFC\Imgs\特警判官[TJPG].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 特鲁尼克大冒险-不可思议的迷宫[TLNKDMXBKSYDMG].png -> D:\AllRoms\SFC\Imgs\特鲁尼克大冒险-不可思议的迷宫[TLNKDMXBKSYDMG].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 甜蜜男孩[TMNH].png -> D:\AllRoms\SFC\Imgs\甜蜜男孩[TMNH].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 逃离异世界[TLYSJ].png -> D:\AllRoms\SFC\Imgs\逃离异世界[TLYSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 铁甲万能侠[TJWNX].png -> D:\AllRoms\SFC\Imgs\铁甲万能侠[TJWNX].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 铁臂阿童木无限血无限人数[TBATMWXXWXRS].png -> D:\AllRoms\SFC\Imgs\铁臂阿童木无限血无限人数[TBATMWXXWXRS].png
+去除前缀: D:\AllRoms\SFC\Imgs\T 铁钩船长[TGCC].png -> D:\AllRoms\SFC\Imgs\铁钩船长[TGCC].png
+去除前缀: D:\AllRoms\SFC\Imgs\W WWF狂热摔角-街机版[KRSJJJB].png -> D:\AllRoms\SFC\Imgs\WWF狂热摔角-街机版[KRSJJJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\W WWF皇家摔角[HJSJ].png -> D:\AllRoms\SFC\Imgs\WWF皇家摔角[HJSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\W WWF超级摔角[CJSJ].png -> D:\AllRoms\SFC\Imgs\WWF超级摔角[CJSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 万兽之王2[WSZW2].png -> D:\AllRoms\SFC\Imgs\万兽之王2[WSZW2].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 万兽之王[WSZW].png -> D:\AllRoms\SFC\Imgs\万兽之王[WSZW].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 外星大眼小蜜蜂[WXDYXMF].png -> D:\AllRoms\SFC\Imgs\外星大眼小蜜蜂[WXDYXMF].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 外星特警2[WXTJ2].png -> D:\AllRoms\SFC\Imgs\外星特警2[WXTJ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 巫术5-混沌中心[WS5HDZX].png -> D:\AllRoms\SFC\Imgs\巫术5-混沌中心[WS5HDZX].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 文明帝国[WMDG].png -> D:\AllRoms\SFC\Imgs\文明帝国[WMDG].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 无人岛物语[简][部分汉化][WRDWYJBFHH].png -> D:\AllRoms\SFC\Imgs\无人岛物语[简][部分汉化][WRDWYJBFHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 无敌超人009[WDCR009].png -> D:\AllRoms\SFC\Imgs\无敌超人009[WDCR009].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 未来骑警R2[WLQJ].png -> D:\AllRoms\SFC\Imgs\未来骑警R2[WLQJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 武田修宏之超级杯足球[WTXHZCJBZQ].png -> D:\AllRoms\SFC\Imgs\武田修宏之超级杯足球[WTXHZCJBZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 武装部队[WZBD].png -> D:\AllRoms\SFC\Imgs\武装部队[WZBD].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 玩具总动员[WJZDY].png -> D:\AllRoms\SFC\Imgs\玩具总动员[WJZDY].png
+去除前缀: D:\AllRoms\SFC\Imgs\W 顽皮豹好莱坞冒险[WPBHLWMX].png -> D:\AllRoms\SFC\Imgs\顽皮豹好莱坞冒险[WPBHLWMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\X X地带[DD].png -> D:\AllRoms\SFC\Imgs\X地带[DD].png
+去除前缀: D:\AllRoms\SFC\Imgs\X X战警-变种末世录[ZJBZMSL].png -> D:\AllRoms\SFC\Imgs\X战警-变种末世录[ZJBZMSL].png
+去除前缀: D:\AllRoms\SFC\Imgs\X X战警-变种末世录无敌无限血，命[ZJBZMSLWDWXXM].png -> D:\AllRoms\SFC\Imgs\X战警-变种末世录无敌无限血，命[ZJBZMSLWDWXXM].png
+去除前缀: D:\AllRoms\SFC\Imgs\X X革命[GM].png -> D:\AllRoms\SFC\Imgs\X革命[GM].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 休曼GP赛车2[XMSC2].png -> D:\AllRoms\SFC\Imgs\休曼GP赛车2[XMSC2].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 休曼GP赛车[XMSC].png -> D:\AllRoms\SFC\Imgs\休曼GP赛车[XMSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 信长之野望-全国版[XCZYWQGB].png -> D:\AllRoms\SFC\Imgs\信长之野望-全国版[XCZYWQGB].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 信长之野望-武将风云录[XCZYWWJFYL].png -> D:\AllRoms\SFC\Imgs\信长之野望-武将风云录[XCZYWWJFYL].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 修罗战士-钢[XLZSG].png -> D:\AllRoms\SFC\Imgs\修罗战士-钢[XLZSG].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 小小魔法师[XXMFS].png -> D:\AllRoms\SFC\Imgs\小小魔法师[XXMFS].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 小恐龙-刚刚君[XKLGGJ].png -> D:\AllRoms\SFC\Imgs\小恐龙-刚刚君[XKLGGJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 小精灵大进击[XJLDJJ].png -> D:\AllRoms\SFC\Imgs\小精灵大进击[XJLDJJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 小鬼当家[XGDJ].png -> D:\AllRoms\SFC\Imgs\小鬼当家[XGDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 小魔女历险记[XMNLXJ].png -> D:\AllRoms\SFC\Imgs\小魔女历险记[XMNLXJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 小魔星达鲁鲁-魔法冒险[XMXDLLMFMX].png -> D:\AllRoms\SFC\Imgs\小魔星达鲁鲁-魔法冒险[XMXDLLMFMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 新机动战记之刚弹W加强版[XJDZJZGDJQB].png -> D:\AllRoms\SFC\Imgs\新机动战记之刚弹W加强版[XJDZJZGDJQB].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 新机动战记高达W[XJDZJGD].png -> D:\AllRoms\SFC\Imgs\新机动战记高达W[XJDZJGD].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 旋风机器人[XFJQR].png -> D:\AllRoms\SFC\Imgs\旋风机器人[XFJQR].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星之卡比3[XZKB3].png -> D:\AllRoms\SFC\Imgs\星之卡比3[XZKB3].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星之卡比超值版[XZKBCZB].png -> D:\AllRoms\SFC\Imgs\星之卡比超值版[XZKBCZB].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星之海洋[XZHY].png -> D:\AllRoms\SFC\Imgs\星之海洋[XZHY].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星舰迷航记-另一个世代[XJMHJLYGSD].png -> D:\AllRoms\SFC\Imgs\星舰迷航记-另一个世代[XJMHJLYGSD].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星间游侠2-专家版[XJYX2ZJB].png -> D:\AllRoms\SFC\Imgs\星间游侠2-专家版[XJYX2ZJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星间游侠2[XJYX2].png -> D:\AllRoms\SFC\Imgs\星间游侠2[XJYX2].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星间游侠[XJYX].png -> D:\AllRoms\SFC\Imgs\星间游侠[XJYX].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星际之门[XJZM].png -> D:\AllRoms\SFC\Imgs\星际之门[XJZM].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 星际火狐[XJHH].png -> D:\AllRoms\SFC\Imgs\星际火狐[XJHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 消防员.png -> D:\AllRoms\SFC\Imgs\消防员.png
+去除前缀: D:\AllRoms\SFC\Imgs\X 消防员[XFY].png -> D:\AllRoms\SFC\Imgs\消防员[XFY].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 秀斗魔导士-圣龙传说[XDMDSSLCS].png -> D:\AllRoms\SFC\Imgs\秀斗魔导士-圣龙传说[XDMDSSLCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 秀逗泰山-世界漫游大格斗之卷[XDTSSJMYDGDZJ].png -> D:\AllRoms\SFC\Imgs\秀逗泰山-世界漫游大格斗之卷[XDTSSJMYDGDZJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 虚幻之梦[XHZM].png -> D:\AllRoms\SFC\Imgs\虚幻之梦[XHZM].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 行星杯赛车3000[XXBSC3000].png -> D:\AllRoms\SFC\Imgs\行星杯赛车3000[XXBSC3000].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 西部牛仔闪光无敌修改版[XBNZSGWDXGB].png -> D:\AllRoms\SFC\Imgs\西部牛仔闪光无敌修改版[XBNZSGWDXGB].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 辛普森家庭-超级快乐屋[XPSJTCJKLW].png -> D:\AllRoms\SFC\Imgs\辛普森家庭-超级快乐屋[XPSJTCJKLW].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 辛普森家庭-霸子的幻想[XPSJTBZDHX].png -> D:\AllRoms\SFC\Imgs\辛普森家庭-霸子的幻想[XPSJTBZDHX].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 辛普森家庭-霸子的恶梦[XPSJTBZDEM].png -> D:\AllRoms\SFC\Imgs\辛普森家庭-霸子的恶梦[XPSJTBZDEM].png
+去除前缀: D:\AllRoms\SFC\Imgs\X 项刘记[XLJ].png -> D:\AllRoms\SFC\Imgs\项刘记[XLJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 亚克斯传说[YKSCS].png -> D:\AllRoms\SFC\Imgs\亚克斯传说[YKSCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 亚吉熊的冒险[YJXDMX].png -> D:\AllRoms\SFC\Imgs\亚吉熊的冒险[YJXDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊忍道-打倒信长[YRDDDXC].png -> D:\AllRoms\SFC\Imgs\伊忍道-打倒信长[YRDDDXC].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊苏3[简][YS3J].png -> D:\AllRoms\SFC\Imgs\伊苏3[简][YS3J].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊苏3[繁][YS3F].png -> D:\AllRoms\SFC\Imgs\伊苏3[繁][YS3F].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊苏4-太阳之假面[YS4TYZJM].png -> D:\AllRoms\SFC\Imgs\伊苏4-太阳之假面[YS4TYZJM].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊苏4[简][YS4J].png -> D:\AllRoms\SFC\Imgs\伊苏4[简][YS4J].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊苏5-专家版[YS5ZJB].png -> D:\AllRoms\SFC\Imgs\伊苏5-专家版[YS5ZJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊苏5-消失的砂之都凯芬[YS5XSDSZDKF].png -> D:\AllRoms\SFC\Imgs\伊苏5-消失的砂之都凯芬[YS5XSDSZDKF].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 伊莉雅[YLY].png -> D:\AllRoms\SFC\Imgs\伊莉雅[YLY].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙1+2(修改)[YZDEL1XG].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙1+2(修改)[YZDEL1XG].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙1+2[简][1代汉化][YZDEL1JDHH].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙1+2[简][1代汉化][YZDEL1JDHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙1+2[简][YZDEL1J].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙1+2[简][YZDEL1J].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙3[简][YZDEL3J].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙3[简][YZDEL3J].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙3[繁][YZDEL3F].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙3[繁][YZDEL3F].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙5-天空的新娘[YZDEL5TKDXN].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙5-天空的新娘[YZDEL5TKDXN].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙6[简][英菜单][YZDEL6JYCD].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙6[简][英菜单][YZDEL6JYCD].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者斗恶龙6[繁][英菜单][YZDEL6FYCD].png -> D:\AllRoms\SFC\Imgs\勇者斗恶龙6[繁][英菜单][YZDEL6FYCD].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 勇者机器人[YZJQR].png -> D:\AllRoms\SFC\Imgs\勇者机器人[YZJQR].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 印第安纳琼斯伟大冒险[YDANQSWDMX].png -> D:\AllRoms\SFC\Imgs\印第安纳琼斯伟大冒险[YDANQSWDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 原始人2 (日)无限人[YSR2RWXR].png -> D:\AllRoms\SFC\Imgs\原始人2 (日)无限人[YSR2RWXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 原始人大冒险[YSRDMX].png -> D:\AllRoms\SFC\Imgs\原始人大冒险[YSRDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 圆桌武士无限人[YZWSWXR].png -> D:\AllRoms\SFC\Imgs\圆桌武士无限人[YZWSWXR].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 圆桌骑士[YZQS].png -> D:\AllRoms\SFC\Imgs\圆桌骑士[YZQS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 宇宙巡航舰3[YZXHJ3].png -> D:\AllRoms\SFC\Imgs\宇宙巡航舰3[YZXHJ3].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 宇宙陀螺仪[YZTLY].png -> D:\AllRoms\SFC\Imgs\宇宙陀螺仪[YZTLY].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 宇宙骑士[YZQS].png -> D:\AllRoms\SFC\Imgs\宇宙骑士[YZQS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 岩石方块大战[YSFKDZ].png -> D:\AllRoms\SFC\Imgs\岩石方块大战[YSFKDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 幽游白书最终章-魔界最强列传[YYBSZZZMJZQLC].png -> D:\AllRoms\SFC\Imgs\幽游白书最终章-魔界最强列传[YYBSZZZMJZQLC].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 异形3[YX3].png -> D:\AllRoms\SFC\Imgs\异形3[YX3].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 异形对终极战士[YXDZJZS].png -> D:\AllRoms\SFC\Imgs\异形对终极战士[YXDZJZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 异形战机3[YXZJ3].png -> D:\AllRoms\SFC\Imgs\异形战机3[YXZJ3].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 押忍空手部[YRKSB].png -> D:\AllRoms\SFC\Imgs\押忍空手部[YRKSB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 摇滚保护者[YGBHZ].png -> D:\AllRoms\SFC\Imgs\摇滚保护者[YGBHZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 摇滚赛车[YGSC].png -> D:\AllRoms\SFC\Imgs\摇滚赛车[YGSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 永远的法莲娜[YYDFLN].png -> D:\AllRoms\SFC\Imgs\永远的法莲娜[YYDFLN].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 永远的蝙蝠侠[YYDBFX].png -> D:\AllRoms\SFC\Imgs\永远的蝙蝠侠[YYDBFX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 牙[Y].png -> D:\AllRoms\SFC\Imgs\牙[Y].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 英雄传说.png -> D:\AllRoms\SFC\Imgs\英雄传说.png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 英雄传说2[YXCS2].png -> D:\AllRoms\SFC\Imgs\英雄传说2[YXCS2].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 英雄传说[YXCS].png -> D:\AllRoms\SFC\Imgs\英雄传说[YXCS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 英雄圣战2-邪神之胎动[YXSZ2XSZTD].png -> D:\AllRoms\SFC\Imgs\英雄圣战2-邪神之胎动[YXSZ2XSZTD].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 英雄圣战[YXSZ].png -> D:\AllRoms\SFC\Imgs\英雄圣战[YXSZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 野人(J)无限血，命，吼[YRWXXMH].png -> D:\AllRoms\SFC\Imgs\野人(J)无限血，命，吼[YRWXXMH].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河大战[YHDZ].png -> D:\AllRoms\SFC\Imgs\银河大战[YHDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河战国群雄传[简][YHZGQXCJ].png -> D:\AllRoms\SFC\Imgs\银河战国群雄传[简][YHZGQXCJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河战国群雄传[繁][YHZGQXCF].png -> D:\AllRoms\SFC\Imgs\银河战国群雄传[繁][YHZGQXCF].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河战国群雄传之连军强化版（更新）[YHZGQXCZLJQHBGX].png -> D:\AllRoms\SFC\Imgs\银河战国群雄传之连军强化版（更新）[YHZGQXCZLJQHBGX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河战国群雄传南京楼强化版（更新）[YHZGQXCNJLQHBGX].png -> D:\AllRoms\SFC\Imgs\银河战国群雄传南京楼强化版（更新）[YHZGQXCNJLQHBGX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河战国群雄传南天联合强化版（更新）[YHZGQXCNTLHQHBGX].png -> D:\AllRoms\SFC\Imgs\银河战国群雄传南天联合强化版（更新）[YHZGQXCNTLHQHBGX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河战国群雄传大五丈强化版（更新）[YHZGQXCDWZQHBGX].png -> D:\AllRoms\SFC\Imgs\银河战国群雄传大五丈强化版（更新）[YHZGQXCDWZQHBGX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河风暴(U)命不减 BY 疾风之狼[YHFBMBJJFZL].png -> D:\AllRoms\SFC\Imgs\银河风暴(U)命不减 BY 疾风之狼[YHFBMBJJFZL].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河风暴[YHFB].png -> D:\AllRoms\SFC\Imgs\银河风暴[YHFB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 银河飞将[YHFJ].png -> D:\AllRoms\SFC\Imgs\银河飞将[YHFJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 隐逝的黑暗[简][第1章汉化][YSDHAJD1ZHH].png -> D:\AllRoms\SFC\Imgs\隐逝的黑暗[简][第1章汉化][YSDHAJD1ZHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 音乐幻想-米龙的心跳大冒险[YLHXMLDXTDMX].png -> D:\AllRoms\SFC\Imgs\音乐幻想-米龙的心跳大冒险[YLHXMLDXTDMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 音速快击手2[YSKJS2].png -> D:\AllRoms\SFC\Imgs\音速快击手2[YSKJS2].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 音速快击手[YSKJS].png -> D:\AllRoms\SFC\Imgs\音速快击手[YSKJS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 音速战机(命数不减BOMB数量不减接关次数不减 )[YSZJMSBJSLBJJGCSBJ].png -> D:\AllRoms\SFC\Imgs\音速战机(命数不减BOMB数量不减接关次数不减 )[YSZJMSBJSLBJJGCSBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 音速超人II[YSCR].png -> D:\AllRoms\SFC\Imgs\音速超人II[YSCR].png
+去除前缀: D:\AllRoms\SFC\Imgs\Y 音速超人无敌版[YSCRWDB].png -> D:\AllRoms\SFC\Imgs\音速超人无敌版[YSCRWDB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 专业橄榄球93[ZYGLQ93].png -> D:\AllRoms\SFC\Imgs\专业橄榄球93[ZYGLQ93].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 专业橄榄球[ZYGLQ].png -> D:\AllRoms\SFC\Imgs\专业橄榄球[ZYGLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 专业足球[ZYZQ].png -> D:\AllRoms\SFC\Imgs\专业足球[ZYZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 主题公园[ZTGY].png -> D:\AllRoms\SFC\Imgs\主题公园[ZTGY].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 侏罗纪公园[ZLJGY].png -> D:\AllRoms\SFC\Imgs\侏罗纪公园[ZLJGY].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战区88[ZQ88].png -> D:\AllRoms\SFC\Imgs\战区88[ZQ88].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战区88无限人数[ZQ88WXRS].png -> D:\AllRoms\SFC\Imgs\战区88无限人数[ZQ88WXRS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战国传承1(接关次数无限)[ZGCC1JGCSWX].png -> D:\AllRoms\SFC\Imgs\战国传承1(接关次数无限)[ZGCC1JGCSWX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战国传承[ZGCC].png -> D:\AllRoms\SFC\Imgs\战国传承[ZGCC].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗GP赛车[ZDSC].png -> D:\AllRoms\SFC\Imgs\战斗GP赛车[ZDSC].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗原始人2[ZDYSR2].png -> D:\AllRoms\SFC\Imgs\战斗原始人2[ZDYSR2].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗原始人3 (日)无限命血[ZDYSR3RWXMX].png -> D:\AllRoms\SFC\Imgs\战斗原始人3 (日)无限命血[ZDYSR3RWXMX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗原始人3[ZDYSR3].png -> D:\AllRoms\SFC\Imgs\战斗原始人3[ZDYSR3].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗原始人无限人透明[ZDYSRWXRTM].png -> D:\AllRoms\SFC\Imgs\战斗原始人无限人透明[ZDYSRWXRTM].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗潜水艇[简][ZDQSTJ].png -> D:\AllRoms\SFC\Imgs\战斗潜水艇[简][ZDQSTJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗足球[ZDZQ].png -> D:\AllRoms\SFC\Imgs\战斗足球[ZDZQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 战斗躲避球[ZDDBQ].png -> D:\AllRoms\SFC\Imgs\战斗躲避球[ZDDBQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 斩3[简][Z3J].png -> D:\AllRoms\SFC\Imgs\斩3[简][Z3J].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 斩3[繁][Z3F].png -> D:\AllRoms\SFC\Imgs\斩3[繁][Z3F].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 早安!小精灵[ZAXJL].png -> D:\AllRoms\SFC\Imgs\早安!小精灵[ZAXJL].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 智慧王者[ZHWZ].png -> D:\AllRoms\SFC\Imgs\智慧王者[ZHWZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最后一击[ZHYJ].png -> D:\AllRoms\SFC\Imgs\最后一击[ZHYJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最后的圣经3[ZHDSJ3].png -> D:\AllRoms\SFC\Imgs\最后的圣经3[ZHDSJ3].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想4-简易版[ZZHX4JYB].png -> D:\AllRoms\SFC\Imgs\最终幻想4-简易版[ZZHX4JYB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想4.png -> D:\AllRoms\SFC\Imgs\最终幻想4.png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想4[ZZHX4].png -> D:\AllRoms\SFC\Imgs\最终幻想4[ZZHX4].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想5[ZZHX5].png -> D:\AllRoms\SFC\Imgs\最终幻想5[ZZHX5].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想5[简][ZZHX5J].png -> D:\AllRoms\SFC\Imgs\最终幻想5[简][ZZHX5J].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想5[繁][ZZHX5F].png -> D:\AllRoms\SFC\Imgs\最终幻想5[繁][ZZHX5F].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想6[简][日菜单][ZZHX6JRCD].png -> D:\AllRoms\SFC\Imgs\最终幻想6[简][日菜单][ZZHX6JRCD].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想6[简][英菜单][ZZHX6JYCD].png -> D:\AllRoms\SFC\Imgs\最终幻想6[简][英菜单][ZZHX6JYCD].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想6中文版[ZZHX6ZWB].png -> D:\AllRoms\SFC\Imgs\最终幻想6中文版[ZZHX6ZWB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 最终幻想USA-神秘任务[ZZHXSMRW].png -> D:\AllRoms\SFC\Imgs\最终幻想USA-神秘任务[ZZHXSMRW].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 正义之纹章[ZYZWZ].png -> D:\AllRoms\SFC\Imgs\正义之纹章[ZYZWZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 正义超人大对决[ZYCRDDJ].png -> D:\AllRoms\SFC\Imgs\正义超人大对决[ZYCRDDJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 殖民星球[ZMXQ].png -> D:\AllRoms\SFC\Imgs\殖民星球[ZMXQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 真人快打2[ZRKD2].png -> D:\AllRoms\SFC\Imgs\真人快打2[ZRKD2].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 真人快打[ZRKD].png -> D:\AllRoms\SFC\Imgs\真人快打[ZRKD].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 真女神转生2[ZNSZS2].png -> D:\AllRoms\SFC\Imgs\真女神转生2[ZNSZS2].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 真女神转生IF[ZNSZS].png -> D:\AllRoms\SFC\Imgs\真女神转生IF[ZNSZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 真女神转生[ZNSZS].png -> D:\AllRoms\SFC\Imgs\真女神转生[ZNSZS].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 真宝珠小子[ZBZXZ].png -> D:\AllRoms\SFC\Imgs\真宝珠小子[ZBZXZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 真实的谎言[ZSDHY].png -> D:\AllRoms\SFC\Imgs\真实的谎言[ZSDHY].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 紫炎[ZY].png -> D:\AllRoms\SFC\Imgs\紫炎[ZY].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 终极橄榄球[ZJGLQ].png -> D:\AllRoms\SFC\Imgs\终极橄榄球[ZJGLQ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 终结者2子弹炸弹hp，全无限[ZJZ2ZDZDQWX].png -> D:\AllRoms\SFC\Imgs\终结者2子弹炸弹hp，全无限[ZJZ2ZDZDQWX].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 者哩小子半透明[ZLXZBTM].png -> D:\AllRoms\SFC\Imgs\者哩小子半透明[ZLXZBTM].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 蜘蛛侠-致命敌人[ZZXZMDR].png -> D:\AllRoms\SFC\Imgs\蜘蛛侠-致命敌人[ZZXZMDR].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 诸神世纪2[ZSSJ2].png -> D:\AllRoms\SFC\Imgs\诸神世纪2[ZSSJ2].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 诸神世纪[ZSSJ].png -> D:\AllRoms\SFC\Imgs\诸神世纪[ZSSJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 诸神领地战[ZSLDZ].png -> D:\AllRoms\SFC\Imgs\诸神领地战[ZSLDZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 足球小子[ZQXZ].png -> D:\AllRoms\SFC\Imgs\足球小子[ZQXZ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 重装机兵2[简][ZZJB2J].png -> D:\AllRoms\SFC\Imgs\重装机兵2[简][ZZJB2J].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 重装机兵R Hack2[ZZJB].png -> D:\AllRoms\SFC\Imgs\重装机兵R Hack2[ZZJB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 重装机兵Returns[简][ZZJBJ].png -> D:\AllRoms\SFC\Imgs\重装机兵Returns[简][ZZJBJ].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 重装机兵R中文强化版（测试版)V1[ZZJBZWQHBCSB].png -> D:\AllRoms\SFC\Imgs\重装机兵R中文强化版（测试版)V1[ZZJBZWQHBCSB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 重装机兵中文初始等级能力MAX版[ZZJBZWCSDJNLB].png -> D:\AllRoms\SFC\Imgs\重装机兵中文初始等级能力MAX版[ZZJBZWCSDJNLB].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 重装机兵中文商店修改版（汉化）[ZZJBZWSDXGBHH].png -> D:\AllRoms\SFC\Imgs\重装机兵中文商店修改版（汉化）[ZZJBZWSDXGBHH].png
+去除前缀: D:\AllRoms\SFC\Imgs\Z 重装机兵瓦尔肯[繁][ZZJBWEKF].png -> D:\AllRoms\SFC\Imgs\重装机兵瓦尔肯[繁][ZZJBWEKF].png
+无前缀: D:\AllRoms\SFC\media\46亿年物语\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\46亿年物语\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\46亿年物语\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\BB枪大作战\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\BB枪大作战\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\BB枪大作战\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\G.O.D-幻想世纪(英译版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\G.O.D-幻想世纪(英译版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\G.O.D-幻想世纪(英译版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\GO!GO!恶魔少年\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\GO!GO!恶魔少年\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\GO!GO!恶魔少年\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\JoJo的奇妙冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\JoJo的奇妙冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\JoJo的奇妙冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战5\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战5\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\SD英雄之挑战5\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\X地带\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\X地带\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\X地带\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\X战警：变种启示录\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\X战警：变种启示录\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\X战警：变种启示录\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\丁丁在西藏\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\丁丁在西藏\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\丁丁在西藏\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\三国志英杰传\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\三国志英杰传\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\三国志英杰传\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\三星幻界\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\三星幻界\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\三星幻界\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\乱马爆裂乱斗篇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\乱马爆裂乱斗篇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\乱马爆裂乱斗篇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\亚当斯一家\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\亚当斯一家\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\亚当斯一家\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\任天堂侦探俱乐部2-站在身后的少女\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\任天堂侦探俱乐部2-站在身后的少女\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\任天堂侦探俱乐部2-站在身后的少女\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏3汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏3汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏3汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏5\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏5\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\伊苏5\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\传说战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\传说战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\传说战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\侍魂\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\侍魂\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\侍魂\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\侏罗纪公园2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\侏罗纪公园2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\侏罗纪公园2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\修罗战士 钢\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\修罗战士 钢\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\修罗战士 钢\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\假面骑士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\假面骑士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\假面骑士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\僵尸邻居1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\僵尸邻居1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\僵尸邻居1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\僵尸邻居2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\僵尸邻居2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\僵尸邻居2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\光伞传说\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\光伞传说\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\光伞传说\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\光脚阿迪\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\光脚阿迪\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\光脚阿迪\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\兔宝宝历险记之古怪运动会\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\兔宝宝历险记之古怪运动会\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\兔宝宝历险记之古怪运动会\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\兔宝宝大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\兔宝宝大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\兔宝宝大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\兵蜂\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\兵蜂\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\兵蜂\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\兵蜂之彩虹铃铛大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\兵蜂之彩虹铃铛大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\兵蜂之彩虹铃铛大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\再生侠\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\再生侠\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\再生侠\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\冠军桌球\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\冠军桌球\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\冠军桌球\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\创世封魔录\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\创世封魔录\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\创世封魔录\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\前线任务\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\前线任务\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\前线任务\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\前线任务外传-枪之危机\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\前线任务外传-枪之危机\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\前线任务外传-枪之危机\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\剑勇传说\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\剑勇传说\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\剑勇传说\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\剑王之王2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\剑王之王2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\剑王之王2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙1+2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙1+2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙1+2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙6\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙6\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\勇者斗恶龙6\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\北斗神拳7\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\北斗神拳7\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\北斗神拳7\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\南国少年\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\南国少年\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\南国少年\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\卡比滚球\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\卡比滚球\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\卡比滚球\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\卡比魔法气泡\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\卡比魔法气泡\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\卡比魔法气泡\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\印第安纳琼斯的伟大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\印第安纳琼斯的伟大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\印第安纳琼斯的伟大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\双截龙4 回归\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\双截龙4 回归\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\双截龙4 回归\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\双截龙5\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\双截龙5\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\双截龙5\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\变相怪杰\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\变相怪杰\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\变相怪杰\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\古城救美\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\古城救美\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\古城救美\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\史努比音乐会\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\史努比音乐会\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\史努比音乐会\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\吃豆小精灵2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\吃豆小精灵2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\吃豆小精灵2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\名将\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\名将\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\名将\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\吞食天地3 三国志群雄传\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\吞食天地3 三国志群雄传\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\吞食天地3 三国志群雄传\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\哆啦A梦4-大雄和月之王国\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\哆啦A梦4-大雄和月之王国\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\哆啦A梦4-大雄和月之王国\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\唐老鸭大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\唐老鸭大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\唐老鸭大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\唐老鸭的魔法帽\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\唐老鸭的魔法帽\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\唐老鸭的魔法帽\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\四国战机\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\四国战机\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\四国战机\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\四狂神战记2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\四狂神战记2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\四狂神战记2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\国际超级足球赛豪华版\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\国际超级足球赛豪华版\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\国际超级足球赛豪华版\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\圆桌骑士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\圆桌骑士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\圆桌骑士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣兽魔传-怪兽和刀刃\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣兽魔传-怪兽和刀刃\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣兽魔传-怪兽和刀刃\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣剑传说2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣剑传说2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣剑传说2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣剑传说3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣剑传说3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣剑传说3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣灵珠传说2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣灵珠传说2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣灵珠传说2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣龙战记\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣龙战记\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\圣龙战记\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\地底魔神\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\地底魔神\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\地底魔神\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\塞尔达传说 三角力量\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\塞尔达传说 三角力量\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\塞尔达传说 三角力量\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\外星特警2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\外星特警2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\外星特警2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\多拉米的幻想\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\多拉米的幻想\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\多拉米的幻想\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大冒险岛1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大冒险岛1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大冒险岛1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大冒险岛2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大冒险岛2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大冒险岛2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大力工头\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大力工头\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大力工头\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大卫克拉尼网球\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大卫克拉尼网球\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大卫克拉尼网球\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大盗伍佑卫门4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大相扑-立身出世篇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大相扑-立身出世篇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大相扑-立身出世篇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\大老二繁体汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\大老二繁体汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\大老二繁体汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\天使之翼5\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\天使之翼5\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\天使之翼5\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\天使之诗(英译版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\天使之诗(英译版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\天使之诗(英译版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\天圣龙\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\天圣龙\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\天圣龙\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\天地创造\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\天地创造\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\天地创造\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\天地无用\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\天地无用\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\天地无用\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\天外魔境ZERO\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\天外魔境ZERO\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\天外魔境ZERO\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\天龙斩\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\天龙斩\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\天龙斩\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空争霸\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空争霸\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空争霸\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空侵略者(原版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空侵略者(原版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空侵略者(原版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空战斗机 力量\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空战斗机 力量\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空战斗机 力量\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空战斗机 双子\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空战斗机 双子\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\太空战斗机 双子\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\失落的维京人\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\失落的维京人\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\失落的维京人\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇奇怪界1-漆黑斗篷之谜\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇奇怪界1-漆黑斗篷之谜\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇奇怪界1-漆黑斗篷之谜\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇奇怪界2-月夜草子\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇奇怪界2-月夜草子\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇奇怪界2-月夜草子\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇异猴子们的宝岛\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇异猴子们的宝岛\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\奇异猴子们的宝岛\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\如梦似幻繁体汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\如梦似幻繁体汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\如梦似幻繁体汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\宇宙巡航机3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\宇宙巡航机3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\宇宙巡航机3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\安妮之梦\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\安妮之梦\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\安妮之梦\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\实况NBA\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\实况NBA\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\实况NBA\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\小讨厌 梦幻仙境汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\小讨厌 梦幻仙境汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\小讨厌 梦幻仙境汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\屠龙战士(英译版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\屠龙战士(英译版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\屠龙战士(英译版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\巫术1+2+3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\巫术1+2+3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\巫术1+2+3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\巫术6禁断的魔笔\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\巫术6禁断的魔笔\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\巫术6禁断的魔笔\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\巴巴罗萨汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\巴巴罗萨汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\巴巴罗萨汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\幸运的卢克\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\幸运的卢克\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\幸运的卢克\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\幻想传说(英译版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\幻想传说(英译版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\幻想传说(英译版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\异形对铁血战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\异形对铁血战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\异形对铁血战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\异形战机3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\异形战机3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\异形战机3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者小子\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者小子\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者小子\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者战士 归来\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者战士 归来\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者战士 归来\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者神龟4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者神龟4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者神龟4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者神龟5\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者神龟5\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者神龟5\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者蛙\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者蛙\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者蛙\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者蛙和双截龙\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者蛙和双截龙\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者蛙和双截龙\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者龙剑传合集\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者龙剑传合集\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\忍者龙剑传合集\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事2 乱\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事2 乱\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事2 乱\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事3 修罗\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事3 修罗\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打刑事3 修罗\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\快打旋风3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\怒之要塞\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\怒之要塞\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\怒之要塞\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\恶梦毁灭者\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\恶梦毁灭者\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\恶梦毁灭者\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\恶魔城XX\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\恶魔城XX\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\恶魔城XX\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\惑星引导者(英译版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\惑星引导者(英译版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\惑星引导者(英译版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\战区88\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\战区88\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\战区88\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\战国传承\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\战国传承\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\战国传承\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\战斗原始人3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\战斗原始人3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\战斗原始人3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\战斗潜水艇汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\战斗潜水艇汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\战斗潜水艇汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\拉普拉斯之魔\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\拉普拉斯之魔\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\拉普拉斯之魔\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\摇滚赛车\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\摇滚赛车\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\摇滚赛车\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\救火战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\救火战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\救火战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\救火英雄\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\救火英雄\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\救火英雄\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\斗姬传\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\斗姬传\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\斗姬传\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\斩3汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\斩3汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\斩3汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\斯皮鲁\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\斯皮鲁\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\斯皮鲁\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\新机动战记高达W无尽的决斗\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\新机动战记高达W无尽的决斗\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\新机动战记高达W无尽的决斗\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\新热血硬派\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\新热血硬派\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\新热血硬派\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\旅梦人 盗不走的宝石汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\旅梦人 盗不走的宝石汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\旅梦人 盗不走的宝石汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\旅鼠总动员2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\旅鼠总动员2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\旅鼠总动员2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\无人岛物语\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\无人岛物语\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\无人岛物语\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\日落骑士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\日落骑士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\日落骑士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\旧约女神转生\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\旧约女神转生\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\旧约女神转生\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空之轮\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空之轮\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空之轮\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空勇士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空勇士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空勇士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空战警\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空战警\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\时空战警\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\星之卡比3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\星之卡比3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\星之卡比3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\星之海洋(英译版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\星之海洋(英译版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\星之海洋(英译版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\星间游侠2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\星间游侠2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\星间游侠2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\星际火狐1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\星际火狐1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\星际火狐1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\星际火狐2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\星际火狐2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\星际火狐2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\普罗克大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\普罗克大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\普罗克大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\智王传说之公主战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\智王传说之公主战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\智王传说之公主战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\暗影狂奔\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\暗影狂奔\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\暗影狂奔\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\暴力刑警\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\暴力刑警\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\暴力刑警\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想5\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想5\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想5\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想6\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想6\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想6\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想之神秘历险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想之神秘历险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\最终幻想之神秘历险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\未来骑警R2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\未来骑警R2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\未来骑警R2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\机械战警3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\机械战警3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\机械战警3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\机械战警对终结者\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\机械战警对终结者\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\机械战警对终结者\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\杀手学堂\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\杀手学堂\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\杀手学堂\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\杰利小子2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\杰利小子2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\杰利小子2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\极上沙罗曼蛇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\极上沙罗曼蛇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\极上沙罗曼蛇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\桌球大亨\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\桌球大亨\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\桌球大亨\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\梦幻模拟战Der\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\梦幻模拟战Der\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\梦幻模拟战Der\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\横山光辉三国志汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\横山光辉三国志汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\横山光辉三国志汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\正义之纹章\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\正义之纹章\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\正义之纹章\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\武器领主\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\武器领主\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\武器领主\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭武器\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭武器\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭武器\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭骑兵\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭骑兵\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\毁灭骑兵\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\水管梦想曲\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\水管梦想曲\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\水管梦想曲\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\永远的法莲娜\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\永远的法莲娜\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\永远的法莲娜\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\永远的神秘\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\永远的神秘\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\永远的神秘\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\沉船危机\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\沉船危机\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\沉船危机\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\波斯王子2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\波斯王子2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\波斯王子2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人7\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人7\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人7\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人X3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人与佛鲁迪\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人与佛鲁迪\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\洛克人与佛鲁迪\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\浪漫沙加3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\浪漫沙加3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\浪漫沙加3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\海风之鼓动(英译版)\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\海风之鼓动(英译版)\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\海风之鼓动(英译版)\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\激突弹丸机动车决战\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\激突弹丸机动车决战\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\激突弹丸机动车决战\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\激走战队\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\激走战队\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\激走战队\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\灌篮高手2汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\灌篮高手2汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\灌篮高手2汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\灌篮高手SD升温\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\灌篮高手SD升温\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\灌篮高手SD升温\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章3 纹章之谜\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章3 纹章之谜\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章3 纹章之谜\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章4 圣战之系谱\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章4 圣战之系谱\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章4 圣战之系谱\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章5 多拉基亚776\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章5 多拉基亚776\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\火焰之纹章5 多拉基亚776\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\火箭骑士2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\火箭骑士2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\火箭骑士2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\热血高校躲避球全员集合\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\热血高校躲避球全员集合\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\热血高校躲避球全员集合\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\爆裂斗球\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\爆裂斗球\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\爆裂斗球\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\牧场物语\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\牧场物语\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\牧场物语\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\特技立体赛车\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\特技立体赛车\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\特技立体赛车\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\狮子王\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\狮子王\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\狮子王\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\王子外传\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\王子外传\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\王子外传\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\瑜伽熊\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\瑜伽熊\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\瑜伽熊\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\瓦里奥之森\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\瓦里奥之森\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\瓦里奥之森\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\电精\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\电精\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\电精\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\电脑战机\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\电脑战机\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\电脑战机\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\白痴殿下总动员\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\白痴殿下总动员\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\白痴殿下总动员\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\皇家骑士团1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\皇家骑士团1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\皇家骑士团1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\皇家骑士团2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\皇家骑士团2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\皇家骑士团2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\盖亚幻想纪\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\盖亚幻想纪\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\盖亚幻想纪\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\真人快打2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\真人快打2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\真人快打2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\真人快打3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\真人快打3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\真人快打3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生if\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生if\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\真女神转生if\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\神奇J计划\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\神奇J计划\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\神奇J计划\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\神秘的约柜\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\神秘的约柜\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\神秘的约柜\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\秀斗魔导士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\秀斗魔导士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\秀斗魔导士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\秘境魔宝\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\秘境魔宝\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\秘境魔宝\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\童话物语\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\童话物语\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\童话物语\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\第3次超级机器人大战\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\第3次超级机器人大战\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\第3次超级机器人大战\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\第4次超级机器人大战\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\第4次超级机器人大战\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\第4次超级机器人大战\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠与唐老鸭3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠与唐老鸭3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠与唐老鸭3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠东京迪士尼大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠东京迪士尼大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠东京迪士尼大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠魔法传说\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠魔法传说\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\米老鼠魔法传说\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\紫炎\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\紫炎\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\紫炎\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\绀碧之舰队\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\绀碧之舰队\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\绀碧之舰队\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\终结者2 审判日\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\终结者2 审判日\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\终结者2 审判日\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\罗德岛战记\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\罗德岛战记\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\罗德岛战记\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\美少女战士-另一个故事\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\美少女战士-另一个故事\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\美少女战士-另一个故事\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\美法兰传说\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\美法兰传说\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\美法兰传说\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\美食战队-蔷薇野郎\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\美食战队-蔷薇野郎\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\美食战队-蔷薇野郎\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\耀西岛\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\耀西岛\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\耀西岛\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\花仙子方块\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\花仙子方块\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\花仙子方块\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\英雄圣战1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\英雄圣战1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\英雄圣战1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\英雄圣战2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\英雄圣战2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\英雄圣战2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\荒野双枪\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\荒野双枪\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\荒野双枪\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\蓬莱学园大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\蓬莱学园大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\蓬莱学园大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\虚幻之梦\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\虚幻之梦\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\虚幻之梦\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\蚯蚓战士1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\蚯蚓战士1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\蚯蚓战士1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\蚯蚓战士2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\蚯蚓战士2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\蚯蚓战士2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\蜡笔小新1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\蜡笔小新1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\蜡笔小新1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\蜡笔小新2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\蜡笔小新2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\蜡笔小新2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\蝙蝠侠与罗宾\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\蝙蝠侠与罗宾\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\蝙蝠侠与罗宾\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头赛车\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头赛车\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头赛车\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王 ZERO2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王 ZERO2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王 ZERO2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王2 SUPER\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王2 SUPER\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王2 SUPER\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王2 TURBO\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王2 TURBO\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\街头霸王2 TURBO\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\西部英豪-枪手的考验\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\西部英豪-枪手的考验\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\西部英豪-枪手的考验\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\豪枪神雷传说\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\豪枪神雷传说\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\豪枪神雷传说\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\豪血寺一族\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\豪血寺一族\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\豪血寺一族\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\财宝猎人G\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\财宝猎人G\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\财宝猎人G\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\资讯骑士2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\资讯骑士2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\资讯骑士2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\赏金之剑\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\赏金之剑\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\赏金之剑\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\起始之森\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\起始之森\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\起始之森\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超人绝处逢生\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超人绝处逢生\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超人绝处逢生\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超原人\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超原人\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超原人\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级坦克2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级坦克2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级坦克2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级大金刚3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级忍者君\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级忍者君\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级忍者君\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级恶魔城4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级恶魔城4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级恶魔城4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级战士2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级战士2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级战士2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级拳无虚发\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级拳无虚发\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级拳无虚发\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战之帝国反击战\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战之帝国反击战\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战之帝国反击战\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战之武士复仇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战之武士复仇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级星球大战之武士复仇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级机器人大战EX汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级机器人大战EX汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级机器人大战EX汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人5\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人5\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级炸弹人5\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级独轮车\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级独轮车\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级独轮车\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级联合部队\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级联合部队\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级联合部队\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级追击HQ\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级追击HQ\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级追击HQ\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级银河战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级银河战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级银河战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥1-3\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥1-3\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥1-3\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥4\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥RPG七星传奇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥RPG七星传奇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥RPG七星传奇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥医生\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥医生\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥医生\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥拆屋工\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥拆屋工\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥拆屋工\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥赛车\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥赛车\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超级马里奥赛车\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超越巅峰2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超越巅峰2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超越巅峰2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超钢战机\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超钢战机\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超钢战机\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超魔法大陆Wozz\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超魔法大陆Wozz\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超魔法大陆Wozz\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\超魔界村\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\超魔界村\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\超魔界村\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\越空狂龙\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\越空狂龙\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\越空狂龙\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\跆拳道\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\跆拳道\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\跆拳道\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\达摩道场\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\达摩道场\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\达摩道场\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\近郊冒险队\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\近郊冒险队\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\近郊冒险队\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\迦楼罗王\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\迦楼罗王\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\迦楼罗王\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\逃离异世界\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\逃离异世界\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\逃离异世界\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\邦克猫\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\邦克猫\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\邦克猫\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\酷小子\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\酷小子\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\酷小子\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵R\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵R\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵R\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵瓦尔肯汉化\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵瓦尔肯汉化\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\重装机兵瓦尔肯汉化\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\金属机器人战记\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\金属机器人战记\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\金属机器人战记\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\钓鱼太郎1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\钓鱼太郎1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\钓鱼太郎1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\钓鱼太郎2-川钓太郎\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\钓鱼太郎2-川钓太郎\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\钓鱼太郎2-川钓太郎\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\钟楼\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\钟楼\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\钟楼\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\钢铁战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\钢铁战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\钢铁战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\铁头战士\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\铁头战士\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\铁头战士\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河战国群雄传\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河战国群雄传\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河战国群雄传\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河风暴\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河风暴\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河风暴\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河飞将 秘密任务\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河飞将 秘密任务\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\银河飞将 秘密任务\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\锁定目标\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\锁定目标\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\锁定目标\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\错乱时空\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\错乱时空\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\错乱时空\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\闪电出击\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\闪电出击\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\闪电出击\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\阿拉丁\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\阿拉丁\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\阿拉丁\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\除灵师 GS 美神\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\除灵师 GS 美神\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\除灵师 GS 美神\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\隐逝的黑暗\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\隐逝的黑暗\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\隐逝的黑暗\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\零式特攻队\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\零式特攻队\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\零式特攻队\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\零式赛车\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\零式赛车\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\零式赛车\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷电传说\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷电传说\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷电传说\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷莎出击1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷莎出击1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷莎出击1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷莎出击2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷莎出击2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\雷莎出击2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\露卡大冒险\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\露卡大冒险\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\露卡大冒险\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\音速快击手2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\音速快击手2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\音速快击手2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\风来的西林\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\风来的西林\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\风来的西林\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\风水回廊记\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\风水回廊记\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\风水回廊记\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞行俱乐部\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞行俱乐部\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞行俱乐部\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞行英雄\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞行英雄\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞行英雄\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞跃星光草原\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞跃星光草原\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\飞跃星光草原\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\饿狼传说特别版\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\饿狼传说特别版\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\饿狼传说特别版\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\首都高速赛车94\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\首都高速赛车94\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\首都高速赛车94\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\高飞狗\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\高飞狗\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\高飞狗\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\鬼神童子-烈斗雷传\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\鬼神童子-烈斗雷传\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\鬼神童子-烈斗雷传\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魂斗罗3 精神\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魂斗罗3 精神\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魂斗罗3 精神\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔兽大战-虹色之魔石\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔兽大战-虹色之魔石\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔兽大战-虹色之魔石\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔兽王\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔兽王\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔兽王\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔剑\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔剑\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔剑\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔剑道\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔剑道\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔剑道\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔天传说\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔天传说\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔天传说\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔幻精灵卡\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔幻精灵卡\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔幻精灵卡\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔星迷踪2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔星迷踪2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔星迷踪2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法小子\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法小子\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法小子\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法师\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法师\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法师\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法提琴手\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法提琴手\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法提琴手\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法泡泡\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法泡泡\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔法泡泡\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔界村外传-纹章篇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔界村外传-纹章篇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔界村外传-纹章篇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔神转生2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔神转生2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔神转生2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔装机神\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔装机神\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\魔装机神\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\鲁多拉秘宝\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\鲁多拉秘宝\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\鲁多拉秘宝\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\鸟人战队1\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\鸟人战队1\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\鸟人战队1\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\鸟人战队2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\鸟人战队2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\鸟人战队2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\黑水海盗\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\黑水海盗\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\黑水海盗\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\黑色荆棘\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\黑色荆棘\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\黑色荆棘\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 极度空间\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 极度空间\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 极度空间\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 超悟空传 突激篇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 超悟空传 突激篇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 超悟空传 突激篇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 超悟空传 觉醒篇\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 超悟空传 觉醒篇\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙珠Z 超悟空传 觉醒篇\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙虎之拳2\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙虎之拳2\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙虎之拳2\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙骑兵团\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙骑兵团\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙骑兵团\video.mp4 (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙骑士4\boxFront.jpg (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙骑士4\logo.png (未做更改)
+无前缀: D:\AllRoms\SFC\media\龙骑士4\video.mp4 (未做更改)
+--------------------------------------------------------------------------------
+结束时间: 2025-05-20 17:15:01
+耗时: 0:00:00.429433
+实际去除前缀 1293 个文件
