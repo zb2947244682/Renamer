@@ -1,64 +1,52 @@
-# 文件批量重命名工具
+# Renamer 批量文件处理工具集
 
-这是一个简单的Python程序，用于递归重命名指定目录下的所有文件，根据文件名首字母或拼音首字母添加前缀。
+## 项目简介
+本项目提供了一组用于批量处理文件名的Python工具，适用于 Windows 和 Linux（Ubuntu 24）环境，支持文件名前缀的批量添加、去除，以及目录文件列表的导出。
 
-## 功能
+## 功能说明
+- **renamer.py**：批量为文件名添加"首字母+空格"前缀（支持中文拼音首字母），可选择预览或实际重命名。
+- **remove_prefix.py**：批量去除文件名的"单大写字母+空格"前缀，支持预览和日志。
+- **list_files.py**：导出当前目录下所有文件（排除bat、txt、ps1脚本）的完整文件名列表，支持输出到剪贴板或txt文件。
 
-- 递归处理指定目录下的所有文件
-- 自动识别中文文件名，使用拼音首字母作为前缀
-- 非中文文件名使用首字母作为前缀
-- 支持预览模式，可以在实际重命名前查看效果
-- 自动检测并移除已有的字母前缀，防止重复添加
-- 自动记录重命名操作日志，保存到程序目录下的log.txt文件
+## 环境依赖
+- Python 3.7 及以上
+- 依赖包：
+  - pypinyin
+  - pyperclip
 
-## 安装依赖
-
-```bash
+安装依赖：
+```shell
 pip install -r requirements.txt
 ```
 
-## 使用方法
+## 各脚本用法
 
-```bash
-python renamer.py [-d 目录路径] [-p]
+### 1. 批量添加前缀（renamer.py）
+```shell
+python renamer.py -d 目录路径           # 实际重命名
+python renamer.py -d 目录路径 -p        # 预览模式，不实际重命名
 ```
+- 日志输出在脚本同目录下的 `log.txt`
 
-### 参数说明
-
-- `-d`, `--directory`: 指定要处理的目录路径（默认: D:\Roms\ExcellentRoms）
-- `-p`, `--preview`: 预览模式，不实际重命名文件，仅显示将要进行的更改
-
-### 示例
-
-使用默认目录:
-```bash
-python renamer.py
+### 2. 批量去除前缀（remove_prefix.py）
+```shell
+python remove_prefix.py -d 目录路径           # 实际去除前缀
+python remove_prefix.py -d 目录路径 -p        # 预览模式，不实际重命名
 ```
+- 日志输出在脚本同目录下的 `remove_prefix_log.txt`
 
-指定目录:
-```bash
-python renamer.py -d "D:\我的文件\游戏"
+### 3. 导出文件列表（list_files.py）
+```shell
+python list_files.py -d 目录路径              # 输出到剪贴板
+python list_files.py -d 目录路径 -o 文件名.txt # 输出到指定txt文件
 ```
+- 默认输出到剪贴板（需已安装pyperclip），如未安装会有提示。
+- 只导出当前目录下的文件，不递归，不包含目录，排除bat、txt、ps1文件。
 
-预览模式:
-```bash
-python renamer.py -p
-```
+## 注意事项
+- Windows 下建议用 PowerShell 或 CMD 运行脚本。
+- Ubuntu 下直接用终端运行。
+- 文件操作涉及重命名，请提前备份重要数据。
 
-## 重命名规则
-
-- 例如: `牧场物语.gba` 将被重命名为 `M 牧场物语.gba`（M是"牧"的拼音首字母）
-- 例如: `Final Fantasy.iso` 将被重命名为 `F Final Fantasy.iso`
-- 如果文件已经有前缀，如 `Z 战神.iso`，程序会先移除旧前缀，然后添加正确的前缀: `Z 战神.iso` -> `Z 战神.iso`
-
-## 日志记录
-
-程序运行时会自动记录所有操作，并将日志保存到程序所在目录下的`log.txt`文件中。日志内容包括：
-
-- 开始和结束时间
-- 处理目录
-- 运行模式（预览或实际重命名）
-- 每个文件的处理结果
-- 操作统计信息（总耗时、处理文件数量）
-
-每次运行程序时，日志文件会被覆盖 
+---
+如有问题或建议，欢迎反馈！ 
