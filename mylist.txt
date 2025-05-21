@@ -8,7 +8,7 @@ Cosmo Police Galivan II - Arrow of Justice (Japan).sfc
 Darius Twin 无限人数[WXRS].smc
 f f-zero 零式赛车 能量和人数[LSSCNLHRS].smc
 F-ZERO Grand Prix 2POWER不減99命(J)[BJ99M].smc
-F-ZERO Grand Prix 无限命及P不减[WXMJBJ].smc
+F-ZERO Grand Prix 无限命及P不减[WXMJBJ].smcD
 F1大奖赛3[DJS3].smc
 FIFA国际足球[GJZQ].smc
 G.O.D-幻想世纪(英译版).sfc
